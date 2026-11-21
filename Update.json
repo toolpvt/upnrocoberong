@@ -1,30 +1,25 @@
 {
-  "Version": "5.0",
-  "Notification": "Sửa size Thông báo boss và skill thôi miên hụt khi tàn sát.",
+  "Version": "3.0",
+  "Notification": "Thêm map+ gom item.",
   "Update": [
     {
-      "Name": "toolpvt.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/toolpvt.jar",
-      "Path": "\\"
-    },
-    {
-      "Name": "pvtclient.jar",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/pvtclient.jar",
+      "Name": "TOOLPVT.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/upnrocoberong/main/TOOLPVT.exe",
       "Path": "\\"
     },
     {
       "Name": "TOOL_UPSM.exe",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/TOOL_UPSM.exe",
+      "Link": "https://raw.githubusercontent.com/toolpvt/upnrocoberong/main/TOOL_UPSM.exe",
       "Path": "\\"
     },
     {
       "Name": "iditem.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/iditem.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/upnrocoberong/main/iditem.txt",
       "Path": "\\"
     },
     {
       "Name": "mapid.txt",
-      "Link": "https://raw.githubusercontent.com/toolpvt/UpHsnr/main/mapid.txt",
+      "Link": "https://raw.githubusercontent.com/toolpvt/upnrocoberong/main/mapid.txt",
       "Path": "\\"
     }
   ]
