@@ -76,7 +76,7 @@
 75: Khe núi tử thần
 76: Núi đá
 77: Rừng đá
-78: Lãnh  địa Fize
+78: Lãnh địa Fize
 79: Núi khỉ đỏ
 80: Núi khỉ vàng
 81: Hang quỷ chim
@@ -89,7 +89,7 @@
 88: Hành tinh Monmaasu
 89: Hành tinh Rudeeze
 90: Hành tinh Gelbo
-91: Hành Tinh Giải Đấu
+91: Hành tinh Tigere
 92: Thành phố phía đông
 93: Thành phố phía nam
 94: Đảo Balê
@@ -119,20 +119,20 @@
 118: Cửa Ải 2
 119: Cửa Ải 3
 120: Phòng chỉ huy
-121: Đấu trường
-122: Địa Huyệt Ma Chu
-123: Tinh Đấu Đại Sâm Lâm
-124: Rừng Lạc Nhật
-125: Võ đài Bang
+121: 121
+122: Ngũ Hành Sơn
+123: Ngũ Hành Sơn
+124: Ngũ Hành Sơn
+125: 125
 126: Thành phố Santa
 127: Cổng phi thuyền
 128: Bụng Mabư
 129: Đại hội võ thuật
-130: Đại hội võ thuật Vũ Trụ
+130: 130
 131: Hành Tinh Yardart
 132: Hành Tinh Yardart 2
-133: Tàn Sát Đêm Trăng
-134: Đại hội võ thuật Vũ Trụ 6-7
+133: Hành Tinh Yardart 3
+134: Rừng nấm 2
 135: Động hải tặc
 136: Hang Bạch Tuộc
 137: Động kho báu
@@ -148,88 +148,47 @@
 147: Sa mạc
 148: Lâu đài Lychee
 149: Thành phố Santa
-150: Lôi Đài
+150: Bãi câu cá
 151: Hành tinh bóng tối
 152: Vùng đất băng giá
-153: Lãnh địa bang hội
+153: Lãnh địa Bang Hội
 154: Hành tinh Bill
-155: Nhà tù Hồi sinh ngọc rồng
-156: Rừng thần mộc
-157: Cốc vong xuyên
-158: Đảo Băng Hà
-159: Map Băng 
-160: Hang động kho báu
-161: Mùa hè sôi động
-162: Trái Đất Hủy Diệt
-163: Namec Thánh Kiếm
-164: Xayda Độc Tôn
-165: Bản Mơ
-166: Bản Mây
-167: Bản Mộc
-168: Map Mới
-169: Map 1
-170: Map 2 
-171: Map 3
-172: Làng Aru mới
-173: Làng Mori mới
-174: Làng Kakarot mới
-175: Ngôi làng giáng sinh
-176: Cánh rừng băng giá
-177: Thị trấn tuyết rơi
-178: Ngôi làng giáng sinh
-179: Cánh rừng băng giá
-180: Thị trấn tuyết rơi
-181: Khu Vườn Lộc Phát
-182: Vùng Đất Thần Tài
-183: Đường Lồng Đèn
-184: Thị Trấn Ác Mộng
-185: Ảo Mộng Tương Lai 1
-186: Ảo Mộng Tương Lai 2
-187: Ảo Mộng Tương Lai 3
-188: Map 5
-189: Tầng 5
-190: Tầng 6
-191: Map sự kiện Vua Hùng
-192: Map Văn Lang 1
-193: Map Văn Lang 2
-194: Map Văn Lang 3
-195: Map 1
-196: Map 2
-197: Map 3
-198: Map 4
-199: Map 5
-200: Map 6
-201: Map 7
-202: Việt Nam Độc Lập
-203: Demo
-204: Vùng Đất Siêu Cấp
-205: Vùng Đất Siêu Cấp
-206: Thung Lũng Tập Sự
-207: Rồng Omega 1
-208: Đảo Cô Hồn
-209: Rồng Omega 2
-210: Đảo Cô Hồn 2
-211: Thị Trấn Ác Mộng SC
-212: Đảo Hè King Kong 1
-213: Đảo Hè King Kong 2
-214: Đấu Trường Siêu Hạng
-215: Động Phủ Yêu Thú
-216: Fide Viễn Cổ
-217: Fide Viễn Cổ
-218: Map SK Trung Thu 1
-219: Map SK Trung Thu 2
-220: Hồ câu Kòi Ốc Tiêu
-221: Pháo Đài Siêu Cấp
-222: Đêm Hội Halloween
-223: Map SK 20/11
-224: Map SK 20/11
-225: Map skill 9_1
-226: Map skill 9
-227: Map SK Noel
-228: Map SK Noel
-229: Map Boss Noel Trái Đất
-230: Map Boss Noel Namek
-231: Map Boss Noel Xayda
-232: Map Tết 2026
-233: Map Tết 2026
-234: Siêu Thị Tết 2026
+155: Hành tinh ngục tù
+156: Tây thánh địa
+157: Đông thánh Địa
+158: Bắc thánh địa
+159: Nam thánh Địa
+160: Khu hang động
+161: Bìa rừng nguyên thủy
+162: Rừng nguyên thủy
+163: Làng Plant nguyên thủy
+164: Khu luyện tập Trái Đất
+165: Hành tinh ngục tù 2
+166: Hành Tinh Đặc Cầu
+167: Hành tinh ngục tù 3
+168: Rừng xương 2
+169: Vùng Đất Hủy Diệt
+170: Thung Lũng Hủy Diệt
+171: Ngọn Đồi Hủy Diệt
+172: Rừng xương 2
+173: Siêu thị Huyền Bí
+174: Địa Ngục
+175: Hành Tinh Vampa
+176: Cung Trăng
+177: Rừng Cây
+178: Vùng Đất Huyền Thoại
+179: Địa Ngục 2
+180: Địa Ngục 3
+181: Vũ Trụ HIT
+182: Pseudo Universe
+183: Juventus
+184: Lãnh địa Bang Hội
+185: Phòng thí nghiệm Myuu
+186: Khu riêng tư
+187: Sa mạc hoang vu
+188: Trạm tàu Hủy Diệt Trái Đất
+189: Trạm tàu Hủy Diệt Namek
+190: Trạm tàu Hủy Diệt Xayda
+191: Tường thành cổ 1
+192: Tường thành cổ 2
+193: Đấu trường thành cổ

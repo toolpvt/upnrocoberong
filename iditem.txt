@@ -1,2185 +1,4123 @@
-0: Áo vải 3 lỗ - type: 0
-1: Áo sợi len - type: 0
-2: Áo vải thô - type: 0
-3: Áo vải dày - type: 0
-4: Áo len Pico - type: 0
-5: Áo giáp sắt - type: 0
-6: Quần vải đen - type: 1
-7: Quần sợi len - type: 1
-8: Quần vải thô - type: 1
-9: Quần vải dày - type: 1
-10: Quần vải thô Pico - type: 1
-11: Quần giáp sắt - type: 1
-12: Rada cấp 1 - type: 4
-13: Đậu thần cấp 1 - type: 6
-14: Ngọc Rồng 1 sao - type: 12
-15: Ngọc Rồng 2 sao - type: 12
-16: Ngọc Rồng 3 sao - type: 12
-17: Ngọc Rồng 4 sao - type: 12
-18: Ngọc Rồng 5 sao - type: 12
-19: Ngọc Rồng 6 sao - type: 12
-20: Ngọc Rồng 7 sao - type: 12
-21: Găng vải đen - type: 2
-22: Găng sợi len - type: 2
-23: Găng vải thô - type: 2
-24: Găng thun đen - type: 2
-25: Găng len Pico - type: 2
-26: Găng sắt - type: 2
-27: Giầy nhựa - type: 3
-28: Giầy sợi len - type: 3
-29: Giầy vải thô - type: 3
-30: Giầy cao su - type: 3
-31: Giầy nhựa Pico - type: 3
-32: Giầy sắt - type: 3
-33: Áo thun 3 lỗ - type: 0
-34: Áo thun dày - type: 0
-35: Quần thun đen - type: 1
-36: Quần thun dày - type: 1
-37: Găng vải dày - type: 2
-38: Găng thun dày - type: 2
-39: Giày nhựa đế dày - type: 3
-40: Giày cao su đế dày - type: 3
-41: Áo sợi gai - type: 0
-42: Áo thun Pico - type: 0
-43: Quần sợi gai - type: 1
-44: Quần thun Pico - type: 1
-45: Găng thun Pico - type: 2
-46: Găng sợi gai - type: 2
-47: Giầy sợi gai - type: 3
-48: Giầy cao su Pico - type: 3
-49: Áo thun thô - type: 0
-50: Áo giáp đồng - type: 0
-51: Quần thun thô - type: 1
-52: Quần giáp đồng - type: 1
-53: Găng thun thô - type: 2
-54: Găng đồng - type: 2
-55: Giầy cao su thô - type: 3
-56: Giầy đồng - type: 3
-57: Rada cấp 2 - type: 4
-58: Rada cấp 3 - type: 4
-59: Rada cấp 4 - type: 4
-60: Đậu thần cấp 2 - type: 6
-61: Đậu thần cấp 3 - type: 6
-62: Đậu thần cấp 4 - type: 6
-63: Đậu thần cấp 5 - type: 6
-64: Đậu thần cấp 6 - type: 6
-65: Đậu thần cấp 7 - type: 6
-66: Sách đấm Dragon lv1 - type: 7
-67: Sách đấm Dragon lv2 - type: 7
-68: Sách đấm Dragon lv3 - type: 7
-69: Sách đấm Dragon lv4 - type: 7
-70: Sách đấm Dragon lv5 - type: 7
-71: Sách đấm Dragon lv6 - type: 7
-72: Sách đấm Dragon lv7 - type: 7
-73: Đùi gà - type: 8
-74: Đùi gà nướng - type: 27
-75: Đùi heo Xayda - type: 8
-76: Vàng - type: 9
-77: Ngọc - type: 10
-78: Đứa bé - type: 11
-79: Sách đấm Demon lv1 - type: 7
-80: Sách đấm Demon lv2 - type: 7
-81: Sách đấm Demon lv3 - type: 7
-82: Sách đấm Demon lv4 - type: 7
-83: Sách đấm Demon lv5 - type: 7
-84: Sách đấm Demon lv6 - type: 7
-85: Truyện tranh - type: 8
-86: Sách đấm Demon lv7 - type: 7
-87: Sách đấm Galick lv1 - type: 7
-88: Sách đấm Galick lv2 - type: 7
-89: Sách đấm Galick lv3 - type: 7
-90: Sách đấm Galick lv4 - type: 7
-91: Sách đấm Galick lv5 - type: 7
-92: Sách đấm Galick lv6 - type: 7
-93: Sách đấm Galick lv7 - type: 7
-94: Sách Kamejoko lv1 - type: 7
-95: Sách Kamejoko lv2 - type: 7
-96: Sách Kamejoko lv3 - type: 7
-97: Sách Kamejoko lv4 - type: 7
-98: Sách Kamejoko lv5 - type: 7
-99: Sách Kamejoko lv6 - type: 7
-100: Sách Kamejoko lv7 - type: 7
-101: Sách Masenko lv1 - type: 7
-102: Sách Masenko lv2 - type: 7
-103: Sách Masenko lv3 - type: 7
-104: Sách Masenko lv4 - type: 7
-105: Sách Masenko lv5 - type: 7
-106: Sách Masenko lv6 - type: 7
-107: Sách Masenko lv7 - type: 7
-108: Sách Antomic lv1 - type: 7
-109: Sách Antomic lv2 - type: 7
-110: Sách Antomic lv3 - type: 7
-111: Sách Antomic lv4 - type: 7
-112: Sách Antomic lv5 - type: 7
-113: Sách Antomic lv6 - type: 7
-114: Sách Antomic lv7 - type: 7
-115: Thái Dương Hạ San lv1 - type: 7
-116: Thái Dương Hạ San lv2 - type: 7
-117: Thái Dương Hạ San lv3 - type: 7
-118: Thái Dương Hạ San lv4 - type: 7
-119: Thái Dương Hạ San lv5 - type: 7
-120: Thái Dương Hạ San lv6 - type: 7
-121: Thái Dương Hạ San lv7 - type: 7
-122: Sách học Trị thương lv1 - type: 7
-123: Sách học Trị thương lv2 - type: 7
-124: Sách học Trị thương lv3 - type: 7
-125: Sách học Trị thương lv4 - type: 7
-126: Sách học Trị thương lv5 - type: 7
-127: Sách học Trị thương lv6 - type: 7
-128: Sách học Trị thương lv7 - type: 7
-129: Tái tạo năng lượng lv1 - type: 7
-130: Tái tạo năng lượng lv2 - type: 7
-131: Tái tạo năng lượng lv3 - type: 7
-132: Tái tạo năng lượng lv4 - type: 7
-133: Tái tạo năng lượng lv5 - type: 7
-134: Tái tạo năng lượng lv6 - type: 7
-135: Tái tạo năng lượng lv7 - type: 7
-136: Áo vải Kame - type: 0
-137: Áo thun Kame - type: 0
-138: Áo võ Kame - type: 0
-139: Áo võ Goku - type: 0
-140: Quần vải Kame - type: 1
-141: Quần thun Kame - type: 1
-142: Quần võ Kame - type: 1
-143: Quần võ goku - type: 1
-144: Găng vải Kame - type: 2
-145: Găng thun Kame - type: 2
-146: Găng võ Kame - type: 2
-147: Găng võ goku - type: 2
-148: Giày nhựa Kame - type: 3
-149: Giày cao su Kame - type: 3
-150: Giày võ kame - type: 3
-151: Giày võ goku - type: 3
-152: Áo choàng len - type: 0
-153: Áo choàng thun - type: 0
-154: Áo vải Pico - type: 0
-155: Áo da Pico - type: 0
-156: Quần len cứng - type: 1
-157: Quần thun cứng - type: 1
-158: Quần vải cứng Pico - type: 1
-159: Quần vải mềm Pico - type: 1
-160: Găng len cứng - type: 2
-161: Găng thun cứng - type: 2
-162: Găng vải Pico - type: 2
-163: Găng da Pico - type: 2
-164: Giày nhựa cứng - type: 3
-165: Giày cao su cứng - type: 3
-166: Giày da Pico - type: 3
-167: Giày sắt Pico - type: 3
-168: Áo giáp bạc - type: 0
-169: Áo giáp vàng - type: 0
-170: Áo lông Xayda - type: 0
-171: Áo khoác Xayda - type: 0
-172: Quần giáp bạc - type: 1
-173: Quần giáp vàng - type: 1
-174: Quần lông Xayda - type: 1
-175: Quần da Xayda - type: 1
-176: Găng bạc - type: 2
-177: Găng vàng - type: 2
-178: Găng lông Xayda - type: 2
-179: Găng da Xayda - type: 2
-180: Giày bạc - type: 3
-181: Giày vàng - type: 3
-182: Giày lông Xayda - type: 3
-183: Giày da Xayda - type: 3
-184: Rada cấp 5 - type: 4
-185: Rada cấp 6 - type: 4
-186: Rada cấp 7 - type: 4
-187: Rada cấp 8 - type: 4
-188: Vàng - type: 9
-189: Vàng - type: 9
-190: Vàng - type: 9
-191: Cà chua - type: 27
-192: Cà rốt - type: 27
-193: Gói 10 viên Capsule - type: 27
-194: Viên Capsule đặc biệt - type: 27
-195: Siêu thánh thủy - type: 27
-196: Avatar - type: 5
-197: Avatar - type: 5
-198: Avatar - type: 5
-199: Avatar - type: 5
-200: Avatar - type: 5
-201: Avatar - type: 5
-202: Avatar - type: 5
-203: Avatar - type: 5
-204: Avatar - type: 5
-205: Avatar - type: 5
-206: Avatar - type: 5
-207: Avatar - type: 5
-208: Avatar - type: 5
-209: Avatar - type: 5
-210: Avatar - type: 5
-211: Nho tím - type: 27
-212: Nho xanh - type: 27
-213: Bùa Trí Tuệ - type: 13
-214: Bùa Mạnh Mẽ - type: 13
-215: Bùa Da Trâu - type: 13
-216: Bùa Oai Hùng - type: 13
-217: Bùa Bất Tử - type: 13
-218: Bùa Dẻo Dai - type: 13
-219: Bùa Thu Hút - type: 13
-220: Đá lục bảo - type: 14
-221: Đá Saphia - type: 14
-222: Đá Ruby - type: 14
-223: Đá Titan - type: 14
-224: Đá thạch anh tím - type: 14
-225: Mảnh đá vụn - type: 15
-226: Bình nước phép - type: 16
-227: Avatar VIP - type: 5
-228: Avatar VIP - type: 5
-229: Avatar VIP - type: 5
-230: Áo bạc Goku - type: 0
-231: Áo vàng Goku - type: 0
-232: Áo da Calic - type: 0
-233: Áo jean Calic - type: 0
-234: Áo sắt Tron - type: 0
-235: Áo đồng Tron - type: 0
-236: Áo bạc Zealot - type: 0
-237: Áo vàng Zealot - type: 0
-238: Áo lông đỏ - type: 0
-239: Áo siêu xayda - type: 0
-240: Áo Kaio - type: 0
-241: Áo lưỡng long - type: 0
-242: Quần bạc Goku - type: 1
-243: Quần vàng Goku - type: 1
-244: Quần da Calic - type: 1
-245: Quần jean Calic - type: 1
-246: Quần sắt Tron - type: 1
-247: Quần đồng Tron - type: 1
-248: Quần bạc Zealot - type: 1
-249: Quần vàng Zealot - type: 1
-250: Quần lông đỏ - type: 1
-251: Quần siêu Xayda - type: 1
-252: Quần Kaio - type: 1
-253: Quần lưỡng long - type: 1
-254: Găng bạc Goku - type: 2
-255: Găng vàng Goku - type: 2
-256: Găng da Calic - type: 2
-257: Găng jean Calic - type: 2
-258: Găng sắt Tron - type: 2
-259: Găng đồng Tron - type: 2
-260: Găng bạc Zealot - type: 2
-261: Găng vàng Zealot - type: 2
-262: Găng lông đỏ - type: 2
-263: Găng siêu Xayda - type: 2
-264: Găng Kaio - type: 2
-265: Găng lưỡng long - type: 2
-266: Giày bạc Goku - type: 3
-267: Giày vàng Goku - type: 3
-268: Giày da Calic - type: 3
-269: Giày jean Calic - type: 3
-270: Giày sắt Tron - type: 3
-271: Giày đồng Tron - type: 3
-272: Giày bạc Zealot - type: 3
-273: Giày vàng Zealot - type: 3
-274: Giày lông đỏ - type: 3
-275: Giày siêu Xayda - type: 3
-276: Giày Kaio - type: 3
-277: Giày lưỡng long - type: 3
-278: Rada cấp 9 - type: 4
-279: Rada cấp 10 - type: 4
-280: Rada cấp 11 - type: 4
-281: Rada cấp 12 - type: 4
-282: Cải trang - type: 5
-283: Cải trang - type: 5
-284: Cải trang - type: 5
-285: Cải trang - type: 5
-286: Cải trang - type: 5
-287: Cải trang - type: 5
-288: Cải trang - type: 5
-289: Cải trang - type: 5
-290: Cải trang - type: 5
-291: Cải trang - type: 5
-292: Cải trang - type: 5
-293: Gói 30 đậu thần cấp 1 - type: 27
-294: Gói 30 đậu thần cấp 2 - type: 27
-295: Gói 30 đậu thần cấp 3 - type: 27
-296: Gói 30 đậu thần cấp 4 - type: 27
-297: Gói 30 đậu thần cấp 5 - type: 27
-298: Gói 30 đậu thần cấp 6 - type: 27
-299: Gói 30 đậu thần cấp 7 - type: 27
-300: Kaioken lv1 - type: 7
-301: Kaioken lv2 - type: 7
-302: Kaioken lv3 - type: 7
-303: Kaioken lv4 - type: 7
-304: Kaioken lv5 - type: 7
-305: Kaioken lv6 - type: 7
-306: Kaioken lv7 - type: 7
-307: Quả cầu Kênh Khi lv1 - type: 7
-308: Quả cầu Kênh Khi lv2 - type: 7
-309: Quả cầu Kênh Khi lv3 - type: 7
-310: Quả cầu Kênh Khi lv4 - type: 7
-311: Quả cầu Kênh Khi lv5 - type: 7
-312: Quả cầu Kênh Khi lv6 - type: 7
-313: Quả cầu Kênh Khi lv7 - type: 7
-314: Hóa khỉ khổng lồ lv1 - type: 7
-315: Hóa khỉ khổng lồ lv2 - type: 7
-316: Hóa khỉ khổng lồ lv3 - type: 7
-317: Hóa khỉ khổng lồ lv4 - type: 7
-318: Hóa khỉ khổng lồ lv5 - type: 7
-319: Hóa khỉ khổng lồ lv6 - type: 7
-320: Hóa khỉ khổng lồ lv7 - type: 7
-321: Bom hi sinh lv1 - type: 7
-322: Bom hi sinh lv2 - type: 7
-323: Bom hi sinh lv3 - type: 7
-324: Bom hi sinh lv4 - type: 7
-325: Bom hi sinh lv5 - type: 7
-326: Bom hi sinh lv6 - type: 7
-327: Bom hi sinh lv7 - type: 7
-328: Makankosappo lv1 - type: 7
-329: Makankosappo lv2 - type: 7
-330: Makankosappo lv3 - type: 7
-331: Makankosappo lv4 - type: 7
-332: Makankosappo lv5 - type: 7
-333: Makankosappo lv6 - type: 7
-334: Makankosappo lv7 - type: 7
-335: Đẻ trứng lv1 - type: 7
-336: Đẻ trứng lv2 - type: 7
-337: Đẻ trứng lv3 - type: 7
-338: Đẻ trứng lv4 - type: 7
-339: Đẻ trứng lv5 - type: 7
-340: Đẻ trứng lv6 - type: 7
-341: Đẻ trứng lv7 - type: 7
-342: Vệ tinh trí lực - type: 22
-343: Vệ tinh trí tuệ - type: 22
-344: Vệ tinh phòng thủ - type: 22
-345: Vệ tinh sinh lực - type: 22
-346: Cân đẩu vân - type: 23
-347: Phi Long - type: 23
-348: Ván bay - type: 23
-349: Cân đẩu vân VIP - type: 24
-350: Phi Long VIP - type: 24
-351: Ván bay VIP - type: 24
-352: Đậu thần cấp 8 - type: 6
-353: Ngọc Rồng Namek 1 Sao - type: 11
-354: Ngọc Rồng Namek 2 Sao - type: 11
-355: Ngọc Rồng Namek 3 Sao - type: 11
-356: Ngọc Rồng Namek 4 Sao - type: 11
-357: Ngọc Rồng Namek 5 Sao - type: 11
-358: Ngọc Rồng Namek 6 Sao - type: 11
-359: Ngọc Rồng Namek 7 Sao - type: 11
-360: Ngọc Rồng Namek - type: 11
-361: Gói 10 Rađa dò ngọc - type: 25
-362: Hóa thạch Ngọc Rồng - type: 11
-363: Tháo cờ - type: 28
-364: Cờ xanh - type: 28
-365: Cờ đỏ - type: 28
-366: Cờ tím - type: 28
-367: Cờ vàng - type: 28
-368: Cờ lục - type: 28
-369: Cờ hồng - type: 28
-370: Cờ cam - type: 28
-371: Cờ đen - type: 28
-372: Ngọc rồng 1 sao đen - type: 11
-373: Ngọc rồng 2 sao đen - type: 11
-374: Ngọc rồng 3 sao đen - type: 11
-375: Ngọc rồng 4 sao đen - type: 11
-376: Ngọc rồng 5 sao đen - type: 11
-377: Ngọc rồng 6 sao đen - type: 11
-378: Ngọc rồng 7 sao đen - type: 11
-379: Máy dò Capsule kì bí - type: 29
-380: Viên Capsule kì bí - type: 27
-381: Cuồng nộ - type: 29
-382: Bổ huyết - type: 29
-383: Bổ khí - type: 29
-384: Giáp Xên bọ hung - type: 29
-385: Ẩn danh - type: 29
-386: Nón Noel Xám - type: 5
-387: Nón Noel Đỏ - type: 5
-388: Nón Noel Xanh - type: 5
-389: Nón Noel Xám - type: 5
-390: Nón Noel Đỏ - type: 5
-391: Nón Noel Xanh - type: 5
-392: Nón Noel Xám - type: 5
-393: Nón Noel Đỏ - type: 5
-394: Nón Noel Xanh - type: 5
-395: Nhân vật bí ẩn - type: 27
-396: Thú cưỡi cực VIP - type: 24
-397: Hộp quà tết - type: 27
-398: Hộp quà tết - type: 27
-399: Thiệp chúc tết - type: 27
-400: Đặt tên đệ tử - type: 27
-401: Đổi đệ tử - type: 27
-402: Nâng cấp kỹ năng 1 đệ tử - type: 27
-403: Nâng cấp kỹ năng 2 đệ tử - type: 27
-404: Nâng cấp kỹ năng 3 đệ tử - type: 27
-405: Cải trang - type: 5
-406: Cải trang - type: 5
-407: Cải trang - type: 5
-408: Cải trang - type: 5
-409: Cải trang - type: 5
-410: Cải trang - type: 5
-411: Cải trang - type: 5
-412: Avatar - type: 5
-413: Avatar - type: 5
-414: Avatar - type: 5
-415: Avatar - type: 5
-416: Avatar - type: 5
-417: Avatar - type: 5
-418: Avatar - type: 5
-419: Avatar - type: 5
-420: Avatar - type: 5
-421: Cải trang - type: 5
-422: Cải trang - type: 5
-423: Cải trang - type: 5
-424: Cải trang - type: 5
-425: Cải trang - type: 5
-426: Cải trang - type: 5
-427: Cải trang - type: 5
-428: Cải trang - type: 5
-429: Cải trang - type: 5
-430: Cải trang - type: 5
-431: Cải trang - type: 5
-432: Cải trang - type: 5
-433: Cải trang - type: 5
-434: Khiên năng lượng lv1 - type: 7
-435: Khiên năng lượng lv2 - type: 7
-436: Khiên năng lượng lv3 - type: 7
-437: Khiên năng lượng lv4 - type: 7
-438: Khiên năng lượng lv5 - type: 7
-439: Khiên năng lượng lv6 - type: 7
-440: Khiên năng lượng lv7 - type: 7
-441: Sao pha lê - type: 30
-442: Sao pha lê - type: 30
-443: Sao pha lê - type: 30
-444: Sao pha lê - type: 30
-445: Sao pha lê - type: 30
-446: Sao pha lê - type: 30
-447: Sao pha lê - type: 30
-448: Cải trang - type: 5
-449: Cải trang - type: 5
-450: Cải trang - type: 5
-451: Cải trang - type: 5
-452: Cải trang - type: 5
-453: Chiến thuyền Tennis - type: 27
-454: Bông tai Porata - type: 27
-455: Cải trang - type: 5
-456: Bình nước - type: 27
-457: Thỏi vàng - type: 27
-458: Cải trang - type: 5
-459: Phiếu giảm giá - type: 27
-460: Cục xương - type: 27
-461: Cải trang - type: 5
-462: Củ cà rốt - type: 27
-463: Cải trang - type: 5
-464: Cải trang - type: 5
-465: Bánh Trung Thu 1 trứng - type: 29
-466: Bánh Trung Thu 2 trứng - type: 29
-467: Lồng đèn Ông Sao - type: 11
-468: Lồng đèn Cá chép - type: 11
-469: Lồng đèn Kéo Quân - type: 11
-470: Lồng đèn Ông trăng - type: 11
-471: Lồng đèn Hội An - type: 11
-472: Bánh Trung Thu Đặc Biệt - type: 29
-473: Hộp bánh Trung Thu - type: 31
-474: Sách Biến Sôcôla lv1 - type: 7
-475: Sách Biến Sôcôla lv2 - type: 7
-476: Sách Biến Sôcôla lv3 - type: 7
-477: Sách Biến Sôcôla lv4 - type: 7
-478: Sách Biến Sôcôla lv5 - type: 7
-479: Sách Biến Sôcôla lv6 - type: 7
-480: Sách Biến Sôcôla lv7 - type: 7
-481: Sách Liên hoàn lv1 - type: 7
-482: Sách Liên hoàn lv2 - type: 7
-483: Sách Liên hoàn lv3 - type: 7
-484: Sách Liên hoàn lv4 - type: 7
-485: Sách Liên hoàn lv5 - type: 7
-486: Sách Liên hoàn lv6 - type: 7
-487: Sách Liên hoàn lv7 - type: 7
-488: Sách Dịch Chuyển lv1 - type: 7
-489: Sách Dịch Chuyển lv2 - type: 7
-490: Sách Dịch Chuyển lv3 - type: 7
-491: Sách Dịch Chuyển lv4 - type: 7
-492: Sách Dịch Chuyển lv5 - type: 7
-493: Sách Dịch Chuyển lv6 - type: 7
-494: Sách Dịch Chuyển lv7 - type: 7
-495: Sách Thôi Miên lv1 - type: 7
-496: Sách Thôi Miên lv2 - type: 7
-497: Sách Thôi Miên lv3 - type: 7
-498: Sách Thôi Miên lv4 - type: 7
-499: Sách Thôi Miên lv5 - type: 7
-500: Sách Thôi Miên lv6 - type: 7
-501: Sách Thôi Miên lv7 - type: 7
-502: Sách Trói lv1 - type: 7
-503: Sách Trói lv2 - type: 7
-504: Sách Trói lv3 - type: 7
-505: Sách Trói lv4 - type: 7
-506: Sách Trói lv5 - type: 7
-507: Sách Trói lv6 - type: 7
-508: Sách Trói lv7 - type: 7
-509: Sách Huýt Sáo lv1 - type: 7
-510: Sách Huýt Sáo lv2 - type: 7
-511: Sách Huýt Sáo lv3 - type: 7
-512: Sách Huýt Sáo lv4 - type: 7
-513: Sách Huýt Sáo lv5 - type: 7
-514: Sách Huýt Sáo lv6 - type: 7
-515: Sách Huýt Sáo lv7 - type: 7
-516: Sôcôla - type: 27
-517: Mở rộng hành trang - type: 27
-518: Mở rộng rương đồ - type: 27
-519: Cờ Kaiô - type: 28
-520: Cờ Mabư - type: 28
-521: Tự động luyện tập - type: 27
-522: Bùa Đệ Tử - type: 13
-523: Đậu thần cấp 9 - type: 6
-524: Cải trang - type: 5
-525: Cải trang - type: 5
-526: Cải trang - type: 5
-527: Cải trang - type: 5
-528: Cải trang - type: 5
-529: Giáp tập luyện cấp 1 - type: 32
-530: Giáp tập luyện cấp 2 - type: 32
-531: Giáp tập luyện cấp 3 - type: 32
-532: Quỷ Chim - type: 24
-533: Kẹo giáng sinh - type: 27
-534: Giáp tập luyện cấp 1 - type: 32
-535: Giáp tập luyện cấp 2 - type: 32
-536: Giáp tập luyện cấp 3 - type: 32
-537: Chữ giải - type: 27
-538: Chữ khai - type: 27
-539: Chữ phong - type: 27
-540: Chữ ấn - type: 27
-541: Quả Hồng Đào - type: 27
-542: Quả Hồng Đào Chín - type: 27
-543: Vòng Kim Cô - type: 27
-544: Cải trang - type: 5
-545: Cải trang - type: 5
-546: Cải trang - type: 5
-547: Cải trang - type: 5
-548: Cải trang - type: 5
-549: Cải trang - type: 5
-550: Cải trang - type: 5
-551: Cải trang - type: 5
-552: Cải trang - type: 5
-553: Pháo bông - type: 27
-554: Siêu Pháo bông x100 - type: 27
-555: Áo Thần Linh - type: 0
-556: Quần Thần Linh - type: 1
-557: Áo Thần Namếc - type: 0
-558: Quần Thần namếc - type: 1
-559: Áo Thần Xayda - type: 0
-560: Quần Thần Xayda - type: 1
-561: Nhẫn Thần Linh - type: 4
-562: Găng Thần Linh - type: 2
-563: Giầy Thần Linh - type: 3
-564: Găng Thần Namếc - type: 2
-565: Giầy Thần Namếc - type: 3
-566: Găng Thần Xayda - type: 2
-567: Giầy Thần Xayda - type: 3
-568: Quả Trứng - type: 27
-569: Dưa Hấu - type: 27
-570: Rương Gỗ - type: 27
-571: Rương Bạc - type: 27
-572: Rương Vàng - type: 27
-573: Capsule Bạc - type: 27
-574: Capsule Vàng - type: 27
-575: Cải trang - type: 5
-576: Cải trang - type: 5
-577: Cải trang - type: 5
-578: Cải trang - type: 5
-579: Đuôi khỉ - type: 29
-580: Cải trang - type: 5
-581: Cải trang - type: 5
-582: Cải trang - type: 5
-583: Cải trang Póc - type: 5
-584: Cải trang - type: 5
-585: Bí ngô - type: 27
-586: Cải trang - type: 5
-587: Cải trang - type: 5
-588: Cải trang - type: 5
-589: Bông hoa - type: 27
-590: Bí kiếp - type: 27
-591: Cải trang Siêu Thần - type: 5
-592: Cải trang Yardrat - type: 5
-593: Cải trang Yardrat - type: 5
-594: Cải trang Yardrat - type: 5
-595: Đậu thần cấp 10 - type: 6
-596: Gói 30 đậu thần cấp 8 - type: 27
-597: Gói 30 đậu thần cấp 9 - type: 27
-598: Avatar - type: 5
-599: Avatar - type: 5
-600: Avatar - type: 5
-601: Cải trang Hợp Thể - type: 5
-602: Cải trang Hợp Thể - type: 5
-603: Cải trang Hợp Thể - type: 5
-604: Cải trang VIP - type: 5
-605: Cải trang VIP - type: 5
-606: Cải trang VIP - type: 5
-607: Cải trang Chan Xư - type: 5
-608: Cải trang Lão Cận - type: 5
-609: Cải trang Xayda - type: 5
-610: Bông hoa - type: 27
-611: Bản đồ kho báu - type: 27
-612: Cải trang Arale - type: 5
-613: Cải trang Gatchan - type: 5
-614: Cải trang Obotchaman - type: 5
-615: Cải trang - type: 5
-616: Cải trang - type: 5
-617: Cải trang - type: 5
-618: Cải trang Luffy - type: 5
-619: Cải trang Zoro - type: 5
-620: Cải trang Sanji - type: 5
-621: Cải trang Brook - type: 5
-622: Cải trang Chopper - type: 5
-623: Cải trang Nami - type: 5
-624: Cải trang Franky - type: 5
-625: Cải trang Usopp - type: 5
-626: Cải trang Robin - type: 5
-627: Capsule quà tặng - type: 27
-628: Cải trang Hải Tặc - type: 5
-629: Cải trang Fide vàng - type: 5
-630: Cải trang Frost 1 - type: 5
-631: Cải trang Frost 2 - type: 5
-632: Cải trang Frost 3 - type: 5
-633: Cải trang Píc - type: 5
-634: Cải trang King kong - type: 5
-635: Cải trang Pi láp - type: 5
-636: Cải trang Mai - type: 5
-637: Cải trang Su - type: 5
-638: Bình chứa Commeson - type: 27
-639: Cải trang Hợp Thể - type: 5
-640: Cải trang Hợp Thể - type: 5
-641: Cải trang Hợp Thể - type: 5
-642: Cải trang ma trơi - type: 5
-643: Cải trang dơi nhí - type: 5
-644: Cải trang bộ xương - type: 5
-645: Cải trang bộ xương - type: 5
-646: Cải trang bộ xương - type: 5
-647: Cải trang Saibamen - type: 5
-648: Hộp quà giáng sinh - type: 27
-649: Tất,vớ giáng sinh - type: 27
-650: Áo Hủy Diệt - type: 0
-651: Quần Hủy Diệt - type: 1
-652: Áo Hủy Diệt - type: 0
-653: Quần Hủy Diệt - type: 1
-654: Áo Hủy Diệt - type: 0
-655: Quần Hủy Diệt - type: 1
-656: Nhẫn Hủy Diệt - type: 4
-657: Găng Hủy Diệt - type: 2
-658: Giầy Hủy Diệt - type: 3
-659: Găng Hủy Diệt - type: 2
-660: Giầy Hủy Diệt - type: 3
-661: Găng Hủy Diệt - type: 2
-662: Giầy Hủy Diệt - type: 3
-663: Bánh Pudding - type: 29
-664: Xúc xích - type: 29
-665: Kem dâu - type: 29
-666: Mì ly - type: 29
-667: Sushi - type: 29
-668: Hộp quà Tết 2019 - type: 27
-669: Dưa Hấu - type: 29
-670: Cà rốt - type: 29
-671: Bùa Trí Tuệ x3 - type: 13
-672: Bùa Trí Tuệ x4 - type: 13
-673: abcd - type: 27
-674: Đá ngũ sắc - type: 27
-675: Cải trang - type: 5
-676: Cải trang - type: 5
-677: Cải trang - type: 5
-678: Cải trang - type: 5
-679: Cải trang - type: 5
-680: Cải trang - type: 5
-681: Cải trang  Nàng Tiên Cá - type: 5
-682: Avatar - type: 5
-683: Avatar - type: 5
-684: Avatar - type: 5
-685: Avatar - type: 5
-686: Avatar - type: 5
-687: Avatar - type: 5
-688: Avatar - type: 5
-689: Avatar - type: 5
-690: Avatar - type: 5
-691: Quần đi biển - type: 1
-692: Quần đi biển - type: 1
-693: Quần đi biển - type: 1
-694: Trái dừa - type: 29
-695: Vỏ ốc - type: 27
-696: Vỏ sò - type: 27
-697: Con cua - type: 27
-698: Sao biển - type: 27
-699: HP +400K - type: 27
-700: Sức đánh +20K - type: 27
-701: KI +400K - type: 27
-702: Bí ngô 1 sao - type: 27
-703: Bí ngô 2 sao - type: 27
-704: Bí ngô 3 sao - type: 27
-705: Bí ngô 4 sao - type: 27
-706: Bí ngô 5 sao - type: 27
-707: Bí ngô 6 sao - type: 27
-708: Bí ngô 7 sao - type: 27
-709: Bông hoa - type: 27
-710: Cải trang Quy lão Kame - type: 5
-711: Cải trang - type: 5
-712: Truy - type: 27
-713: Bắt - type: 27
-714: Đại - type: 27
-715: Vương - type: 27
-716: Urôn - type: 27
-717: Bao Lì Xì - type: 27
-718: Vé tặng ngọc - type: 27
-719: Cải trang - type: 5
-720: Mảnh cải trang - type: 27
-721: Phiếu giảm giá VIP - type: 27
-722: Capsule hồng - type: 27
-723: Bông hồng - type: 27
-724: Cải trang - type: 5
-725: Siêu thần thủy - type: 27
-726: Mảnh giấy có chữ 'MA' - type: 27
-727: Siêu thần thủy - type: 27
-728: Siêu thần thủy - type: 27
-729: Cải trang Hatchiyack - type: 5
-730: Cải trang Sói Basil - type: 5
-731: Cải trang Sói Lavender - type: 5
-732: Cải trang Sói Bergamo - type: 5
-733: Cân đẩu vân ngũ sắc - type: 23
-734: Ngọc Thố - type: 23
-735: Lồng đèn cá chép - type: 23
-736: Hộp quà 5 sao - type: 27
-737: Capsule Trung Thu - type: 27
-738: Cải trang Dr Lychee - type: 5
-739: Cải trang Bill Bí Ngô - type: 5
-740: Lưỡi hái Thần Chết - type: 11
-741: Cánh dơi Dracula - type: 11
-742: Cải trang Caufila Dơi - type: 5
-743: Chổi bay Phù Thủy - type: 23
-744: Cột nhà - type: 23
-745: Bông tuyết - type: 11
-746: Xe tuần lộc - type: 23
-747: Cờ đồ sát - type: 28
-748: Thịt heo - type: 27
-749: Thúng nếp - type: 27
-750: Thúng đậu xanh - type: 27
-751: Lá dong - type: 27
-752: Bánh tét - type: 29
-753: Bánh chưng - type: 29
-754: Nón Chuột may mắn - type: 5
-755: Nón Chuột may mắn - type: 5
-756: Nón Chuột may mắn - type: 5
-757: Túi Canh Tý 2020 - type: 27
-758: Capsule Tết 2021 - type: 27
-759: Nâng cấp kỹ năng 4 đệ tử - type: 27
-760: Cải trang VIP - type: 5
-761: Avatar đeo khẩu trang - type: 5
-762: Avatar đeo khẩu trang - type: 5
-763: Avatar đeo khẩu trang - type: 5
-764: Khẩu trang - type: 29
-765: Cải trang Ma Din Bư - type: 5
-766: Cờ xám - type: 11
-767: Cờ đen - type: 11
-768: Cờ xanh lá - type: 11
-769: Cờ xanh biển - type: 11
-770: Cờ hồng - type: 11
-771: Cờ cam - type: 11
-772: Cờ vàng - type: 11
-773: Cờ tím - type: 11
-774: Cờ xanh dạ - type: 11
-775: Cờ đỏ - type: 11
-776: Khăn xanh lá - type: 11
-777: Khăn xanh dương - type: 11
-778: Khăn vàng - type: 11
-779: Khăn tím - type: 11
-780: Khăn nâu - type: 11
-781: Khăn xám - type: 11
-782: Khăn đỏ - type: 11
-783: Khăn hồng - type: 11
-784: Khăn xanh dạ - type: 11
-785: Ba lô - type: 11
-786: Đao - type: 11
-787: Gậy - type: 11
-788: Mai rùa - type: 11
-789: Giỏ bơ - type: 11
-790: Giỏ dưa hấu - type: 11
-791: Giỏ củ cải trắng - type: 11
-792: Giỏ cà rốt - type: 11
-793: Giỏ chuối - type: 11
-794: Gậy phép - type: 11
-795: Ghế bay - type: 23
-796: Hộp Capsule - type: 27
-797: Bùa Trí Tuệ - type: 13
-798: Bùa Mạnh Mẽ - type: 13
-799: Bùa Da Trâu - type: 13
-800: Lồng đèn Cô Vy - type: 11
-801: Lồng đèn Con tàu - type: 11
-802: Lồng đèn Con gà - type: 11
-803: Lồng đèn Con bướm - type: 11
-804: Lồng đèn Đôrêmon - type: 11
-805: Nón thiên thần - type: 11
-806: Cải trang Đôrêmon - type: 5
-807: Ngọc đen 1 sao - type: 12
-808: Ngọc đen 2 sao - type: 12
-809: Ngọc đen 3 sao - type: 12
-810: Ngọc đen 4 sao - type: 12
-811: Ngọc đen 5 sao - type: 12
-812: Ngọc đen 6 sao - type: 12
-813: Ngọc đen 7 sao - type: 12
-814: Ma trơi - type: 11
-815: Hồn ma Goku - type: 11
-816: Hồn ma Ca đíc - type: 11
-817: Hồn ma Pôcôlô - type: 11
-818: Capsule Halloween - type: 27
-819: Cải trang Xuka - type: 5
-820: Vé quay ngọc đen - type: 27
-821: Vé quay ngọc vàng - type: 27
-822: Cây thông - type: 11
-823: Túi quà - type: 11
-824: Cải trang Noel - type: 5
-825: Cải trang Noel - type: 5
-826: Cải trang Noel - type: 5
-827: Cải trang Noel - type: 5
-828: Mảnh Khủng long - type: 33
-829: Mảnh Lợn lòi - type: 33
-830: Mảnh Quỷ đất - type: 33
-831: Mảnh Khủng long mẹ - type: 33
-832: Mảnh Lợn lòi mẹ - type: 33
-833: Mảnh Quỷ đất mẹ - type: 33
-834: Mảnh Thằn lằn bay - type: 33
-835: Mảnh Phi long - type: 33
-836: Mảnh Quỷ bay - type: 33
-837: Mảnh Lính độc nhãn - type: 33
-838: Mảnh Lính độc nhãn - type: 33
-839: Mảnh Sói xám - type: 33
-840: Mảnh Trung úy Trắng - type: 33
-841: Mảnh Ninja Áo Tím - type: 33
-842: Mảnh Trung úy Xanh Lơ - type: 33
-843: Cải trang Trâu vàng - type: 5
-844: Cải trang Trâu đen - type: 5
-845: Cải trang Trâu trắng - type: 5
-846: Nón Trâu may mắn - type: 5
-847: Nón Trâu may mắn - type: 5
-848: Nón Trâu may mắn - type: 5
-849: Pháo Thăng Thiên - type: 23
-850: Cỏ tươi - type: 27
-851: Cỏ tươi - type: 27
-852: Cây tre trăm đốt - type: 11
-853: Cải trang Trâu Nâu - type: 5
-854: Cải trang Trâu Nâu - type: 5
-855: Cải trang Trâu Nâu - type: 5
-856: Cải trang Trâu Đốm - type: 5
-857: Cải trang Trâu Đốm - type: 5
-858: Cải trang Trâu Đốm - type: 5
-859: Mảnh Độc Nhãn - type: 33
-860: Cải trang Mị Nương - type: 5
-861: Hồng ngọc - type: 34
-862: Cải trang Nobita - type: 5
-863: Cải trang Xekô - type: 5
-864: Cải trang Chaien - type: 5
-865: Kiếm Z - type: 11
-866: Avatar - type: 5
-867: Avatar - type: 5
-868: Avatar - type: 5
-869: Capsule 1 sao - type: 27
-870: Capsule 2 sao - type: 27
-871: Capsule 3 sao - type: 27
-872: Avatar Gohan 1 - type: 5
-873: Avatar Gohan 2 - type: 5
-874: Rùa con - type: 27
-875: Cải trang Cadic - type: 5
-876: Cải trang Gohan - type: 5
-877: Cải trang Pocolo - type: 5
-878: Cậu vàng - type: 5
-879: Cậu Kilo - type: 5
-880: Cua rang me - type: 29
-881: Bạch tuộc nướng - type: 29
-882: Tôm tẩm bột chiên xù - type: 29
-883: Cải trang Black Gohan Rose - type: 5
-884: Cải trang Cậu Hít - type: 5
-885: Cải trang Lích Tên Bư Béo - type: 5
-886: Trứng vịt muối - type: 27
-887: Gà quay nguyên con - type: 27
-888: Bột mì - type: 27
-889: Đậu xanh - type: 27
-890: Bánh trung thu Gà quay - type: 27
-891: Bánh trung thu thập cẩm - type: 27
-892: Thỏ xám - type: 27
-893: Thỏ trắng - type: 27
-894: Avatar - type: 5
-895: Avatar - type: 5
-896: Avatar - type: 5
-897: Rùa bay - type: 23
-898: Cải trang Zamasu - type: 5
-899: Kẹo một mắt - type: 29
-900: Súp bí hắc ám - type: 29
-901: Kẹo bàn tay - type: 27
-902: Bánh gato nhện - type: 29
-903: Hamburger sâu - type: 29
-904: Cải trang Super Black Goku - type: 5
-905: Cải trang Siêu Thần Trái Đất - type: 5
-906: Cải trang Mighty Mask - type: 5
-907: Cải trang Siêu thần Namếc - type: 5
-908: Pét Thần Chết Tóc Xanh - type: 18
-909: Pet Đầu lâu quàng khăn đỏ - type: 18
-910: Bí ngô nhí nhảnh - type: 27
-911: Cải trang Siêu Thần Xayda - type: 5
-912: Cải trang Gohan áo xanh - type: 5
-913: Cải trang Póc áo đỏ - type: 5
-914: Cải trang Búp bê Arale - type: 5
-915: Capsule Squid Game - type: 27
-916: Lính bảo vệ tam giác - type: 18
-917: Lính bảo vệ vuông - type: 18
-918: Lính bảo vệ tròn - type: 18
-919: Búp bê - type: 18
-920: Vật phẩm bay gậy như ý - type: 23
-921: Bông tai Porata cấp 2 - type: 27
-922: Cải trang Goku Noel - type: 5
-923: Cải trang Pico Noel - type: 5
-924: Cải trang Radic Noel - type: 5
-925: Ngọc rồng băng 1 sao - type: 12
-926: Ngọc rồng băng 2 sao - type: 12
-927: Ngọc rồng băng 3 sao - type: 12
-928: Ngọc rồng băng 4 sao - type: 12
-929: Ngọc rồng băng 5 sao - type: 12
-930: Ngọc rồng băng 6 sao - type: 12
-931: Ngọc rồng băng 7 sao - type: 12
-932: Cải trang Uub - type: 5
-933: Mảnh vỡ bông tai - type: 27
-934: Mảnh hồn bông tai - type: 27
-935: Đá xanh lam - type: 27
-936: Tuần lộc nhí - type: 18
-937: Cải trang Mabư Noel - type: 5
-938: Cải trang Goku thời trang - type: 5
-939: Cải trang Pôcôlô thời trang - type: 5
-940: Cải trang Ca Đíc thời trang - type: 5
-941: Nón Hổ vàng - type: 5
-942: Hổ mặp vàng - type: 18
-943: Hổ mặp trắng - type: 18
-944: Hổ mặp xanh - type: 18
-945: Cải trang Goku Tarzan - type: 5
-946: Nón Hổ trắng - type: 5
-947: Nón Hổ xanh - type: 5
-948: Cải trang Hổ vàng - type: 5
-949: Thịt tươi - type: 27
-950: Thịt tươi - type: 27
-951: Cải trang Siêu Goku Tarzan - type: 5
-952: Cải trang Hổ trắng - type: 5
-953: Cải trang Hổ xanh - type: 5
-954: Bó Hoa Hồng - type: 11
-955: Bó Hoa Vàng - type: 11
-956: Mảnh Đội trưởng Vàng - type: 33
-957: Cải trang Goku võ sĩ - type: 5
-958: Cải trang Pôcôlô võ sĩ - type: 5
-959: Cải trang Cađíc võ sĩ - type: 5
-960: Cờ trắng - type: 28
-961: Cờ đen - type: 28
-962: Capsule thời trang 5 ngày - type: 27
-963: Capsule thời trang 7 ngày - type: 27
-964: Sao pha lê - type: 30
-965: Sao pha lê - type: 30
-966: Trái bóng - type: 11
-967: Sao la - type: 27
-968: Số 7 Goku - type: 5
-969: Số 11 Gohan - type: 5
-970: Số 6 Cađíc - type: 5
-971: Số 2 Krilin - type: 5
-972: Số 4 Thên Xin Hăng - type: 5
-973: Số 10 Pôcôlô - type: 5
-974: Số 1 Mabư - type: 5
-975: Số 8 Biden - type: 5
-976: Số 9 Quy lão Kamê - type: 5
-977: Số 3 Poc - type: 5
-978: Số 5 Pic - type: 5
-979: Huy chương đồng - type: 27
-980: Huy chương bạc - type: 27
-981: Huy chương vàng - type: 27
-982: Cúp vàng - type: 11
-983: Cờ cổ động - type: 11
-984: Capsule SEA games - type: 27
-985: Cải trang Chill - type: 5
-986: Cải trang Chill cấp 2 - type: 5
-987: Đá bảo vệ - type: 27
-988: Mở rộng túi vàng - type: 27
-989: Siêu nhân Son Gohan - type: 5
-990: S - type: 5
-991: S - type: 5
-992: Nhẫn thời không sai lệch - type: 27
-993: Giỏ thức ăn - type: 27
-994: Vỏ ốc - type: 11
-995: Cây kem - type: 11
-996: Cá heo - type: 11
-997: Con diều - type: 11
-998: Diều rồng - type: 11
-999: Mèo mun - type: 11
-1000: Xiên cá - type: 11
-1001: Phóng lợn - type: 11
-1002: Cá nóc - type: 27
-1003: Cá bảy màu - type: 27
-1004: Cá diêu hồng - type: 27
-1005: Xô cá xanh - type: 27
-1006: Xô cá vàng - type: 27
-1007: Ván lướt sóng - type: 11
-1008: Cua Rapper - type: 18
-1009: Rương Tranh ngọc Namếc - type: 27
-1010: Cải trang Áo vịt cam - type: 5
-1011: Cải trang Áo trắng hoa - type: 5
-1012: Cải trang Nón rơm mùa hè - type: 5
-1013: Bùa đổi skill đệ tử - type: 27
-1014: Capsule thời trang - type: 27
-1015: Rương cải trang thỏ đầu bạc - type: 27
-1016: Bó Hoa Hồng - type: 27
-1017: Bó Hoa Đỏ - type: 27
-1018: Bó Hoa Trắng - type: 27
-1019: Bó Hoa Vàng - type: 27
-1020: Đá Pha Lê - type: 27
-1021: Cuồng Nộ 2 - type: 29
-1022: Bổ Huyết 2 - type: 29
-1023: Bổ Khí 2 - type: 29
-1024: Capsule Pet - type: 27
-1025: Top 1 Sức Mạnh - type: 17
-1026: Top 2 Sức Mạnh - type: 17
-1027: Top 3 Sức Mạnh - type: 17
-1028: Top Sức Mạnh - type: 17
-1029: Fan Cứng - type: 17
-1030: Hoa Tuyết - type: 27
-1031: Hộp quà Noel 2023 - type: 27
-1032: Túi quà Noel 2023 - type: 27
-1033: Trâu ngáo - type: 18
-1034: Hiệp sĩ - type: 19
-1035: Thần chết - type: 19
-1036: Hộp quà linh thú - type: 27
-1037: Vé đổi skill 2 đệ tử ra Kamejoko - type: 27
-1038: Vé đổi skill 3 đệ tử ra Thái Dương Hạ San - type: 27
-1039: Vé đổi skill 4 đệ tử ra Biến Khỉ - type: 27
-1040: Cải trang Elec - type: 5
-1041: Cải trang Gas - type: 5
-1042: Cải trang thành Macki - type: 5
-1043: Cải trang thành Granola - type: 5
-1044: Cải trang Pic Thợ Lặn - type: 5
-1045: Cải trang Poc Bikini - type: 5
-1046: Cải trang King Kong Sành Điệu - type: 5
-1047: Ve Sầu Xên - type: 23
-1048: Ve Sầu Xên Tiến Hóa - type: 23
-1049: Cải trang Ironman - type: 5
-1050: Gậy thượng đế - type: 11
-1051: Pet Bọ Cánh Cứng - type: 18
-1052: Pet Ngài Đêm - type: 18
-1053: Cải trang Gojo Satoru - type: 5
-1054: Cải trang Heat - type: 5
-1055: Cải trang Black Panther - type: 5
-1056: Chong chóng - type: 11
-1057: Gậy pháp thuật - type: 11
-1058: Cải trang Anubis - type: 5
-1059: Cải trang Cucumber Black - type: 5
-1060: Cải trang CucumberĐại Đế - type: 5
-1974: Danh hiệu Top 1 - type: 17
-1975: Danh hiệu Top 2  - type: 17
-1976: Danh hiệu Top 3  - type: 17
-1977: Danh hiệu Top 1 Nạp - type: 17
-1978: Danh hiệu Top 2 Nạp - type: 17
-1979: Danh hiệu Top 3 Nạp - type: 17
-1980: Danh hiệu Top 1 Server - type: 17
-1981: Danh hiệu Top 2 Server - type: 17
-1982: Danh hiệu Top 3 Server - type: 17
-1983: Cải trang Tết 2024 - type: 5
-1984: Capsule Bạc Tết 2024 - type: 27
-1985: Capsule Vàng Tết 2024 - type: 27
-1986: Bùa săn lân con - type: 29
-1987: Rồng đỏ - type: 23
-1988: Rồng vàng - type: 23
-1989: Linh thú Tết 2024 - type: 19
-1990: Lửa nấu bánh - type: 27
-1991: Hoa Sen - type: 11
-1992: Hoa Sen VIP - type: 11
-1993: Linh thú Tết 2024 - type: 19
-1994: Vé đổi nội tại - type: 27
-1995: Lồng đèn mừng xuân - type: 27
-1996: Rương thần linh - type: 27
-1997: Rương thần linh kích hoạt - type: 27
-1998: Danh hiệu Fan Cứng - type: 17
-1999: Canh cá nóc - type: 29
-2000: Đá ma thuật thủy thần - type: 27
-2001: Đá ma thuật lục bảo - type: 27
-2002: Đá ma thuật hắc ám - type: 27
-2003: Đá thanh tẩy ma thuật - type: 27
-2004: Đá ánh sáng - type: 27
-2005: Đá thời gian - type: 27
-2006: Nhẫn ánh sáng cấp 1 - type: 27
-2007: Nhẫn ánh sáng cấp 2 - type: 27
-2008: Nhẫn ánh sáng cấp 3 - type: 27
-2009: Nhẫn ánh sáng cấp 4 - type: 27
-2010: Nhẫn ánh sáng cấp 5 - type: 27
-2011: Nhẫn ánh sáng cấp 6 - type: 27
-2012: Nhẫn ánh sáng cấp 7 - type: 27
-2013: Nhẫn ánh sáng cấp 8 - type: 27
-2014: Nhẫn ánh sáng cấp 9 - type: 27
-2015: Phẹt Phẹt - type: 27
-2016: Cải trang Fide đen - type: 5
-2017: Mèo Simi - type: 18
-2018: Mồn Lèo - type: 18
-2019: Lân Đần - type: 18
-2020: Cải trang Janemba cha cha cha - type: 5
-2021: Tu La Thần Kiếm - type: 11
-2022: Phượng Hoàng Ma Pháp - type: 23
-2023: Hoa Hồng Đỏ - type: 27
-2024: Hoa Hồng Lam Nhạt - type: 27
-2025: Hoa Hồng Lam - type: 27
-2026: Hoa Hồng Lục - type: 27
-2027: Hoa Hồng Tím - type: 27
-2028: Thiệp 8/3 - type: 27
-2029: Hộp quà 8/3 - type: 27
-2030: Gấu Tình Yêu - type: 11
-2031: Thú cưỡi Chim Hồng - type: 23
-2032: Linh Thú Băng Thạch - type: 19
-2033: Cải trang Bunma tóc cam - type: 5
-2034: Cải trang Bunma tóc xanh - type: 5
-2035: Cải trang Bunma tóc tím - type: 5
-2036: Danh hiệu Thiên Tử - type: 17
-2037: Danh hiệu Cửu Thiên - type: 17
-2038: Danh hiệu Thiên Ưng - type: 17
-2039: Xì Cô La Nà - type: 29
-2040: Rương đồ cuối kích hoạt - type: 27
-2041: Cánh phù hoa - type: 11
-2042: Cỏ Mỹ - type: 27
-2043: Hoa Cưới - type: 11
-2044: Thần thú Dragon - type: 23
-2045: Gói mảnh hồn bông tai c2 x20 - type: 27
-2046: Mảnh áo Trái Đất - type: 27
-2047: Mảnh áo Namec - type: 27
-2048: Mảnh áo Xayda - type: 27
-2049: Mảnh quần Trái Đất - type: 27
-2050: Mảnh quần Namec - type: 27
-2051: Mảnh quần Xayda - type: 27
-2052: Mảnh găng Trái Đất - type: 27
-2053: Mảnh găng Namec - type: 27
-2054: Mảnh găng Xayda - type: 27
-2055: Mảnh giày Trái Đất - type: 27
-2056: Mảnh giày Namec - type: 27
-2057: Mảnh giày Xayda - type: 27
-2058: Mảnh nhẫn Trái Đất - type: 27
-2059: Mảnh nhẫn Namec - type: 27
-2060: Mảnh nhẫn Xayda - type: 27
-2061: Kỳ lân lửa - type: 11
-2062: Thú cưỡi ngựa tiến vua - type: 23
-2063: Cải trang Vua lỳ đòn - type: 5
-2064: Cải trang Bư gầy trơ xương - type: 5
-2065: Rồng tí hon - type: 18
-2066: Đầu chó sừng Lân - type: 23
-2067: Danh hiệu Thần Hộ Vệ - type: 17
-2068: Danh hiệu Thần Thiên Sứ - type: 17
-2069: Cải trang anh trai Bông Băng - type: 5
-2070: Kiếm răng cưa - type: 11
-2071: Rồng cute phô mai que - type: 18
-2072: Linh Thú Vua khè lửa - type: 19
-2073: Mâm bạc - type: 27
-2074: Mâm vàng - type: 27
-2075: Ngà voi - type: 27
-2076: Cựa gà - type: 27
-2077: Hồng mao - type: 27
-2078: Hộp quà bạc - type: 27
-2079: Hộp quà vàng - type: 27
-2080: Xí muội hoa mai - type: 29
-2081: Xí muội hoa đào - type: 29
-2082: Xúc xích tăng lực - type: 29
-2083: Cải trang Bát Giới - type: 5
-2084: Cải trang Ngộ Không - type: 5
-2085: Cải trang Đường Tam Tạng - type: 5
-2086: Mảnh chữ Kho - type: 27
-2087: Mảnh chữ Báu - type: 27
-2088: Mảnh chữ Trương - type: 27
-2089: Mảnh chữ  Mỹ - type: 27
-2090: Mảnh chữ Lan - type: 27
-2091: Rương hải tặc - type: 27
-2092: Rương Kho báu - type: 27
-2093: Ngọc bội Đại Hải trình - type: 26
-2094: Ngọc bội Luffy - type: 26
-2095: Kiếm Zoro - type: 11
-2096: Thuyền hải tặc - type: 11
-2097: Rương tập sự - type: 27
-2098: Tăng thời gian giáp tập luyện - type: 27
-2099: Ngọc bội Thần Công - type: 26
-2100: Cái nịt - type: 27
-2101: Nước tăng lực - type: 27
-2102: Túi quà Goku - type: 27
-2103: Túi quà Goku Super - type: 27
-2104: Hào Quang Thiên Tử - type: 11
-2105: Quạt Ba Tiêu - type: 11
-2106: Súng Cá Mập Xanh - type: 11
-2107: Súng Cá Mập Đỏ - type: 11
-2108: Đào tiên cảnh - type: 29
-2109: Kẹo mắt đỏ - type: 29
-2110: Vuốt cuồng nộ - type: 29
-2111: Kẹo cứng cáp - type: 29
-2112: Bí ngô đột phá - type: 29
-2113: Vỏ bọc siêu sức mạnh - type: 29
-2114: Quả Bóng Vàng - type: 23
-2115: Cải trang hè Trái Đất - type: 5
-2116: Cải trang hè Namec - type: 5
-2117: Cải trang hè Xayda - type: 5
-2118: Thỏ Đen Android - type: 5
-2119: Thỏ Đỏ Chi Chi - type: 5
-2120: Thỏ Hồng Bunma - type: 5
-2121: Đeo lưng túi quà đỏ - type: 11
-2122: Đeo lưng chùm bóng bay tình bạn - type: 11
-2123: Chiếc Ô tình bạn - type: 11
-2124: Kẹo mút bị mất - type: 27
-2125: Hộp quà bị thất lạc - type: 27
-2126: Hộp quà thú nhồi bông - type: 27
-2127: Cải trang thần hủy diệt tóc vàng - type: 5
-2128: Cải trang thần hủy diệt tóc xanh - type: 5
-2129: Cải trang thần hủy diệt tóc tím - type: 5
-2130: Linh Thú Lửa Xanh - type: 19
-2131: Pet mới - type: 18
-2132: Búa Tình bạn - type: 11
-2133: Chiếc Ô tình bạn - type: 11
-2134: Chiếc Ô tình bạn - type: 11
-2135: Goku Siêu Xayda - type: 5
-2136: Súp bí hắc ám - type: 29
-2137: Bánh gato nhện - type: 29
-2138: Hamburger sâu - type: 29
-2139: Kẹo một mắt - type: 29
-2140: Đào thần tiên - type: 6
-2141: Đồng hồ ngưng đọng - type: 29
-2142: Cây may mắn - type: 29
-2143: Ngọn lửa may mắn - type: 29
-2144: Vòng chân hồn thiên đế cấp  1 - type: 35
-2145: Vòng chân hồn thiên đế cấp  2 - type: 35
-2146: Vòng chân hồn thiên đế cấp  3 - type: 35
-2147: Vòng chân hồn thiên đế cấp  4 - type: 35
-2148: Vòng chân hồn thiên đế cấp  5 - type: 35
-2149: Vòng chân hồn thiên đế cấp  6 - type: 35
-2150: Vòng chân hồn thiên đế cấp  7 - type: 35
-2151: Vòng chân hồn thiên đế cấp  8 - type: 35
-2152: Vòng chân hồn thiên đế cấp  9 - type: 35
-2153: Đá Hồn thiên đế cấp 1 - type: 27
-2154: Đá Hồn thiên đế cấp 2 - type: 27
-2155: Đá Hồn thiên đế cấp 3 - type: 27
-2156: Rada dò đồ thần cooler - type: 27
-2157: Cánh Băng Thiên Điểu - type: 11
-2158: Cánh Hoả Thiên Điểu - type: 11
-2159: Linh thú - type: 19
-2160: Cải trang moi - type: 5
-2161: Cải trang chiến thần Goku - type: 5
-2162: Cải trang chiến thần Cadic - type: 5
-2163: Ngọc bội vĩnh hằng - type: 26
-2164: Danh hiệu Thần Sức Mạnh - type: 17
-2165: Danh hiệu Đệ tử thượng đế - type: 17
-2166: Danh hiệu Đại Gia - type: 17
-2167: Danh hiệu Đại Gia VL - type: 17
-2168: Danh hiệu Đại Gia VCL - type: 17
-2169: Danh hiệu Đệ tử Anh Koi - type: 17
-2170: Danh hiệu Đệ tử Mabư - type: 17
-2171: Rada dò ngọc rồng namek x10 - type: 27
-2172: Cải Trang Zamasu Thần Long  - type: 5
-2173: Đeo lưng rìu chiến - type: 11
-2174: Búa Điện Thần Lôi - type: 11
-2175: Ngọc bội phố Wall - type: 26
-2176: Gói 10 Rađa dò ngọc - type: 27
-2177: Danh hiệu Fan Mềm - type: 17
-2178: Đeo lưng con dog HSNR - type: 11
-2179: Bùa cầu bình an - type: 27
-2180: Mâm cỗ chay - type: 27
-2181: Bông sen vàng - type: 27
-2182: Bông sen trắng - type: 27
-2183: Kẹo bạc hà - type: 29
-2184: Kẹo sữa - type: 29
-2185: Kẹo cam ngọt - type: 29
-2186: Kẹo chíp chíp - type: 29
-2187: Kẹo dẻo - type: 29
-2188: Bó sen vàng - type: 27
-2189: Bó sen trắng - type: 27
-2190: Mảnh Vu lan - type: 27
-2191: Vé siêu việt trang bị cấp 1 - type: 27
-2192: Cải Trang Yajirobe Zoro - type: 5
-2193: Đài sen hồng - type: 23
-2194: Pet heo mập - type: 18
-2195: Đeo lưng cưa xích hoá kỹ - type: 11
-2196: Avatar trái đất mũ cối - type: 5
-2197: Avatar xayda mũ cối - type: 5
-2198: Avatar namec mũ cối - type: 5
-2199: Vé siêu việt cải trang cấp 1 - type: 36
-2200: Vé siêu việt đeo lưng cấp 1 - type: 36
-2201: Vé siêu việt thú cưỡi cấp 1 - type: 36
-2202: Vé siêu việt danh hiệu cấp 1 - type: 36
-2203: Vé siêu việt linh thú cấp 1 - type: 36
-2204: Vé siêu việt ngọc bội cấp 1 - type: 36
-2205: Thiên thần hộ mệnh - type: 19
-2206: Quan âm thần thuỷ - type: 27
-2207: Quan âm thánh thuỷ - type: 27
-2208: Ngọc Hồn Siêu Cấp - type: 27
-2209: Cải trang Moro - type: 5
-2210: Rương 1 món đồ cuối kích hoạt - type: 27
-2211: Rương huỷ diệt - type: 27
-2212: Danh hiệu mâm cỗ chay top 1 - type: 17
-2213: Danh hiệu mâm cỗ chay top 2 - type: 17
-2214: Danh hiệu mâm cỗ chay top 3 - type: 17
-2215: Danh hiệu trùm đập cấp - type: 17
-2216: Danh hiệu thần đập cấp - type: 17
-2217: Danh hiệu thánh đập cấp - type: 17
-2218: Ngọc bội siêu cấp - type: 26
-2219: Danh hiệu vô địch siêu cấp - type: 17
-2220: Danh hiệu á quân siêu cấp - type: 17
-2221: Đeo lưng Tuyên hoa phủ - type: 11
-2222: Đeo lưng Thương phục hận - type: 11
-2223: Ngự Kiếm Phi Hành - type: 23
-2224: Rồng xanh mắt lé - type: 18
-2225: Linh hồn - type: 27
-2226: Hộp quà linh hồn - type: 27
-2227: Túi linh hồn - type: 27
-2228: Rương  kích hoạt tiềm năng sức mạnh - type: 27
-2229: Danh hiệu đàn em BCT - type: 17
-2230: Danh hiệu idol tóp tóp - type: 17
-2231: Danh hiệu youtuber - type: 17
-2232: Danh hiệu đệ nhất mỹ nhân - type: 17
-2233: Thẻ Red Jiren - type: 33
-2234: Thẻ Green Jiren - type: 33
-2235: Thẻ Yellow Jiren - type: 33
-2236: Túi mở thẻ rồng thần Namec - type: 27
-2237: Cờ Việt Nam - type: 11
-2238: Tôi Yêu Việt Nam - type: 17
-2239: Bột Gạo Lứt - type: 27
-2240: Cải trang Thiên Sứ Phản Bội - type: 5
-2241: Cải trang Zamasu Biến thể - type: 5
-2242: Cánh thần tiên tỷ tỷ - type: 11
-2243: Lồng đèn thỏ ca ca - type: 11
-2244: Lồng đèn đêm trăng - type: 11
-2245: Lồng đèn thỏ quậy - type: 11
-2246: Ngọc bội con thỏ - type: 26
-2247: Ngọc bội chị hằng - type: 26
-2248: Thú cưỡi tiên linh - type: 23
-2249: Bánh trung thu đậu xanh - type: 29
-2250: Bánh trung thu gà quay - type: 27
-2251: Bánh trung thu khoai môn - type: 29
-2252: Bánh trung thu thập cẩm - type: 29
-2253: Bánh trung thu trà xanh - type: 27
-2254: Bánh trung thu trứng muối - type: 29
-2255: Bánh trung thu truyền thống - type: 29
-2256: Bột mỳ - type: 27
-2257: Bột trà xanh - type: 27
-2258: Dây kẽm - type: 27
-2259: Thanh tre - type: 27
-2260: Giấy màu - type: 27
-2261: Ngôi sao - type: 27
-2262: Lồng đèn ông sao - type: 27
-2263: Đường - type: 27
-2264: Đuôi khỉ xanh - type: 27
-2265: Đuôi khỉ đỏ - type: 27
-2266: Đuôi khỉ vàng - type: 27
-2267: Đuôi khỉ đa sắc - type: 29
-2268: Hộp quà đuôi khỉ hồng - type: 27
-2269: Hộp quà đuôi khỉ đa sắc - type: 27
-2270: Lửa nấu bánh trung thu - type: 27
-2271: Vòng chân hồn chú cuội - type: 35
-2272: Super Sonic - type: 18
-2273: Cải Trang Wukong siêu quậy - type: 5
-2274: Cải Trang Cadic siêu quậy - type: 5
-2275: Hải thần tam xoa kích - type: 11
-2276: Superman yellow - type: 19
-2277: Danh hiệu Tôn hành giả - type: 17
-2278: Danh hiệu Hành giả tôn - type: 17
-2279: Danh hiệu Giả hành tôn - type: 17
-2280: Danh hiệu Lắm tiền nhiều của - type: 17
-2281: Danh hiệu Ông hoàng phông bạt - type: 17
-2282: Danh hiệu Phù thuỷ tài chính - type: 17
-2283: Rương 1 món huỷ diệt ngẫu nhiên max option - type: 27
-2284: Rương set huỷ diệt max chỉ số - type: 27
-2285: Danh hiệu bang hội CVQ - type: 17
-2286: Danh hiệu bang hội GLX - type: 17
-2287: Danh hiệu bang hội LYNK - type: 17
-2288: Danh hiệu bang hội MABU - type: 17
-2289: Danh hiệu bang hội NASA - type: 17
-2290: Danh hiệu bang hội NGHEO - type: 17
-2291: Danh hiệu bang hội RUM - type: 17
-2292: Danh hiệu bang hội STAR - type: 17
-2293: Danh hiệu bang hội STD - type: 17
-2294: Danh hiệu bang hội WIN - type: 17
-2295: Danh hiệu bang hội YLX - type: 17
-2296: Danh hiệu nông dân chăm chỉ - type: 17
-2297: Gậy như ý - type: 11
-2298: Thú cưỡi thảm bay - type: 23
-2299: Cải trang Thánh Nữ Hoang Sứ - type: 5
-2300: Cải trang cô bé giả danh tóc trắng - type: 5
-2301: Cải trang lý tiểu nương 1 - type: 5
-2302: Cải trang lý tiểu nương 2 - type: 5
-2303: Cải trang lý tiểu nương 3 - type: 5
-2304: Cải trang mị châu - type: 5
-2305: Cải trang Thánh Nữ Hoang Sứ - type: 5
-2306: Danh hiệu kẻ ngáng đường - type: 17
-2307: Danh hiệu vua về nhì - type: 17
-2308: Bùa biến dị - type: 27
-2309: Đá Kim Ô - type: 27
-2310: Đá Nguyệt Hoa - type: 27
-2311: Đá Tinh Thái - type: 27
-2312: Khúc Hoa Tàn, Mãn Địa Thương - type: 37
-2313: Danh hiệu chí tôn thiên hạ - type: 17
-2314: Hộp đại đệ tử - type: 27
-2315: Cải trang Jiren Huyền ảo  - type: 5
-2316: Bánh halloween - type: 27
-2317: Bí ngô thưởng - type: 27
-2318: Bột bí ngô - type: 27
-2319: Cupcake kinh dị - type: 27
-2320: Đường halloween - type: 27
-2321: Nguyên trái bí - type: 27
-2322: Súp thưởng kinh dị - type: 27
-2323: Radar halloween - type: 27
-2324: Kumathong Hallowen - type: 18
-2325: Hào quang sói - type: 21
-2326: Capsule nâng cấp bang hội - type: 27
-2327: Thuốc tăng giáp - type: 29
-2328: Thuốc tăng HP - type: 29
-2329: Thuốc tăng KI - type: 29
-2330: Thuốc tăng SĐ - type: 29
-2331: Túi đá huyền ảo - type: 27
-2332: Bùa x2 map đệ - type: 27
-2333: Bông tai Porata cấp 3 - type: 27
-2334: Danh hiệu Halloween top 1 - type: 17
-2335: Danh hiệu Halloween top 2 - type: 17
-2336: Danh hiệu Halloween top 3 - type: 17
-2337: Mảnh vỡ bông tai cấp 3 - type: 27
-2338: Mảnh hồn bông tai cấp 3 - type: 27
-2339: Ngọc bội halloween - type: 26
-2340: Cải trang Songoku Huyền ảo  - type: 5
-2341: Gói mảnh hồn bông tai cấp 3 x20 - type: 27
-2342: Danh hiệu Top 1 siêu cấp liên SV  - type: 17
-2343: Danh hiệu Top 2 siêu cấp liên SV  - type: 17
-2344: Danh hiệu Top 3 siêu cấp liên SV  - type: 17
-2345: Danh hiệu Top 1 Whis liên SV - type: 17
-2346: Danh hiệu Top 2 Whis liên SV - type: 17
-2347: Danh hiệu Top 3 Whis liên SV - type: 17
-2348: Đá Hồn thiên đế cấp 4 - type: 27
-2349: Đá Hồn thiên đế cấp 5 - type: 27
-2350: Đá Hồn thiên đế cấp 6 - type: 27
-2351: Cải trang Fide đầu lùn - type: 5
-2352: Cải trang Mabu đầu lùn - type: 5
-2353: Cải trang Cell đầu lùn - type: 5
-2354: Thẻ thỏi vàng - type: 27
-2355: Songonku Huyền ảnh - type: 5
-2356: Ba lô rực lửa - type: 11
-2357: Thiên Thần Black - type: 19
-2358: Danh hiệu Top 1 Sức mạnh - type: 17
-2359: Danh hiệu Top 2 Sức mạnh - type: 17
-2360: Danh hiệu Top 3 Sức mạnh - type: 17
-2361: Danh hiệu Top 1 Nhiệm vụ - type: 17
-2362: Danh hiệu Top 2 Nhiệm vụ - type: 17
-2363: Danh hiệu Top 3 Nhiệm vụ - type: 17
-2364: Xayda thời hiện đại - type: 5
-2365: Namec thời hiện đại - type: 5
-2366: Trái đất thời hiện đại - type: 5
-2367: Đệ tử mới - type: 5
-2368: Trứng Broly - type: 27
-2369: Vé đổi skill 1 đệ tử ra liên hoàn - type: 27
-2370: Vé đổi skill 1 đệ tử ra Kaioken - type: 27
-2371: Cải trang Songoku Bờ Lu - type: 5
-2372: Đeo Lưng Tiểu Y Tiên - type: 11
-2373: Đeo Lưng Phong Tôn Giả  - type: 11
-2374: Đeo Lưng Baloteli  - type: 11
-2375: Danh hiệu Noel của FA - type: 17
-2376: Pet Mã Hộ Vệ  - type: 18
-2377: Hộp quà Noel - type: 27
-2378: Mũi cà rốt - type: 27
-2379: Tất giáng sinh - type: 27
-2380: Người tuyết canh gác - type: 27
-2381: Tảng tuyết - type: 27
-2382: Tay gỗ - type: 27
-2383: Ngọc rồng băng 1 sao - type: 27
-2384: Ngọc rồng băng 2 sao - type: 27
-2385: Ngọc rồng băng 3 sao - type: 27
-2386: Ngọc rồng băng 4 sao - type: 27
-2387: Ngọc rồng băng 5 sao - type: 27
-2388: Ngọc rồng băng 6 sao - type: 27
-2389: Ngọc rồng băng 7 sao - type: 27
-2390: Thú Cưỡi Linh Quy - type: 23
-2391: Đậu thần cấp 11 - type: 6
-2392: Hào quang sói xanh - type: 21
-2393: Hào quang sói hồng - type: 21
-2394: Sách Super Kamejoko lv1 - type: 7
-2395: Sách Super Kamejoko lv2 - type: 7
-2396: Sách Super Kamejoko lv3 - type: 7
-2397: Sách Super Kamejoko lv4 - type: 7
-2398: Sách Super Kamejoko lv5 - type: 7
-2399: Sách Super Kamejoko lv6 - type: 7
-2400: Sách Super Kamejoko lv7 - type: 7
-2401: Diễm Phân Phệ Lãng Xích - type: 11
-2402: SônGôKu Ngoài Vòng Pháp Luật - type: 5
-2403: Danh hiệu Cú Sốc Đầu Đời - type: 17
-2404: Tóp 1 Noel - type: 17
-2405: Tóp 2 Noel - type: 17
-2406: Tóp 3 Noel - type: 17
-2407: Danh hiệu Quay Tay hộ pháp - type: 17
-2408: Hào quang Lion - type: 21
-2409: Thú Cưỡi Rồng Đen - type: 23
-2410: Corgi Thế giới mới  - type: 23
-2411: Thú Cưỡi Chiến Binh Gấu Mèo - type: 23
-2412: Đeo Lưng Robot Hoang Dã - type: 11
-2413: Đeo Lưng Robốt Trấn Giữ - type: 11
-2414: Pét Robocon Điệp Viên - type: 18
-2415: Linh Thú Tuyết Lân - type: 19
-2416: Ngọc Bội Huyết Ma - type: 26
-2417: Cải trang GatChan Tóc Tím - type: 5
-2418: Cải trang Doremon tóc xayda - type: 5
-2419: Chiller Đại Đế - type: 5
-2420: Cải Trang Wolverine - type: 5
-2421: Songoku Tiệc Bể Bơi - type: 5
-2422: Cải Trang Siêu Xayda Đô Re mon - type: 5
-2423: Cải trang SGK SSJ 1 - type: 5
-2424: Cải Trang Sôngoku Rồng Đen - type: 5
-2425: Cải trang SGK SSJ 3 - type: 5
-2426: Cải Trang Sôn Goku Thế giới mới - type: 5
-2427: Cải trang SGK SSJ 5 - type: 5
-2428: Cải trang Mitsuishi Kotono - type: 5
-2429: Cải trang Radic - type: 5
-2430: Ngọc Bội Njnja Tứ Linh - type: 26
-2431: Đeo Lưng Phi Tiêu Tia chớp - type: 11
-2432: Top 1 Vòng Quay Thượng Đế Mới - type: 17
-2433: Top 2 Vòng Quay Thượng Đế Mới - type: 17
-2434: Top 3 Vòng Quay Thượng Đế Mới - type: 17
-2435: Túi đá siêu cấp - type: 27
-2436: Vé giảm sức mạnh sư phụ - type: 27
-2437: Đeo Lưng Bụi Tre Ác Ma - type: 11
-2438: Vegeta Nhiễm Phóng Xạ  - type: 5
-2439: Cải trang xayda tóc vàng - type: 5
-2440: Đeo Lưng Pháo Hoa Khổng Lồ - type: 11
-2441: Đeo Lưng Bạch Xà Hỏa Lân 2025  - type: 11
-2442: Pét Cáo xanh - type: 18
-2443: Thú Cưỡi Rồng Rắn Lên Mây  - type: 23
-2444: Thú Cưỡi Kỳ Lân - type: 23
-2445: Danh Hiệu Sinh Nhật 1 Năm HSNR  - type: 17
-2446: Bánh chưng - type: 27
-2447: Bánh tét - type: 27
-2448: Bao lì xì - type: 27
-2449: Chả lụa siêu ngon - type: 29
-2450: Củ kiệu may mắn - type: 29
-2451: Đậu xanh - type: 27
-2452: Dưa hấu lộc xuân - type: 29
-2453: Gạo nếp dẻo - type: 27
-2454: Hộp quà tết - type: 27
-2455: Hộp quà xuân - type: 27
-2456: Lá chuối - type: 27
-2457: Lá dong - type: 27
-2458: Lạp xưởng huyền bí - type: 29
-2459: Mứt dừa huyền bí - type: 29
-2460: Pháo hoa may mắn - type: 27
-2461: Rượu gạo vui tết - type: 29
-2462: Thịt heo ngon - type: 27
-2463: Thịt heo thần kì - type: 29
-2464: Túi rồng vàng - type: 27
-2465: Hào quang hổ trắng - type: 21
-2466: Thú cưỡi Lân Con  - type: 23
-2467: Pét khủng long - type: 18
-2468: Pét Chiến Binh Cá  - type: 18
-2469: Danh hiệu Bắn tùm lum - type: 17
-2470: Cải trang Anh Trai yardat - type: 5
-2471: Ngọc Bội Nút Thắt Ruby - type: 26
-2472: Thẻ đeo lưng - type: 27
-2473: Thẻ thú cưỡi - type: 27
-2474: Thú cưỡi Phong Hoả Luân - type: 23
-2475: Top 1 Vòng Quay Thượng Đế Mới - type: 17
-2476: Top 2 Vòng Quay Thượng Đế Mới - type: 17
-2477: Top 3 Vòng Quay Thượng Đế Mới - type: 17
-2478: Danh hiệu Top 1 Sức mạnh - type: 17
-2479: Danh hiệu Top 2 Sức mạnh - type: 17
-2480: Danh hiệu Top 3 Sức mạnh - type: 17
-2481: Thú Cưỡi Con Cua - type: 23
-2482: Ngọc Bội Boy Phố - type: 26
-2483: Danh hiệu Top 1 VIP - type: 17
-2484: Danh hiệu Top 2 VIP - type: 17
-2485: Danh hiệu Top 3 VIP - type: 17
-2486: Bò Tót Đại Ma Vương - type: 23
-2487: Ngọc Bội Đỉnh Phong - type: 26
-2488: Hào Quan Rắn Thần Giáng Thế - type: 21
-2489: Linh Thú Quỷ rồng - type: 19
-2490: Cậu Bé Vệ Tinh Giải Ngân Hà - type: 5
-2491: Danh hiệu Top 1 Hộp quà - type: 17
-2492: Danh hiệu Top 2 Hộp quà - type: 17
-2493: Danh hiệu Top 3 Hộp quà - type: 17
-2494: Cải trang không thương lượng - type: 5
-2495: Cải trang điên loạn - type: 5
-2496: Túi đá huyền ảo VIP - type: 27
-2497: Thẻ linh thú - type: 27
-2498: Cáo Siêu Quậy - type: 19
-2499: Cải trang Xinbato - type: 5
-2500: Cải trang sói hẹc quyn - type: 5
-2501: Cải trang Ở dơ - type: 5
-2502: Chiến Binh Dextra  - type: 5
-2503: Đeo Lưng Tinh La Nguyệt Ảnh - type: 11
-2504: Thú cưỡi Hỏa Diễm Luân - type: 23
-2505: Đeo lưng đồng hồ cát - type: 11
-2506: Hoa cẩm tú cầu - type: 27
-2507: Hoa mẫu đơn - type: 29
-2508: Hoa nhài - type: 29
-2509: Hoa sen hồng - type: 29
-2510: Hộp quà 8-3 - type: 27
-2511: Hộp quà yêu thương - type: 27
-2512: Hoa Mộc Lan - type: 29
-2513: Hoa Ngọc Lan - type: 29
-2514: Hoa Sen tiên - type: 29
-2515: Thẻ đeo lưng - type: 27
-2516: Thẻ thú cưỡi - type: 27
-2517: Hoa Tiên đằng - type: 29
-2518: Hoa Vô tận - type: 29
-2519: Pet Thải Lân - type: 18
-2520: Hào Quang Linh Miêu - type: 21
-2521: Đeo lưng bạch tuộc - type: 11
-2522: Danh hiệu top 1 hộp quà - type: 17
-2523: Danh hiệu top 2 hộp quà  - type: 17
-2524: Danh hiệu top 3 hộp quà  - type: 17
-2525: Danh hiệu Top 1 Boss - type: 17
-2526: Danh hiệu Top 2  Boss - type: 17
-2527: Danh hiệu Top 3  Boss - type: 17
-2528: Hào Quang Linh Hươu  Ánh Sao  - type: 21
-2529: Ngọc Bội Phong Tôn Giả  - type: 26
-2530: Kai Gohan Hắc Ám - type: 5
-2531: Cải Trang Nhiễm Sắc Thể Golden - type: 5
-2532: Cải Trang Broly Rồng Xanh - type: 5
-2533: Ngọc Hoả Linh - type: 29
-2534: Ngọc Thanh Tán - type: 29
-2535: Ngọc Thuỷ Tổ - type: 29
-2536: Vé bỏ qua tường thành - type: 27
-2537: Ngọc Bội Chan Đê - type: 26
-2538: Ngọc Hoàng Giáp - type: 29
-2539: Ngọc Xuyên Lôi - type: 29
-2540: Ngọc Tâm - type: 29
-2541: Ngọc Hồn - type: 29
-2542: Vé siêu việt Pet cấp 1 - type: 36
-2543: Cải trang Khỉ Siêu Tốc - type: 5
-2544: Lưỡi Hái Hắc Lân - type: 11
-2545: Danh hiệu Top 1 Ngục Tù - type: 17
-2546: Danh hiệu Top 2 Ngục Tù - type: 17
-2547: Danh hiệu Top 3 Ngục Tù - type: 17
-2548: Dưa hấu thần tích - type: 29
-2549: Bánh chưng lạc hồng - type: 29
-2550: Bánh dày thái dương - type: 29
-2551: Ấn vàng hùng vương - type: 29
-2552: Chè sen ngọc bích - type: 29
-2553: Rượu nếp làng việt - type: 29
-2554: Ngọc lục bảo âu cơ - type: 29
-2555: Ấn ngọc hoàn chỉnh - type: 27
-2556: Mảnh ấn long - type: 27
-2557: Mảnh ấn hổ - type: 27
-2558: Mảnh ấn sói - type: 27
-2559: Mảnh mị mộng - type: 27
-2560: Mảnh sơn thạch - type: 27
-2561: Mảnh thuỷ long - type: 27
-2562: Phủ đồ thần quyền - type: 27
-2563: Quỷ tới chơi - type: 29
-2564: Rương item - type: 27
-2565: Rương phù đồ - type: 27
-2566: Thẻ cải trang Vua Hùng - type: 27
-2567: Thẻ pet Vua Hùng - type: 27
-2568: Thẻ sự kiện Vua Hùng - type: 27
-2569: Cải trang Mị Nương Thanh Huyết - type: 5
-2570: Đeo lưng Cánh Tử Đằng - type: 11
-2571: Cải trang Mị Liên Thanh Huyết - type: 5
-2572: Pet Linh Xà - type: 18
-2573: Hào Quang Hồ Ly Ma Mị  - type: 21
-2574: Thú cưỡi Hắc Quyền - type: 23
-2575: Đeo lưng Quỷ Kiếm - type: 11
-2576: Danh hiệu con cháu Lạc Hồng - type: 17
-2577: Áo Chúng Sinh Bình Đẳng - type: 90
-2578: Quần Chúng Sinh Bình Đẳng - type: 91
-2579: Nhẫn Chúng Sinh Bình Đẳng - type: 94
-2580: Găng Chúng Sinh Bình Đẳng - type: 92
-2581: Giầy Chúng Sinh Bình Đẳng - type: 93
-2582: Danh hiệu Vua Hùng Chí Tôn - type: 17
-2583: Danh hiệu Bá Chủ Vua Hùng - type: 17
-2584: Danh hiệu Vua Hùng Đệ Nhất - type: 17
-2585: Bàn Tay Của Hổ - type: 11
-2586: Đeo lưng Kiếm Thánh - type: 11
-2587: Xayda Lục Bạo Thần - type: 5
-2588: Ngọc Bội Vua Hùng - type: 26
-2589: Hào Quang Tuyệt Thế Kiếm Linh - type: 21
-2590: Linh Thú Darkin - type: 19
-2591: Thú Cưỡi Cá Chép - type: 23
-2592: Cuồng Nộ CSBD - type: 29
-2593: Bổ Huyết CSBD - type: 29
-2594: Bổ Khí CSBD - type: 29
-2595: Đậu thần CSBD - type: 6
-2596: Xayda Lục Bạo Thần CSBD - type: 95
-2597: Đeo lưng AK - type: 11
-2598: Đeo lưng vũ khí - type: 11
-2599: Ba lô hành quân - type: 29
-2600: Bữa cơm trưa 30/4 1/5 - type: 29
-2601: Cờ giải phóng - type: 29
-2602: Hòm tiếp tế - type: 27
-2603: Hộp Đạn - type: 11
-2604: Huy hiệu giải phóng - type: 29
-2605: Mũ bộ đội thép - type: 29
-2606: Radio kháng chiến - type: 29
-2607: Rương tri ân - type: 27
-2608: Rương lao động - type: 27
-2609: Sổ tay chiến sĩ - type: 29
-2610: Hộp danh hiệu - type: 27
-2611: Hào quang kiếm và phượng - type: 21
-2612: Mảnh hộp đại đệ tử - type: 27
-2613: Cải Trang Broly Rồng Đỏ - type: 5
-2614: Danh hiệu Yêu Nước - type: 17
-2615: Danh hiệu Chân Mệnh Đế Vương - type: 17
-2616: Danh hiệu Vua Về Nhì - type: 17
-2617: Cải Trang Broly Mới - type: 5
-2618: Đeo Lưng Thiên Hồn Phiên  - type: 11
-2619: Danh hiệu Top 1 Sức mạnh - type: 17
-2620: Danh hiệu Top 2 Sức mạnh - type: 17
-2621: Danh hiệu Top 3 Sức mạnh - type: 17
-2622: Ngọc Bội Viễn Cổ - type: 26
-2623: Danh hiệu Chiến Thần Siêu Cấp - type: 17
-2624: Danh hiệu Niềm Tự Hào Vĩnh Cửu - type: 17
-2625: Đeo lưng Cúp Vô Địch - type: 11
-2626: Lệnh bài triệu hồi boss - type: 27
-2627: Bánh mỳ thợ săn - type: 27
-2628: Búa tạo hoá - type: 27
-2629: Mảnh trứng chiến binh - type: 27
-2630: Thịt rồng nướng - type: 27
-2631: Trứng chiến binh 1 sao - type: 27
-2632: Vé tử phù - type: 27
-2633: Pet lôi oa - type: 18
-2634: Trứng chiến binh 2 sao - type: 27
-2635: Trứng chiến binh 3 sao - type: 27
-2636: Vé siêu việt cải trang cấp 2 - type: 36
-2637: Vé siêu việt đeo lưng cấp 2 - type: 36
-2638: Vé siêu việt thú cưỡi cấp 2 - type: 36
-2639: Vé siêu việt danh hiệu cấp 2 - type: 36
-2640: Vé siêu việt linh thú cấp 2 - type: 36
-2641: Vé siêu việt ngọc bội cấp 2 - type: 36
-2642: Đeo lưng Hồn Phiên 2 - type: 11
-2643: Đậu thần lửa mặt trời - type: 6
-2644: Linh hồn lửa mặt trời - type: 29
-2645: Chiến binh natra ma đồng giáng thế - type: 20
-2646: Đeo lưng cánh thiên yêu hoàng tộc - type: 96
-2647: Vé tăng sát thương QCKK - type: 29
-2648: Vé tăng sát thương tự phát nổ - type: 29
-2649: Hộp quà hè - type: 27
-2650: Hộp quà mùa hạ - type: 27
-2651: Thẻ đeo lưng hè - type: 27
-2652: Vỏ dừa ma thuật - type: 27
-2653: Kem ánh trăng - type: 27
-2654: Vé mặt trời - type: 27
-2655: Pet cáo lửa - type: 18
-2656: Thú Cưỡi Kong Đại Vương - type: 23
-2657: Thú Cưỡi Cẩu Đầu Đàn - type: 23
-2658: Mảnh Vị Nắng - type: 27
-2659: Cải Trang Lính Đánh Thuê Da Xanh - type: 5
-2660: Thẻ cải trang Hè - type: 27
-2661: Hào Quang Lốc Xoáy - type: 21
-2662: Cải Trang Rồng Omega - type: 5
-2663: Ngọc Bội Hè - type: 26
-2664: Hộp quà chào mừng hè 2025 - type: 27
-2665: Đeo Lưng Thiên Hồn Phiên Cửu U - type: 11
-2666: Pét Trích Tinh Lão Qủy - type: 18
-2667: Pet Mới - type: 18
-2668: Khỉ Đỏ Trộm Mộ - type: 5
-2669: Đậu thần 100% HP KI - type: 6
-2670: Đậu thần 50% HP Ki - type: 6
-2671: Vé tăng 50% HP KI SĐ - type: 27
-2672: Vé tăng 50k SĐ - type: 27
-2673: Vé tăng 2tr HP KI  - type: 27
-2674: Vé tăng 1tr HP KI  - type: 27
-2675: Danh hiệu Hè Phê Pha - type: 17
-2676: Danh hiệu Hè Tê Tái - type: 17
-2677: Danh hiệu Hè Lè Nhè - type: 17
-2678: Hào Quang Rồng Nước - type: 21
-2679: Ngọc Bội Hẹ Hẹ Hẹ - type: 26
-2680: Ngọc Bội Hè Hè Hè - type: 26
-2681: Đeo lưng cánh thiên yêu hoàng tộc - type: 11
-2682: Danh hiệu Top 1 VIP - type: 17
-2683: Danh hiệu Top 2 VIP - type: 17
-2684: Danh hiệu Top 3 VIP - type: 17
-2685: Cải trang Broly Hắc Thần - type: 5
-2686: Cải trang Super Saiyan Thần Vương - type: 5
-2687: Danh hiệu Top 1 Whis Liên Server - type: 17
-2688: Danh hiệu Top 2 Whis Liên Server - type: 17
-2689: Danh hiệu Top 3 Whis Liên Server - type: 17
-2690: Chu Tước Hỏa Linh - type: 27
-2691: Danh hiệu Top 1 Siêu Cấp - type: 17
-2692: Danh hiệu Top 2 Siêu Cấp - type: 17
-2693: Ngọc Bội Siêu Cấp - type: 26
-2694: Cải Trang Son GoHan Hóa Thần - type: 5
-2695: Cải Trang Hải Ba Đồng SSJ - type: 5
-2696: Cải Trang Broly Kền Kền - type: 5
-2697: Cửu U Phi Trảm - type: 29
-2698: Hồi Linh Đan - type: 29
-2699: Hư Không Kiếm - type: 29
-2700: Phệ Hồn Phiên - type: 29
-2701: Thiên Lôi Chùy - type: 29
-2702: Túi Phàm Nhân - type: 27
-2703: Vé Cải Trang Hè - type: 27
-2704: Vé Đeo Lưng Vip - type: 27
-2705: Vé Free Hè - type: 27
-2706: Vé Pet Vip - type: 27
-2707: Vé Quay Hè - type: 27
-2708: Vé Quay Hè Vip - type: 27
-2709: Vé Thú Cưỡi Vip - type: 27
-2710: Thú Cưỡi Xạ Thần Xa - type: 23
-2711: Thú Cưỡi Trượng Phi Hành - type: 23
-2712: Hài Cốt Đấu Thánh - type: 23
-2713: Đeo Lưng Tiên Kiếm - type: 11
-2714: Goku Nguyên Anh - type: 5
-2715: Goku Hóa Thần - type: 5
-2716: Goku Anh Biến - type: 5
-2717: Đeo Lưng Thương Hồn U - type: 11
-2718: Pet Tiểu Ma Vương - type: 18
-2719: Hào Quang Búa Ánh Sáng - type: 21
-2742: Cánh 1 - type: 11
-2743: Cánh 2 - type: 11
-2744: Cánh 3 - type: 11
-2745: Cánh 4 - type: 11
-2746: Cánh 5 - type: 11
-2747: Hắc Thiên Dực  - type: 11
-2748: Cánh 7 - type: 11
-2749: Đeo Lưng Cánh Thiên Cổ - type: 11
-2750: Đeo Lưng Cánh Phong Sắc - type: 11
-2751: Super Broly Tà Vương - type: 5
-2752: Pet Madara - type: 18
-2753: Hào Quang Thần Tài - type: 21
-2754: Danh hiệu Top 1 Vòng Quay Hè - type: 17
-2755: Danh hiệu Top 2 Vòng Quay Hè - type: 17
-2756: Danh hiệu Top 3 Vòng Quay Hè - type: 17
-2757: Linh Thú Tiểu Siêu Nhân SuperMan - type: 19
-2758: Thú Cưỡi Cá Tiền Sử - type: 23
-2759: Ngọc Bội Tu Tiên - type: 26
-2760: Danh hiệu Top 1 Liếm Boss - type: 17
-2761: Danh hiệu Top 2 Liếm Boss - type: 17
-2762: Danh hiệu Top 3 Liếm Boss - type: 17
-2763: Thú Cưỡi Rồng Thiêng - type: 23
-2764: Danh hiệu Top 1 Sức mạnh - type: 17
-2765: Danh hiệu Top 2 Sức mạnh - type: 17
-2766: Danh hiệu Top 3 Sức mạnh - type: 17
-2767: Bunma đi mô tô - type: 23
-2768: Thú cưỡi Bí Ngô Ác Ma - type: 23
-2769: Ngọc Bội Rồng - type: 26
-2770: Hào Quang Đệ Tử - type: 40
-2771: Hào quang Hắc Diễm U Linh - type: 21
-2772: Cải trang Black Gác Kiếm - type: 5
-2773: Cải trang Black Lục Thần - type: 5
-2774: Thú cưỡi Găng Tay Siêu Bựa - type: 23
-2775: Thú cưỡi Lôi Điểu - type: 23
-2776: Đeo Lưng Kiếm Hỏa Minh Giáo - type: 11
-2777: Đeo Lưng Độc Nhãn Trảm - type: 11
-2778: Pet Tuyết Tâm Đồng Tử - type: 18
-2779: Linh Hồn - type: 27
-2780: Rương Item - type: 27
-2781: Bùa Cầu Siêu - type: 27
-2782: Thẻ Tô Màu - type: 27
-2783: Túi Linh Hồn - type: 27
-2784: Vé Cải Trang Cô Hồn - type: 27
-2785: Vé Đeo Lưng Cô Hồn - type: 27
-2786: Vé Hào Quang Đệ Tử - type: 27
-2787: Vé Pet Cô Hồn - type: 27
-2788: Vé Sự Kiện - type: 27
-2789: Vé Thú Cưỡi Cô Hồn - type: 27
-2790: Thú cưỡi Rồng Lửa Ngáo - type: 23
-2791: Thuốc TNSM - type: 29
-2792: Thuốc HP - type: 29
-2793: Thuốc KI - type: 29
-2794: Thuốc SĐ - type: 29
-2795: Thú Cưỡi Cá Voi Hộ Pháp - type: 23
-2796: Cải trang Trái Đất - type: 5
-2797: Cải trang Songoku Hoàng Kim - type: 5
-2798: Cải trang Namec - type: 5
-2799: Mặt Nạ Quỷ - type: 29
-2800: Thẻ 1 thỏi vàng - type: 27
-2801: Mảnh Skill - type: 27
-2802: Sách skill Đại Thiên Tạo Hóa Chưởng - type: 27
-2803: Sách skill Cú Chưởng Rồng - type: 27
-2804: Sách skill Khỉ Vương Hấp Hồn - type: 27
-2805: Vé thành thạo skill - type: 27
-2806: Danh hiệu Top 1 Âm Binh - type: 17
-2807: Danh hiệu Top 2 Oan Hồn - type: 17
-2808: Danh hiệu Top 3 Vong Nhi - type: 17
-2809: Thú Cưỡi Hỏa Long Thần Uy  - type: 23
-2810: Đeo lưng Thiên Lôi Huyết Ảnh - type: 11
-2811: Ngọc Bội Cô Hồn  - type: 26
-2812: Hào Quang Thánh Viêm - type: 21
-2813: Danh hiệu Top 1 Cày Chay - type: 17
-2814: Danh hiệu Top 2 Cày Chay - type: 17
-2815: Danh hiệu Top 3 Cày Chay - type: 17
-2816: Ván Bay Đóa Hoa Tặng Nàng - type: 23
-2817: Đeo Lưng Thanh Trúc Phong Vân Kiếm - type: 11
-2818: Cải trang Songoku Tịch Tà Kiếm Phổ - type: 5
-2819: Ánh Trăng Rằm - type: 27
-2820: Đậu Xanh - type: 27
-2821: Hộp Quà Trung Thu - type: 27
-2822: Bùa x2 - type: 29
-2823: Bùa x3 - type: 29
-2824: Bùa x5 - type: 29
-2825: Nếp Dẻo - type: 27
-2826: Thẻ Tích Điểm - type: 27
-2827: Trứng Muối - type: 27
-2829: Túi Mù Trung Thu 10 TV - type: 27
-2830: Vé Cải Trang Trung Thu - type: 27
-2831: Vé Chat Thế Giới Ngẫu Nhiên - type: 27
-2832: Vé Đeo Lưng Trung Thu - type: 27
-2833: Vé Hào Quang Đệ Tử - type: 27
-2835: Vé Pet Trung Thu - type: 27
-2836: Vé Thú Cưỡi Trung Thu - type: 27
-2837: Vé Xuyên Không - type: 27
-2838: Lồng Đèn vô cực - type: 11
-2839: Lồng đèn 2 - type: 11
-2840: Đeo Lưng Huyết Lôi Đao - type: 11
-2841: Búa - type: 11
-2842: Ván bay 1 - type: 23
-2843: Ván bay 2 - type: 23
-2844: Đeo lưng Lồng đèn ông sao - type: 11
-2845: Đeo lưng Lồng Đèn cá chép - type: 11
-2846: Hỏa Vân Dực - type: 11
-2847: Cánh Thiên Vân Dực - type: 11
-2848: Thú Cưỡi Kim Vân Lân - type: 23
-2849:  Pét Lưỡi Dài Hôi Hám - type: 18
-2850: Cải trang Fide Viễn Cổ - type: 5
-2851: Cải trang Chiller Viễn Cổ - type: 5
-2852: Ngọc Bội Trung Thu - type: 26
-2853: Thú cưỡi thuyền rồng - type: 23
-2854: Hào Quang Trung Thu - type: 21
-2855: Túi Mù Trung Thu 50 TV - type: 27
-2856: Hào quang Lửa trời  - type: 21
-2857: Vé siêu việt pet cấp 2 - type: 36
-2858: Danh hiệu chat Thánh Lùa Gà - type: 27
-2859: Danh hiệu chat Vua Chat Thế Giới - type: 27
-2860: Danh hiệu chat Trùm Làm Màu - type: 27
-2861: Danh hiệu chat Thích Var - type: 27
-2862: Danh hiệu chat Ông Hoàng Ngoại Giao - type: 27
-2863: Danh hiệu chat Chúa Tể Spam - type: 27
-2864: Pét Tề Thiên Đại Thánh - type: 18
-2865: Hào quang đệ tử  - type: 40
-2866: Bánh trung HP - type: 29
-2867: Bánh trung KI - type: 29
-2868: Bánh trung SD - type: 29
-2869: Bánh trung TNSM - type: 29
-2870: Bánh trung sát thương skill 9 - type: 29
-2871: Cải trang Tanjirou Kamado - type: 5
-2872: Cải trang Inosuke Hashibira - type: 5
-2873: Cải trang Inosuke ko mũ - type: 5
-2874: Cải trang nezuko - type: 5
-2875: Cải trang Zanitsu - type: 5
-2876: Chiến Hạm Santa - type: 23
-2877: Cần câu cá - type: 11
-2878: Cá Mập Đầu Búa - type: 27
-2879: Cá Rồng - type: 27
-2880: Cá Trê - type: 27
-2881: Cá Lóc Bông - type: 27
-2882: Cá Lòng Tong - type: 27
-2883: Mồi cám trộn - type: 27
-2884: Mồi giun đất - type: 27
-2885: Móc câu lure VIP - type: 27
-2886: Vé x5 sát thương skill 9 - type: 29
-2887: Vé x10 sát thương tự sát - type: 29
-2888: Vé x10 sát thương QCKK - type: 29
-2889: Vé câu đổi quà - type: 27
-2890: Capsule item cấp 1 - type: 27
-2891: Capsule item cấp 2 - type: 27
-2892: Songoku Vô Cực - type: 5
-2893: Songoku Cực Hạn - type: 5
-2894: Cải Trang Songoku Long Thần - type: 5
-2895: Cải Trang Black Goku Sát Thần - type: 5
-2896: Cải trang hợp thể Songoku Tịch Tà Kiếm Phổ - type: 5
-2897: Danh hiệu Top 1 Vòng Quay Trung Thu - type: 17
-2898: Danh hiệu Top 2 Vòng Quay Trung Thu - type: 17
-2899: Danh hiệu Top 3 Vòng Quay Trung Thu - type: 17
-2900: Danh hiệu Top 1 Vip Server - type: 17
-2901: Danh hiệu Top 2 Vip Server - type: 17
-2902: Danh hiệu Top 3 Vip Server - type: 17
-2903: Hào Quang Lửa Ngũ Sắc - type: 21
-2904: Hào quang đệ tử  - type: 40
-2905: Ngọc Bội Trung Thu - type: 26
-2906: Linh Thú Mồn Lèo - type: 19
-2907: Danh Hiệu Vua Câu Cá - type: 17
-2908: Danh Hiệu Thánh Phá Mồi - type: 17
-2909: Danh Hiệu Kẻ Săn Thủy Quái - type: 17
-2910: Ngọc Bội Cá Vàng - type: 26
-2911: Đôi Cánh Biển Sâu - type: 11
-2912: Thú Cưỡi Pika Thần Long - type: 23
-2914: Hộp Quà Halloween - type: 27
-2915: Cải trang Mabu Halloween - type: 5
-2916: Thú cưỡi halloween - type: 23
-2917: Đeo Lưng Lồng Đèn Hallowen - type: 11
-2918: Linh Thú Halloween - type: 19
-2919: Ngọc Bội Bí Ngô Hallowen - type: 26
-2920: Pét bí ngô Hallowen  - type: 18
-2921: Cải trang Trunks Mắt Đỏ - type: 5
-2922: Cải trang Gohan xác sống - type: 5
-2923: Ngọc rồng Halloween 1 sao - type: 27
-2924: Ngọc rồng Halloween 2 sao - type: 27
-2925: Ngọc rồng Halloween 3 sao - type: 27
-2926: Ngọc rồng Halloween 4 sao - type: 27
-2927: Ngọc rồng Halloween 5 sao - type: 27
-2928: Ngọc rồng Halloween 6 sao - type: 27
-2929: Ngọc rồng Halloween 7 sao - type: 27
-2930: Danh Hiệu Bóng Ma Halloween - type: 17
-2931: Vé Đêm Hội Halloween - type: 27
-2932: Thú cưỡi dơi vàng 1 mắt - type: 23
-2933: Dơi Đỏ - type: 19
-2934: Hào Quang Sư Phụ hallowen - type: 21
-2935: Hào quang Đệ tử Hallowen - type: 40
-2936: Ngọc Bội Hallowen - type: 26
-2937: Danh hiệu Top 1 Sức Mạnh tháng 11 - type: 17
-2938: Danh hiệu Top 2 Sức Mạnh tháng 11 - type: 17
-2939: Danh hiệu Top 3 Sức Mạnh tháng 11 - type: 17
-2940: Danh hiệu Top 1 Nhiệm Vụ tháng 11 - type: 17
-2941: Danh hiệu Top 2 Nhiệm Vụ tháng 11 - type: 17
-2942: Danh hiệu Top 3 Nhiệm Vụ tháng 11 - type: 17
-2943: Đeo Lưng Linh Hồn Lửa - type: 11
-2944: Đeo Lưng Người Lửa - type: 11
-2945: Bạch Tuộc - type: 27
-2946: Cá Basa - type: 27
-2947: Cá Đuối - type: 27
-2948: Cá Rô Đồng - type: 27
-2949: Cá Tầm - type: 27
-2950: Hoa Hồng Vip - type: 27
-2951: Hoa Nguyệt Quế - type: 27
-2952: Mồi Bánh Mỳ - type: 27
-2953: Mồi Mực Giả - type: 27
-2954: Mồi Trứng Kiến - type: 27
-2955: Vé Cải Trang 20/11 - type: 27
-2956: Vé Đeo Lưng 20/11 - type: 27
-2957: Vé Hào Quang Đệ Tử 20/11 - type: 27
-2958: Vé Pet 20/11 - type: 27
-2959: Vé Thú Cưỡi 20/11 - type: 27
-2960: Vé Câu Đổi Quà 20/11 - type: 27
-2961: Pét Anh Shipper Thân Thiện  - type: 18
-2962: Cần Câu Cá 20/11 - type: 11
-2963: Bó Hoa Lụa Thánh - type: 11
-2964: Đeo Lưng Thánh Quang Dực - type: 11
-2965: Hào Quang Sư Phụ 20/11 - type: 21
-2966: Hào quang Đệ tử 20/11 - type: 40
-2967: Cải trang váy trắng - type: 5
-2968: Tiểu Linh Tử  - type: 5
-2969: Tàu Bay Quy Lão - type: 23
-2970: Vé x5 sát thương skill 9 - type: 29
-2971: Vé x10 sát thương tự sát - type: 29
-2972: Vé x10 sát thương QCKK - type: 29
-2973: Thú cưỡi Bé Sấm - type: 23
-2974: Thú Cưởi Tên Lửa Uron  - type: 23
-2975: Mảnh áo hủy diệt - type: 27
-2976: Mảnh găng hủy diệt - type: 27
-2977: Mảnh giày hủy diệt - type: 27
-2978: Mảnh nhẫn hủy diệt - type: 27
-2979: Mảnh quần hủy diệt - type: 27
-2980: Đá Hồn thiên đế cấp 7 - type: 27
-2981: Đá Hồn thiên đế cấp 8 - type: 27
-2982: Đá Hồn thiên đế cấp 9 - type: 27
-2983:  Cải Trang Tiểu Chi Chi - type: 5
-2984: Danh hiệu Top 1 Whis Liên Server - type: 17
-2985: Danh hiệu Top 2 Whis Liên Server - type: 17
-2986: Danh hiệu Top 3 Whis Liên Server - type: 17
-2987: Danh hiệu Top 4 Whis Liên Server - type: 17
-2988: Goku Hoàng Giả - type: 5
-2989: Calich Du Học Sinh - type: 5
-2990: Goku Cuồng Bạo - type: 5
-2991: Thú Cưỡi Phượng Hoàng Băng  - type: 23
-2992: Thú Cưỡi Thiên Thần HSNR - type: 23
-2993: Danh hiệu Top Sát Thủ Biển Sâu - type: 17
-2994: Danh hiệu Bóng Ma Ven Biển
- - type: 17
-2995: Danh hiệu Top Chúa Tể Đầm Lầy - type: 17
-2996: Danh hiệu Top 1 Vòng Quay 20/11 - type: 17
-2997: Danh hiệu Top 2 Vòng Quay 20/11 - type: 17
-2998: Danh hiệu Top 3 Vòng Quay 20/11 - type: 17
-2999: Ngọc Bội Song Lưu - type: 26
-3000: Hào Quang Sư Phụ Top Vòng quay - type: 21
-3001: Hào Quang Sói Xanh - type: 21
-3002: Goku Vô Cực - type: 5
-3003: Radic - type: 5
-3004: Goju Satoru - type: 5
-3005: Cải Trang Ảnh Linh Saiyan - type: 5
-3006: Tượng Phật - type: 27
-3007: Danh Hiệu Top 1 Siêu Cấp Liên Server - type: 17
-3008: Danh Hiệu Top 2 Siêu Cấp Liên Server - type: 17
-3009: Danh hiệu Top 1 Whis Siêu Cấp Liên Server - type: 17
-3010: Danh hiệu Top 2 Whis Siêu Cấp Liên Server - type: 17
-3011: Danh hiệu Top 3 Whis Siêu Cấp Liên Server - type: 17
-3012: Ngọc Bội Siêu Cấp Liên Sever - type: 26
-3013: Đeo Lưng Gậy Phép Màu Noel - type: 11
-3014: Đeo Lưng Phong Lôi Thần Dực - type: 11
-3015: Thú Cưỡi Phi Cơ Tuyết Siêu Tốc - type: 23
-3016: Pét Hokage Noel - type: 18
-3017: Cải Trang Noel Tiểu Pan - type: 5
-3018: Cải Trang Mabu Noel - type: 5
-3019: Vé Cải Trang Noel - type: 27
-3020: Vé Đeo Lưng Noel - type: 27
-3021: Vé Pét Noel - type: 27
-3022: Vé Thú Cưỡi Noel - type: 27
-3023: Bông Tuyết - type: 27
-3024: Hộp Quà Noel - type: 27
-3025: Tất Ông Già Noel - type: 27
-3026: Thiệp Giáng Sinh Vip - type: 27
-3027: Thiệp Giáng Sinh - type: 27
-3028: Vé x2 Sát Thương Skill 9 - type: 29
-3029: Vé x5 Sát Thương Skill 9 - type: 29
-3030: Thú Cưỡi Phi Cơ Merry Xmas - type: 23
-3031: Hào Quang Sư Phụ Vòng Quay Noel - type: 21
-3032: Vé Hào Quang Đệ Tử Noel - type: 27
-3033: Hào quang Đệ tử Noel - type: 40
-3034: Vé triệu hồi boss - type: 27
-3035: Vé triệu hồi boss giới hạn dam - type: 27
-3036: Cải Trang Tết Dương - type: 5
-3037: Ngọc Bội Xuân - type: 26
-3038: Danh Hiệu Hồi Sinh Ngọc Rồng 2026 - type: 17
-3039: Bánh Mỳ TNSM - type: 29
-3040: Combo bánh kẹo - type: 29
-3041: Quả Trứng  - type: 29
-3042: Vòng chân hồn thiên đế cấp 10 - type: 35
-3043: Cải Trang Thần Tài Đến - type: 5
-3044: Vé x3 sát thương tự sát - type: 29
-3045: Danh hiệu Top 1 Vip - type: 17
-3046: Danh hiệu Top 2 Vip - type: 17
-3047: Danh hiệu Top 3 Vip - type: 17
-3048: Danh hiệu Top 1 Vòng Quay Noel - type: 17
-3049: Danh hiệu Top 2 Vòng Quay Noel - type: 17
-3050: Danh hiệu Top 3 Vòng Quay Noel - type: 17
-3051: Hào quang Lửa Xanh - type: 21
-3052: Hào Quang Đệ Tử - type: 40
-3053: Ngọc Bội Noel - type: 26
-3054: Đeo lưng Bạch Linh Dực - type: 11
-3055: Linh thú Bướm U Minh - type: 19
-3056: Linh Thú Bướm 2 - type: 19
-3057: Cải Trang Siêu Xayda Bạch Đế - type: 5
-3058: Thú cưỡi Chichi Phi Hành  - type: 23
-3059: Cải Trang Rồng Thần Namec - type: 5
-3060: Cải Trang Gogeta SSJ 3 - type: 5
-3061: Cải Trang Gogeta SSJ 4 - type: 5
-3062: Danh hiệu Bông Hoa Nở Muộn - type: 17
-3063: Danh Hiệu Kẻ Chiến thắng 0 Chính Thức  - type: 17
-3064: Danh hiệu Niềm Tự Hào Vĩnh Cửu - type: 17
-3065: Danh hiệu Sinh Nhật 2 Tuổi - type: 17
-3066: Danh hiệu Vua Về Nhì - type: 17
-3067: Danh hiệu Nhà Vô Địch - type: 17
-3068: Vé Câu Đổi Quà HSNR 2 tuổi - type: 27
-3069: Thú cưỡi Đài Sen Thơ Mộng - type: 23
-3070: Rương 1 món thần linh - type: 27
-3071: Rương 1 món hủy diệt - type: 27
-3072: Rương găng hủy diệt tùy chọn - type: 27
-3073: Danh Hiệu Bậc Thầy Câu Cá - type: 17
-3074: Danh hiệu Cao Thủ Thả Cần - type: 17
-3075: Danh hiệu Kẻ Phục Kích Dưới Nước - type: 17
-3076: Tuần Lộc Chiến  - type: 23
-3077: Cải Trang Frost - type: 5
-3078: Cải Trang Ca Lic Toc do - type: 5
-3079: Cải Trang Gohan Miêu Thần - type: 5
-3080: Cải Trang Đại Thần Namec - type: 5
-3081: Bao Lì Xì 2026 - type: 27
-3082: Bao Lì Xì Thượng Đế - type: 27
-3083: Vé Pét Tết 2026 - type: 27
-3084: Vé Thú Cưỡi Tết 2026 - type: 27
-3085: Vé Cải Trang Tết 2026 - type: 27
-3086: Vé Đeo Lưng Tết 2026 - type: 27
-3087: Vé Dò Lô Tô - type: 27
-3088: Vé Hào Quang Đệ Tử Tết 2026 - type: 27
-3089: Vé Quay May Mắn - type: 27
-3090: Vé Quay Thượng Đế - type: 27
-3091: Thú Cưỡi Hỏa Thần Phi Cơ - type: 23
-3092: Pét Cá Chép Thần Phúc  - type: 18
-3093: Đeo Lưng Nhánh Đào Tân Xuân - type: 11
-3094: Đeo Lưng Mai Vàng Phú Quý  - type: 11
-3095: Thú Cưỡi Phi Thuyền Thỏ  - type: 23
-3096: Hào quang Sư Phụ - type: 21
-3097: Hào Quang Đệ Tử - type: 40
-3098: Hào quang Sư Phụ Chưa Dùng - type: 21
-3099: Bánh Chưng 2026 - type: 29
-3100: Bánh Tét 2026 - type: 29
-3101: Danh hiệu Mừng Xuân Cùng HSNR - type: 17
-3102: Vé Danh Hiệu - type: 27
-3103: Siêu Saiyan Thức Tỉnh  - type: 5
-3104: Đeo Lưng Thần Điểu Dẫn Đường  - type: 11
-3105: Thú Cưỡi Phi Thuyền Tím - type: 23
-3106: Ngọc Bội Hộ Mệnh Sv5 - type: 26
-3107: Danh hiệu Top 1 Vòng Quay Thượng Đế - type: 17
-3108: Danh hiệu Top 2 Vòng Quay Thượng Đế - type: 17
-3109: Danh hiệu Top 3 Vòng Quay Thượng Đế - type: 17
-3110: Danh hiệu Top 1 Sức Mạnh - type: 17
-3111: Danh hiệu Top 2 Sức Mạnh - type: 17
-3112: Danh hiệu Top 3 Sức Mạnh - type: 17
-3113: Danh hiệu Top 1 Nhiệm Vụ - type: 17
-3114: Danh hiệu Top 2 Nhiệm Vụ - type: 17
-3115: Danh hiệu Top 3 Nhiệm Vụ - type: 17
-3116: Danh hiệu Top 1 VIP - type: 17
-3117: Danh hiệu Top 2 VIP - type: 17
-3118: Danh hiệu Top 3 VIP - type: 17
-3119: Cải Trang Hắc Ảnh Saiyan - type: 5
-3120: Cải Trang Xayda Băng Đế Lôi Thần - type: 5
-3121: Vé Lì Xì May Mắn - type: 27
+-1: Vàng tươi
+0: Áo vải 3 lỗ
+1: Áo sợi len
+2: Áo vải thô
+3: Áo vải dày
+4: Áo len Pico
+5: Áo giáp sắt
+6: Quần vải đen
+7: Quần sợi len
+8: Quần vải thô
+9: Quần vải dày
+10: Quần vải thô Pico
+11: Quần giáp sắt
+12: Rada cấp 1
+13: Đậu thần cấp 1
+14: Ngọc Rồng 1 sao
+15: Ngọc Rồng 2 sao
+16: Ngọc Rồng 3 sao
+17: Ngọc Rồng 4 sao
+18: Ngọc Rồng 5 sao
+19: Ngọc Rồng 6 sao
+20: Ngọc Rồng 7 sao
+21: Găng vải đen
+22: Găng sợi len
+23: Găng vải thô
+24: Găng thun đen
+25: Găng len Pico
+26: Găng sắt
+27: Giầy nhựa
+28: Giầy sợi len
+29: Giầy vải thô
+30: Giầy cao su
+31: Giầy nhựa Pico
+32: Giầy sắt
+33: Áo thun 3 lỗ
+34: Áo thun dày
+35: Quần thun đen
+36: Quần thun dày
+37: Găng vải dày
+38: Găng thun dày
+39: Giày nhựa đế dày
+40: Giày cao su đế dày
+41: Áo sợi gai
+42: Áo thun Pico
+43: Quần sợi gai
+44: Quần thun Pico
+45: Găng thun Pico	
+46: Găng sợi gai
+47: Giầy sợi gai
+48: Giầy cao su Pico
+49: Áo thun thô
+50: Áo giáp đồng
+51: Quần thun thô
+52: Quần giáp đồng
+53: Găng thun thô
+54: Găng đồng
+55: Giầy cao su thô
+56: Giầy đồng
+57: Rada cấp 2
+58: Rada cấp 3
+59: Rada cấp 4
+60: Đậu thần cấp 2
+61: Đậu thần cấp 3
+62: Đậu thần cấp 4
+63: Đậu thần cấp 5
+64: Đậu thần cấp 6
+65: Đậu thần cấp 7
+66: Sách đấm Dragon lv1
+67: Sách đấm Dragon lv2
+68: Sách đấm Dragon lv3
+69: Sách đấm Dragon lv4
+70: Sách đấm Dragon lv5
+71: Sách đấm Dragon lv6
+72: Sách đấm Dragon lv7
+73: Đùi gà
+74: Đùi gà nướng
+75: Đùi heo Xayda
+76: Vàng
+77: Ngọc
+78: Đứa bé
+79: Sách đấm Demon lv1
+80: Sách đấm Demon lv2
+81: Sách đấm Demon lv3
+82: Sách đấm Demon lv4
+83: Sách đấm Demon lv5
+84: Sách đấm Demon lv6
+85: Truyện tranh
+86: Sách đấm Demon lv7
+87: Sách đấm Galick lv1
+88: Sách đấm Galick lv2
+89: Sách đấm Galick lv3
+90: Sách đấm Galick lv4
+91: Sách đấm Galick lv5
+92: Sách đấm Galick lv6
+93: Sách đấm Galick lv7
+94: Sách Kamejoko lv1
+95: Sách Kamejoko lv2
+96: Sách Kamejoko lv3
+97: Sách Kamejoko lv4
+98: Sách Kamejoko lv5
+99: Sách Kamejoko lv6
+100: Sách Kamejoko lv7
+101: Sách Masenko lv1
+102: Sách Masenko lv2
+103: Sách Masenko lv3
+104: Sách Masenko lv4
+105: Sách Masenko lv5
+106: Sách Masenko lv6
+107: Sách Masenko lv7
+108: Sách Antomic lv1
+109: Sách Antomic lv2
+110: Sách Antomic lv3
+111: Sách Antomic lv4
+112: Sách Antomic lv5
+113: Sách Antomic lv6
+114: Sách Antomic lv7
+115: Thái Dương Hạ San lv1
+116: Thái Dương Hạ San lv2
+117: Thái Dương Hạ San lv3
+118: Thái Dương Hạ San lv4
+119: Thái Dương Hạ San lv5
+120: Thái Dương Hạ San lv6
+121: Thái Dương Hạ San lv7
+122: Sách học Trị thương lv1
+123: Sách học Trị thương lv2
+124: Sách học Trị thương lv3
+125: Sách học Trị thương lv4
+126: Sách học Trị thương lv5
+127: Sách học Trị thương lv6
+128: Sách học Trị thương lv7
+129: Tái tạo năng lượng lv1
+130: Tái tạo năng lượng lv2
+131: Tái tạo năng lượng lv3
+132: Tái tạo năng lượng lv4
+133: Tái tạo năng lượng lv5
+134: Tái tạo năng lượng lv6
+135: Tái tạo năng lượng lv7
+136: Áo vải Kame
+137: Áo thun Kame
+138: Áo võ Kame
+139: Áo võ Goku
+140: Quần vải Kame
+141: Quần thun Kame
+142: Quần võ Kame
+143: Quần võ goku
+144: Găng vải Kame
+145: Găng thun Kame
+146: Găng võ Kame
+147: Găng võ goku
+148: Giày nhựa Kame
+149: Giày cao su Kame
+150: Giày võ kame
+151: Giày võ goku
+152: Áo choàng len
+153: Áo choàng thun
+154: Áo vải Pico
+155: Áo da Pico
+156: Quần len cứng
+157: Quần thun cứng
+158: Quần vải cứng Pico
+159: Quần vải mềm Pico
+160: Găng len cứng
+161: Găng thun cứng
+162: Găng vải Pico
+163: Găng da Pico
+164: Giày nhựa cứng
+165: Giày cao su cứng
+166: Giày da Pico
+167: Giày sắt Pico
+168: Áo giáp bạc
+169: Áo giáp vàng
+170: Áo lông Xayda
+171: Áo khoác Xayda
+172: Quần giáp bạc
+173: Quần giáp vàng
+174: Quần lông Xayda
+175: Quần da Xayda
+176: Găng bạc
+177: Găng vàng
+178: Găng lông Xayda
+179: Găng da Xayda
+180: Giày bạc
+181: Giày vàng
+182: Giày lông Xayda
+183: Giày da Xayda
+184: Rada cấp 5
+185: Rada cấp 6
+186: Rada cấp 7
+187: Rada cấp 8
+188: Vàng
+189: Vàng
+190: Vàng
+191: Cà chua
+192: Cà rốt
+193: Gói 10 viên Capsule
+194: Viên Capsule đặc biệt
+195: Siêu thánh thủy
+196: Cải Trang Black Goku
+197: Cải Trang Super Black Goku
+198: Cải Trang Beerus
+199: Bí ngô
+200: Bánh Quy
+201: Kẹo
+202: Giấy Gói
+203: Túi Quà Noel Đặc Biệt
+204: Tùi quà Halloween
+205: Bùa Nâng Cấp
+206: Tinh Linh
+207: Yêu Tinh
+208: Ác Linh
+209: Capsule Nhiệm Vụ
+210: Hộp quà Halloween Đặc Biệt
+211: Nho tím
+212: Nho xanh
+213: Bùa Trí Tuệ
+214: Bùa Mạnh Mẽ
+215: Bùa Da Trâu
+216: Bùa Oai Hùng
+217: Bùa Bất Tử
+218: Bùa Dẻo Dai
+219: Bùa Thu Hút
+220: Đá lục bảo
+221: Đá Saphia
+222: Đá Ruby
+223: Đá Titan
+224: Đá thạch anh tím
+225: Mảnh đá vụn
+226: Bình nước phép
+227: Avatar VIP
+228: Avatar VIP
+229: Avatar VIP
+230: Áo bạc Goku
+231: Áo vàng Goku
+232: Áo da Calic
+233: Áo jean Calic
+234: Áo sắt Tron
+235: Áo đồng Tron
+236: Áo bạc Zealot
+237: Áo vàng Zealot
+238: Áo lông đỏ
+239: Áo siêu xayda
+240: Áo Kaio
+241: Áo lưỡng long
+242: Quần bạc Goku
+243: Quần vàng Goku
+244: Quần da Calic
+245: Quần jean Calic
+246: Quần sắt Tron
+247: Quần đồng Tron
+248: Quần bạc Zealot
+249: Quần vàng Zealot
+250: Quần lông đỏ
+251: Quần siêu Xayda
+252: Quần Kaio
+253: Quần lưỡng long
+254: Găng bạc Goku
+255: Găng vàng Goku
+256: Găng da Calic
+257: Găng jean Calic
+258: Găng sắt Tron
+259: Găng đồng Tron
+260: Găng bạc Zealot
+261: Găng vàng Zealot
+262: Găng lông đỏ
+263: Găng siêu Xayda
+264: Găng Kaio
+265: Găng lưỡng long
+266: Giày bạc Goku
+267: Giày vàng Goku
+268: Giày da Calic
+269: Giày jean Calic
+270: Giày sắt Tron
+271: Giày đồng Tron
+272: Giày bạc Zealot
+273: Giày vàng Zealot
+274: Giày lông đỏ
+275: Giày siêu Xayda
+276: Giày Kaio
+277: Giày lưỡng long
+278: Rada cấp 9
+279: Rada cấp 10
+280: Rada cấp 11
+281: Rada cấp 12
+282: Cải trang
+283: Cải trang
+284: Cải trang
+285: Cải trang
+286: Cải trang
+287: Cải trang
+288: Cải trang
+289: Cải trang
+290: Cải trang
+291: Cải trang
+292: Cải trang
+293: Gói 30 đậu thần cấp 1
+294: Gói 30 đậu thần cấp 2
+295: Gói 30 đậu thần cấp 3
+296: Gói 30 đậu thần cấp 4
+297: Gói 30 đậu thần cấp 5
+298: Gói 30 đậu thần cấp 6
+299: Gói 30 đậu thần cấp 7
+300: Kaioken lv1
+301: Kaioken lv2
+302: Kaioken lv3
+303: Kaioken lv4
+304: Kaioken lv5
+305: Kaioken lv6
+306: Kaioken lv7
+307: Quả cầu Kênh Khi lv1
+308: Quả cầu Kênh Khi lv2
+309: Quả cầu Kênh Khi lv3
+310: Quả cầu Kênh Khi lv4
+311: Quả cầu Kênh Khi lv5
+312: Quả cầu Kênh Khi lv6
+313: Quả cầu Kênh Khi lv7
+314: Hóa khỉ khổng lồ lv1
+315: Hóa khỉ khổng lồ lv2
+316: Hóa khỉ khổng lồ lv3
+317: Hóa khỉ khổng lồ lv4
+318: Hóa khỉ khổng lồ lv5
+319: Hóa khỉ khổng lồ lv6
+320: Hóa khỉ khổng lồ lv7
+321: Bom hi sinh lv1
+322: Bom hi sinh lv2
+323: Bom hi sinh lv3
+324: Bom hi sinh lv4
+325: Bom hi sinh lv5
+326: Bom hi sinh lv6
+327: Bom hi sinh lv7
+328: Makankosappo lv1
+329: Makankosappo lv2
+330: Makankosappo lv3
+331: Makankosappo lv4
+332: Makankosappo lv5
+333: Makankosappo lv6
+334: Makankosappo lv7
+335: Đẻ trứng lv1
+336: Đẻ trứng lv2
+337: Đẻ trứng lv3
+338: Đẻ trứng lv4
+339: Đẻ trứng lv5
+340: Đẻ trứng lv6
+341: Đẻ trứng lv7
+342: Vệ tinh trí lực
+343: Vệ tinh trí tuệ
+344: Vệ tinh phòng thủ
+345: Vệ tinh sinh lực
+346: Cân đẩu vân
+347: Phi Long
+348: Ván bay
+349: Cân đẩu vân VIP
+350: Phi Long VIP
+351: Ván bay VIP
+352: Đậu thần cấp 8
+353: Ngọc Rồng Namek 1 Sao
+354: Ngọc Rồng Namek 2 Sao
+355: Ngọc Rồng Namek 3 Sao
+356: Ngọc Rồng Namek 4 Sao
+357: Ngọc Rồng Namek 5 Sao
+358: Ngọc Rồng Namek 6 Sao
+359: Ngọc Rồng Namek 7 Sao
+360: Ngọc Rồng Namek
+361: Gói 10 Rađa dò ngọc
+362: Hóa thạch Ngọc Rồng
+363: Tháo cờ
+364: Cờ xanh
+365: Cờ đỏ
+366: Cờ tím
+367: Cờ vàng
+368: Cờ lục
+369: Cờ hồng
+370: Cờ cam
+371: Cờ xám
+372: Ngọc rồng 1 sao đen
+373: Ngọc rồng 2 sao đen
+374: Ngọc rồng 3 sao đen
+375: Ngọc rồng 4 sao đen
+376: Ngọc rồng 5 sao đen
+377: Ngọc rồng 6 sao đen
+378: Ngọc rồng 7 sao đen
+379: Máy dò Capsule kì bí
+380: Viên Capsule kì bí
+381: Cuồng nộ
+382: Bổ huyết
+383: Bổ khí
+384: Giáp Xên bọ hung
+385: Ẩn danh
+386: Nón Noel Xám
+387: Nón Noel Đỏ
+388: Nón Noel Xanh
+389: Nón Noel Xám
+390: Nón Noel Đỏ
+391: Nón Noel Xanh
+392: Nón Noel Xám
+393: Nón Noel Đỏ
+394: Nón Noel Xanh
+395: Nhân vật bí ẩn
+396: Thú cưỡi cực VIP
+397: Hộp quà tết
+398: Hộp NRO Black
+399: Thiệp chúc tết
+400: Đặt tên đệ tử
+401: Đổi đệ tử
+402: Nâng kỹ năng 1 đệ tử
+403: Nâng kỹ năng 2 đệ tử
+404: Nâng kỹ năng 3 đệ tử
+405: Cải trang
+406: Cải trang
+407: Cải trang
+408: Cải trang
+409: Cải trang
+410: Cải trang
+411: Cải trang
+412: Avatar
+413: Avatar
+414: Avatar
+415: Avatar
+416: Avatar
+417: Avatar
+418: Avatar
+419: Avatar
+420: Avatar
+421: Cải trang
+422: Cải trang
+423: Cải trang
+424: Cải trang
+425: Cải trang
+426: Cải trang
+427: Cải trang
+428: Cải trang
+429: Cải trang
+430: Cải trang
+431: Cải trang
+432: Cải trang
+433: Cải trang
+434: Khiên năng lượng lv1
+435: Khiên năng lượng lv2
+436: Khiên năng lượng lv3
+437: Khiên năng lượng lv4
+438: Khiên năng lượng lv5
+439: Khiên năng lượng lv6
+440: Khiên năng lượng lv7
+441: Sao pha lê
+442: Sao pha lê
+443: Sao pha lê
+444: Sao pha lê
+445: Sao pha lê
+446: Sao pha lê
+447: Sao pha lê
+448: Cải trang
+449: Cải trang
+450: Cải trang
+451: Cải trang
+452: Cải trang
+453: Chiến thuyền Tennis
+454: Bông tai Porata
+455: Cải trang
+456: Bình nước
+457: Thỏi vàng
+458: Cải trang
+459: Phiếu giảm giá
+460: Cục xương
+461: Cải trang
+462: Củ cà rốt
+463: Cải trang
+464: Cải trang
+465: Bánh Trung Thu 1 trứng
+466: Bánh Trung Thu 2 trứng
+467: Lồng đèn Ông Sao
+468: Lồng đèn Cá chép
+469: Lồng đèn Kéo Quân
+470: Lồng đèn Ông trăng
+471: Lồng đèn Hội An
+472: Bánh Trung Thu Đặc Biệt
+473: Hộp bánh Trung Thu
+474: Sách Biến Sôcôla lv1
+475: Sách Biến Sôcôla lv2
+476: Sách Biến Sôcôla lv3
+477: Sách Biến Sôcôla lv4
+478: Sách Biến Sôcôla lv5
+479: Sách Biến Sôcôla lv6
+480: Sách Biến Sôcôla lv7
+481: Sách Liên hoàn lv1
+482: Sách Liên hoàn lv2
+483: Sách Liên hoàn lv3
+484: Sách Liên hoàn lv4
+485: Sách Liên hoàn lv5
+486: Sách Liên hoàn lv6
+487: Sách Liên hoàn lv7
+488: Sách Dịch Chuyển lv1
+489: Sách Dịch Chuyển lv2
+490: Sách Dịch Chuyển lv3
+491: Sách Dịch Chuyển lv4
+492: Sách Dịch Chuyển lv5
+493: Sách Dịch Chuyển lv6
+494: Sách Dịch Chuyển lv7
+495: Sách Thôi Miên lv1
+496: Sách Thôi Miên lv2
+497: Sách Thôi Miên lv3
+498: Sách Thôi Miên lv4
+499: Sách Thôi Miên lv5
+500: Sách Thôi Miên lv6
+501: Sách Thôi Miên lv7
+502: Sách Trói lv1
+503: Sách Trói lv2
+504: Sách Trói lv3
+505: Sách Trói lv4
+506: Sách Trói lv5
+507: Sách Trói lv6
+508: Sách Trói lv7
+509: Sách Huýt Sáo lv1
+510: Sách Huýt Sáo lv2
+511: Sách Huýt Sáo lv3
+512: Sách Huýt Sáo lv4
+513: Sách Huýt Sáo lv5
+514: Sách Huýt Sáo lv6
+515: Sách Huýt Sáo lv7
+516: Sôcôla
+517: Mở rộng hành trang
+518: Mở rộng rương đồ
+519: Cờ Kaiô
+520: Cờ Mabư
+521: Tự động luyện tập
+522: Bùa Đệ Tử
+523: Đậu thần cấp 9
+524: Cải trang
+525: Cải trang
+526: Cải trang
+527: Cải trang
+528: Cải trang
+529: Giáp tập luyện cấp 1
+530: Giáp tập luyện cấp 2
+531: Giáp tập luyện cấp 3
+532: Quỷ Chim
+533: Kẹo giáng sinh
+534: Giáp tập luyện cấp 1
+535: Giáp tập luyện cấp 2
+536: Giáp tập luyện cấp 3
+537: Chữ giải
+538: Chữ khai
+539: Chữ phong
+540: Chữ ấn
+541: Quả Hồng Đào
+542: Quả Hồng Đào Chín
+543: Vòng Kim Cô
+544: Cải trang
+545: Cải trang
+546: Cải trang
+547: Cải trang
+548: Cải trang
+549: Cải trang
+550: Cải trang
+551: Cải trang
+552: Cải trang
+553: Pháo bông
+554: Siêu Pháo bông x100
+555: Áo Thần Linh
+556: Quần Thần Linh
+557: Áo Thần Namếc
+558: Quần Thần namếc
+559: Áo Thần Xayda
+560: Quần Thần Xayda
+561: Nhẫn Thần Linh
+562: Găng Thần Linh
+563: Giầy Thần Linh
+564: Găng Thần Namếc
+565: Giầy Thần Namếc
+566: Găng Thần Xayda
+567: Giầy Thần Xayda
+568: Quả Trứng
+569: Dưa Hấu
+570: Rương Gỗ
+571: Rương Nro Băng
+572: Rương Ngọc Rồng
+573: Capsule Bạc
+574: Capsule Vàng
+575: Cải trang
+576: Cải trang
+577: Cải trang
+578: Cải trang
+579: Đuôi khỉ
+580: Cải trang
+581: Cải trang
+582: Cải trang
+583: Cải trang Póc
+584: Cải trang
+585: Bí ngô
+586: Cúp Vàng
+587: Cúp Bạc
+588: Cải trang
+589: Bông hoa
+590: Bí kiếp
+591: Cải trang Siêu Thần
+592: Cải trang Yardrat
+593: Cải trang Yardrat
+594: Cải trang Yardrat
+595: Đậu thần cấp 10
+596: Gói 30 đậu thần cấp 8
+597: Gói 30 đậu thần cấp 9
+598: Avatar
+599: Avatar
+600: Avatar
+601: Cải trang Hợp Thể
+602: Cải trang Hợp Thể
+603: Cải trang Hợp Thể
+604: Cải trang VIP
+605: Cải trang VIP
+606: Cải trang VIP
+607: Cải trang Chan Xư
+608: Cải trang Lão Cận
+609: Cải trang Xayda
+610: Bông hoa
+611: Bản đồ kho báu
+612: Cải trang Arale
+613: Cải trang Gatchan
+614: Cải trang Obotchaman
+615: Cải trang
+616: Cải trang
+617: Cải trang
+618: Cải trang Luffy
+619: Cải trang Zoro
+620: Cải trang Sanji
+621: Cải trang Brook
+622: Cải trang Chopper
+623: Cải trang Nami
+624: Cải trang Franky
+625: Cải trang Usopp
+626: Cải trang Robin
+627: Capsule quà tặng
+628: Cải trang Hải Tặc
+629: Cải trang Fide vàng
+630: Cải trang Frost 1
+631: Cải trang Frost 2
+632: Cải trang Frost 3
+633: Cải trang Píc
+634: Cải trang King kong
+635: Cải trang Pi láp
+636: Cải trang Mai
+637: Cải trang Su
+638: Bình chứa Commeson
+639: Cải trang Hợp Thể
+640: Cải trang Hợp Thể
+641: Cải trang Hợp Thể
+642: Cải trang ma trơi
+643: Cải trang dơi nhí
+644: Cải trang bộ xương
+645: Cải trang bộ xương
+646: Cải trang bộ xương
+647: Cải trang Saibamen
+648: Hộp quà giáng sinh
+649: Tất,vớ giáng sinh
+650: Áo Hủy Diệt
+651: Quần Hủy Diệt
+652: Áo Hủy Diệt
+653: Quần Hủy Diệt
+654: Áo Hủy Diệt
+655: Quần Hủy Diệt
+656: Nhẫn Hủy Diệt
+657: Găng Hủy Diệt
+658: Giầy Hủy Diệt
+659: Găng Hủy Diệt
+660: Giầy Hủy Diệt
+661: Găng Hủy Diệt
+662: Giầy Hủy Diệt
+663: Bánh Pudding
+664: Xúc xích
+665: Kem dâu
+666: Mì ly
+667: Sushi
+668: Hộp quà Tết 2019
+669: Dưa Hấu
+670: Cà rốt
+671: Bùa Trí Tuệ x3
+672: Bùa Trí Tuệ x4
+673: Kẹo
+674: Đá ngũ sắc
+675: Cải trang
+676: Cải trang
+677: Cải trang
+678: Cải trang
+679: Cải trang
+680: Cải trang
+681: Cải trang
+682: Avatar
+683: Avatar
+684: Avatar
+685: Avatar
+686: Avatar
+687: Avatar
+688: Avatar
+689: Avatar
+690: Avatar
+691: Quần biển Trái Đất
+692: Quần biển Namec
+693: Quần biển XayDa
+694: Trái dừa
+695: Vỏ ốc
+696: Vỏ sò
+697: Con cua
+698: Sao biển
+699: Hồn Linh Thú
+700: Đá linh lực 
+701: Đá thăng cấp
+702: Bí ngô 1 sao
+703: Bí ngô 2 sao
+704: Bí ngô 3 sao
+705: Bí ngô 4 sao
+706: Bí ngô 5 sao
+707: Bí ngô 6 sao
+708: Bí ngô 7 sao
+709: Bông hoa
+710: Cải trang QUY LÃO
+711: Cải trang JACKY CHUN
+712: Mảnh áo Thần Linh
+713: Mảnh quần Thần Linh
+714: Mảnh găng Thần Linh
+715: Mảnh giầy Thần Linh
+716: Mảnh nhẫn Thần Linh
+717: Bao Lì Xì
+718: Vé tặng ngọc
+719: Cải trang
+720: Mảnh cải trang
+721: Phiếu giảm giá VIP
+722: Capsule hồng
+723: Bông hồng
+724: Cải trang
+725: Siêu thần thủy
+726: Mảnh giấy có chữ 'MA'
+727: Siêu thần thủy
+728: Siêu thần thủy
+729: Cải trang Hatchiyack
+730: Cải trang Sói Basil
+731: Cải trang Sói Lavender
+732: Cải trang Sói Bergamo
+733: Cân đẩu vân ngũ sắc
+734: Ngọc Thố
+735: Lồng đèn cá chép
+736: Hộp quà 5 sao
+737: Capsule Trung Thu
+738: Cải trang Dr Lychee
+739: Cải trang Bill Bí Ngô
+740: Lưỡi hái Thần Chết
+741: Cánh dơi Dracula
+742: Cải trang Caufila Dơi
+743: Chổi bay Phù Thủy
+744: Cột nhà
+745: Bông tuyết
+746: Xe tuần lộc
+747: Cờ xanh dương
+748: Thịt heo
+749: Thúng nếp
+750: Thúng đậu xanh
+751: Lá dong
+752: Bánh tét
+753: Bánh chưng
+754: Nón Chuột may mắn
+755: Nón Chuột may mắn
+756: Nón Chuột may mắn
+757: Túi Canh Tý 2020
+758: Capsule Tết 2023
+759: Nâng kỹ năng 4 đệ tử
+760: Cải trang VIP
+761: Avatar đeo khẩu trang
+762: Avatar đeo khẩu trang
+763: Avatar đeo khẩu trang
+764: Khẩu trang
+765: Cải trang Gohan Bư
+766: Cờ xám
+767: Cờ đen
+768: Cờ xanh lá
+769: Cờ xanh biển
+770: Cờ hồng
+771: Cờ cam
+772: Cờ vàng
+773: Cờ tím
+774: Cờ xanh dạ
+775: Cờ đỏ
+776: Khăn xanh lá
+777: Khăn xanh dương
+778: Khăn vàng
+779: Khăn tím
+780: Khăn nâu
+781: Khăn xám
+782: Khăn đỏ
+783: Khăn hồng
+784: Khăn xanh dạ
+785: Ba lô
+786: Đao
+787: Gậy
+788: Mai rùa
+789: Giỏ bơ
+790: Giỏ dưa hấu
+791: Giỏ củ cải trắng
+792: Giỏ cà rốt
+793: Giỏ chuối
+794: Gậy phép
+795: Ghế bay
+796: Hộp Capsule
+797: Bùa Trí Tuệ
+798: Bùa Mạnh Mẽ
+799: Bùa Da Trâu
+800: Lồng đèn Cô Vy
+801: Lồng đèn Con tàu
+802: Lồng đèn Con gà
+803: Lồng đèn Con bướm
+804: Lồng đèn Đôrêmon
+805: Nón thiên thần
+806: Cải trang Đôrêmon
+807: Ngọc đen 1 sao
+808: Ngọc đen 2 sao
+809: Ngọc đen 3 sao
+810: Ngọc đen 4 sao
+811: Ngọc đen 5 sao
+812: Ngọc đen 6 sao
+813: Ngọc đen 7 sao
+814: Ma trơi
+815: Hồn ma Goku
+816: Hồn ma Ca đíc
+817: Hồn ma Pôcôlô
+818: Capsule Halloween
+819: Cải trang Xuka
+820: Vé quay ngọc đen
+821: Vé quay ngọc vàng
+822: Cây thông
+823: Túi quà
+824: Cải trang Noel
+825: Cải trang Noel
+826: Cải trang Noel
+827: Cải trang Noel
+828: Mảnh Khủng long
+829: Mảnh Lợn lòi
+830: Mảnh Quỷ đất
+831: Mảnh Khủng long mẹ
+832: Mảnh Lợn lòi mẹ
+833: Mảnh Quỷ đất mẹ
+834: Mảnh Thằn lằn bay
+835: Mảnh Phi long
+836: Mảnh Quỷ bay
+837: Mảnh Lính độc nhãn
+838: Mảnh Lính độc nhãn
+839: Mảnh Sói xám
+840: Mảnh Trung úy Trắng
+841: Mảnh Ninja Áo Tím
+842: Mảnh Trung úy Xanh Lơ
+843: Cải trang Trâu vàng
+844: Cải trang Trâu đen
+845: Cải trang Trâu trắng
+846: Nón Trâu may mắn
+847: Nón Trâu may mắn
+848: Nón Trâu may mắn
+849: Pháo Thăng Thiên
+850: Cỏ tươi
+851: Cỏ tươi
+852: Cây trúc
+853: Cải trang Trâu Nâu
+854: Cải trang Trâu Nâu
+855: Cải trang Trâu Nâu
+856: Cải trang Trâu Đốm
+857: Cải trang Trâu Đốm
+858: Cải trang Trâu Đốm
+859: Mảnh Độc Nhãn
+860: Cải trang Mị Nương
+861: Hồng ngọc
+862: Cải trang Nobita
+863: Cải trang Xekô
+864: Cải trang Chaien
+865: Kiếm Z
+866: Cải trang Goku Ultra Instinct
+867: Cải trang Broly
+868: Cải trang Super Broly
+869: Capsule 1 sao
+870: Capsule 2 sao
+871: Capsule 3 sao
+872: Avatar Gohan 1
+873: Avatar Gohan 2
+874: Rùa con
+875: Cải trang Cadic
+876: Cải trang Gohan
+877: Cải trang Pocolo
+878: Cải trang Cooler vàng
+879: Cải trang Thống Chế Kilo
+880: Cua rang me
+881: Đùi gà
+882: Tôm 
+883: Cải trang Black Gohan Rose
+884: Cải trang Hit
+885: Cải trang Lích Tên
+886: Trứng vịt muối
+887: Gà quay nguyên con
+888: Bột mì
+889: Đậu xanh
+890: Bánh trung thu Gà quay
+891: Bánh trung thu thập cẩm
+892: Thỏ xám
+893: Thỏ trắng
+894: Cải trang Cadich
+895: Cải trang Nappa
+896: Avatar
+897: Rùa bay
+898: Cải trang Zamasu
+899: Kẹo một mắt
+900: Súp bí hắc ám
+901: Kẹo bàn tay
+902: Bánh gato nhện
+903: Hamburger sâu
+904: Cải trang Black Goku SSJ White
+905: Cải trang Siêu Thần Trái Đất
+906: Cải trang Mighty Mask
+907: Cải trang Siêu thần Namếc
+908: Ma phong ba
+909: Thần chết cute
+910: Bí ngô nhí nhảnh
+911: Cải trang Siêu Thần Xayda
+912: Cải trang Gohan áo xanh
+913: Cải trang Póc áo đỏ
+914: Cải trang Búp bê Arale
+915: Capsule Squid Game
+916: Lính bảo vệ tam giác
+917: Lính bảo vệ vuông
+918: Lính bảo vệ tròn
+919: Búp bê
+920: Gậy như ý
+921: Bông tai Porata Cấp 2
+922: Cải trang Goku Noel
+923: Cải trang Pico Noel
+924: Cải trang Radic Noel
+925: Ngọc rồng băng 1 sao
+926: Ngọc rồng băng 2 sao
+927: Ngọc rồng băng 3 sao
+928: Ngọc rồng băng 4 sao
+929: Ngọc rồng băng 5 sao
+930: Ngọc rồng băng 6 sao
+931: Ngọc rồng băng 7 sao
+932: Cải trang Uub
+933: Mảnh vỡ bông tai
+934: Mảnh hồn bông tai
+935: Đá xanh lam
+936: Tuần lộc nhí
+937: Cải trang Mabư Noel
+938: Cải trang Kamin
+939: Cải trang Oren
+940: Cải trang Kamioren
+941: Nón Hổ vàng
+942: Hổ mặp vàng
+943: Hổ mặp trắng
+944: Hổ mặp xanh
+945: Cải trang Goku Tarzan
+946: Nón Hổ trắng
+947: Nón Hổ xanh
+948: Cải trang Hổ vàng
+949: Thịt tươi
+950: Thịt tươi
+951: Cải trang Siêu Goku Tarzan
+952: Cải trang Hổ trắng
+953: Cải trang Hổ xanh
+954: Bó Hoa Hồng
+955: Bó Hoa Vàng
+956: Mảnh Đội trưởng Vàng
+957: Cải trang Goku võ sĩ
+958: Cải trang Pôcôlô võ sĩ
+959: Cải trang Cađíc võ sĩ
+960: Cờ trắng
+961: Cờ đen
+962: Capsule thời trang 5 ngày
+963: Capsule thời trang 7 ngày
+964: sao pha lê
+965: Sao pha lê
+966: Trái bóng
+967: Sao la
+968: Mảnh Goku Ultra Instinct 
+969: Bùa linh thú 
+970: Trứng Linh Thú
+971: Trứng Linh Thú
+972:  Dreamlet
+973: Prodraxis
+974: Hỏa Điểu
+975: Arbite
+976: Shadow
+977: Devil
+978: Cải trang Whis
+979: Huy chương đồng
+980: Huy chương bạc
+981: Huy chương vàng
+982: Cúp vàng
+983: Cờ cổ động
+984: Capsule Tri Ân
+985: Cải trang Chill
+986: Cải trang Chill cấp 2
+987: Đá bảo vệ
+988: Mở rộng túi vàng
+989: Cải trang Gohan Siêu Nhân
+990: Cải trang Biđen Siêu Nhân
+991: Cải trang Bản Cô Nương Siêu Nhân
+992: Nhẫn thời không sai lệch
+993: Giỏ thức ăn
+994: Vỏ ốc
+995: Cây kem
+996: Cá heo
+997: Con diều
+998: Diều rồng
+999: Mèo mun
+1000: Xiên cá
+1001: Phóng lợn
+1002: Cá nóc
+1003: Cá bảy màu
+1004: Cá diêu hồng
+1005: Xô cá xanh
+1006: Xô cá vàng
+1007: Ván lướt sóng
+1008: Cua đỏ
+1009: Rương Tranh ngọc Namếc
+1010: Cải trang Áo vịt cam
+1011: Cải trang Áo trắng hoa
+1012: Cải trang Nón rơm mùa hè
+1013: Kiếm ánh sáng
+1014: Rađa dò ngọc Namếc
+1015: Ngọc rồng Siêu Cấp
+1016: Thuốc mỡ Ipana
+1017: Thuốc mỡ Ipana đặc biệt
+1018: Cải trang Broly
+1019: Cải trang Broly
+1020: Cải trang Broly
+1021: Búa Mjolnir
+1022: Búa Stormbreaker
+1023: Quạt ba tiêu
+1024: ligth stick
+1025: Bồ cào
+1026: Nguyệt nha sản
+1027: Quyền trượng
+1028: Dao răng cưa
+1029: Lọ nước phép
+1030: Cờ Hoa đăng
+1031: Cờ Hoa sen
+1032: Giấy màu
+1033: Lời chúc
+1034: Nến
+1035: Khung tre
+1036: Pháo hoa
+1037: Hoa đăng
+1038: Hoa đăng có lời chúc
+1039: Pet Thỏ ốm
+1040: Pet Thỏ mập
+1041: Thỏ hồng Bun ma
+1042: Thỏ đỏ Chi Chi
+1043: Thỏ đen Android 18
+1044: ...
+1045: Đuôi khỉ
+1046: Pet Khỉ Bong Bóng
+1047: Lồng đèn lon
+1048: Áo Thiên Sứ
+1049: Áo Thiên Sứ
+1050: Áo Thiên Sứ
+1051: Quần Thiên Sứ
+1052: Quần Thiên Sứ
+1053: Quần Thiên Sứ
+1054: Găng Thiên Sứ
+1055: Găng Thiên Sứ
+1056: Găng Thiên Sứ
+1057: Giầy Thiên Sứ
+1058: Giầy Thiên Sứ
+1059: Giầy Thiên Sứ
+1060: Nhẫn Thiên Sứ
+1061: Nhẫn Thiên Sứ
+1062: Nhẫn Thiên Sứ
+1063: Avatar Thiên Sứ
+1064: Avatar Thiên Sứ
+1065: Avatar Thiên Sứ
+1066: Mảnh áo
+1067: Mảnh quần
+1068: Mảnh giầy
+1069: Mảnh nhẫn
+1070: Mảnh găng tay
+1071: Công thức
+1072: Công thức
+1073: Công thức
+1074: Đá nâng cấp cấp 1
+1075: Đá nâng cấp cấp 2
+1076: Đá nâng cấp cấp 3
+1077: Đá nâng cấp cấp 4
+1078: Đá nâng cấp cấp 5
+1079: Đá may mắn cấp 1
+1080: Đá may mắn cấp 2
+1081: Đá may mắn cấp 3
+1082: Đá may mắn cấp 4
+1083: Đá may mắn cấp 5
+1084: Công thức VIP
+1085: Công thức VIP
+1086: Công thức VIP
+1087: Tanjiro
+1088: Inosuke Hashibira
+1089: Inosuke
+1090: Zenitsu
+1091: Nezuko
+1092: Gậy Quy Lão
+1093: Đất trồng cây
+1094: Phân bón
+1095: Hạt mầm
+1096: Thuốc tăng trưởng
+1097: Chậu sứ
+1098: Hoa hồng xanh
+1099: Chậu hoa hồng xanh
+1100: Chậu hoa ăn thịt
+1101: Lời chúc
+1102: Lời chúc VIP
+1103: Marron
+1104: Poc satan
+1105: Bun ma phù thủy
+1106: Biden dracula
+1107: Pet Bí Ma Vương
+1108: Đinh ba Satan
+1109: Chổi phù thủy
+1110: Cánh thiên thần
+1111: Cánh thiên thần 2
+1112: Cây nắp ấm
+1113: Cá Chà Bá
+1114: Pet Ma vàng phù thủy
+1115: Máy dò Ngọc rồng sự kiện
+1116: Hòm Halloween
+1117: Thiệp Halloween
+1118: W
+1119: O
+1120: R
+1121: L
+1122: D
+1123: C
+1124: U
+1125: P
+1126: 20
+1127: 22
+1128: Cờ logo Quatar 1
+1129: Cờ logo Quatar 2
+1130: Cờ giày vàng
+1131: Quả bóng siêu việt
+1132: Fan cuồng bóng đá
+1133: Fan gà nửa mùa
+1134: Thiệp World Cup
+1135: Capsule World Cup
+1136: Capsule World Cup VIP
+1137: Cờ GOAL
+1138: Cờ FIFA
+1139: Quả Bóng Vàng
+1140: Mèo mun đột biến
+1141: Phiếu giảm giá Black Friday
+1142: Bong bóng heo
+1143: Đá bảo vệ (Khóa)
+1144: Phượng hoàng lửa
+1145: Cải trang Black goku ssj 3 White
+1146: Avatar Gohan White
+1147: Avatar Gohan White
+1148: Avatar Gohan White
+1149: Cánh thiên sứ hắc ám
+1150: Cuồng nộ 2
+1151: Bổ khí 2
+1152: Bổ huyết 2
+1153: Giáp Xên bọ hung 2
+1154: Ẩn danh 2
+1155: Noel 2022 Goku
+1156: Noel 2022 Cađíc
+1157: Noel 2022 Pôcôlô
+1158: Quạt ba tiêu
+1159: Gậy thiên sứ
+1160: Kiếm thiên sứ
+1161: Bóng Pokemon
+1162: Chú lùn
+1163: Chú lùn
+1164: Chú lùn
+1165: Chuông đồng
+1166: Cá tuyết
+1167: Bánh quy
+1168: Kẹo đường
+1169: Kẹo người tuyết
+1170: Gói quà
+1171: Túi 7 chú lùn
+1172: Xe heo tuần lộc
+1173: Rương Mảnh Thiên Sứ
+1174: Kimono
+1175: Kimono
+1176: Kimono
+1177: Mãng cầu
+1178: Quả dừa
+1179: Đu đủ
+1180: Quả xoài
+1181: Trái sung
+1182: Mâm ngũ quả
+1183: Bao lì xì mèo
+1184: Gói quà đặc biệt
+1185: Cành mai
+1186: Cành đào
+1187: Hộp quà Tết 2023
+1188: Pet mèo đen đuôi vàng
+1189: Xúc xích xông khói
+1190: Dĩa thức ăn cho mèo
+1191: Thiệp chúc tết
+1192: Thiệp chúc tết
+1193: Thiệp chúc tết
+1194: Phiếu bé ngoan
+1195: Xí muội Hoa đào
+1196: Xí muội Hoa mai
+1197: Bóng Vịt Vàng
+1198: Nón mèo
+1199: Nón mèo
+1200: Nón mèo
+1201: Karin Kid Lân
+1202: Pet mèo trắng đuôi vàng
+1203: Pet mèo trắng đuôi vàng
+1204: Mảnh Rồng thần Namếc
+1205: Drabura Frost
+1206: Trái tim Valentine
+1207: Pet Minion
+1208: Bunma tóc xanh neon
+1209: Bunma tóc nâu băng đô
+1210: Bunma tóc tím thắt bím
+1211: Sách tuyệt kỹ 1
+1212: Tịch Tà Kiếm Phổ
+1213: Pet mèo Hoàng Thượng
+1214: Cơm nếp
+1215: Ván cơm nếp
+1216: Tệp cơm nếp
+1217: Lá dong
+1218: Sợi Cói
+1219: Tệp bánh chưng
+1220: Ngà voi
+1221: Cựa gà
+1222: Hồng mao
+1223: Bóng weezing
+1224: Pet Pikachu
+1225: Pet Squirtle
+1226: Pet Bullbasaur
+1227: Hộp quà CT Nhí
+1228: Hộp quà cao cấp
+1229: Bí kíp tuyệt kỹ
+1230: Hào Quang Rực Rỡ
+1231: Gậy thượng đế
+1232: Bình chứa nhỏ
+1233: Nồi cơm điện
+1234: Cải trang Pic Thợ Lặn 2026
+1235: Cải trang Poc Bikini 2026
+1236: Cải trang King Kong Sành Điệu 2026
+1237: Cành khô
+1238: Nước Suối Tinh Khiết
+1239: Gỗ Lớn
+1240: Que đốt
+1241: Bồn tắm gỗ
+1242: Bồn tắm vàng
+1243: Pet bọ cánh cứng
+1244: Pet ngài đêm
+1245: Bọ Kiến Vương Hai Sừng
+1246: Bọ Hung Tê Giác
+1247: Bọ Kẹp Kìm
+1248: Bọ Cánh Cứng
+1249: Ngài Đêm
+1250: Hũ Mật Ong
+1251: Vợt Bắt Bọ
+1252: Ve Sầu Xên
+1253: Ve Sầu Xên Tiến Hóa
+1254: Búa hắc hường
+1255: Cải trang Mabư Còm
+1256: Pet heo bướm
+1257: Xe triều đình
+1258: Hồn ma
+1259: Bình phép
+1260: Lọ nước hồi sinh
+1261: Bùa hồi sinh
+1262: Lích Tên
+1263: Siêu Lích Tên
+1264: Máy dò linh hồn
+1265: Yajirobe Zoro
+1266: Avatar Gohan sẹo
+1267: Avatar Gohan sẹo
+1268: Avatar Gohan sẹo
+1269: Avatar Gohan Blue sẹo
+1270: Avatar Gohan Blue sẹo
+1271: Avatar Gohan Blue sẹo
+1272: Đài sen hồng
+1273: Đài sen vàng
+1274: Cải trang Cumber
+1275: Cải trang Cumber SSJ
+1276: Cải trang Nguyệt thần
+1277: Cải trang Nhật thần
+1278: Sách tuyệt kỹ 2
+1279: Sách tuyệt kỹ  2
+1280: Sách tuyệt kỹ  2
+1281: Trang sách cũ
+1282: Bìa sách
+1283: Cuốn sách cũ
+1284: Bùa giám định
+1285: Kìm bấm giấy
+1286: Kẻ thao túng sói
+1287: Nước anh bao
+1288: Chiến thần khóa nick
+1289: Đại gia mới nhú
+1290: Trùm ước rồng
+1291: Trùm săn Boss
+1292: Thánh đập đồ +7
+1293: Cao thủ siêu hạng
+1294: Nông dân chăm chỉ
+1295: Ông thần ve chai
+1296: Bị móc sạch túi
+1297: KOL
+1298: Chuyên gia lượm nhặt
+1299: Fan cứng
+1300: Thánh ở dơ
+1301: Cờ khỉ hoàng đế
+1302: Bùa giám định Linh thú
+1303: Đổi skill 2 đệ tử
+1304: Đổi skill 3 đệ tử
+1305: Đổi skill 4 đệ tử
+1306: Rương thần linh
+1307: Đá Black
+1308: Vé năng động
+1309: Bunma Ả rập Xê út
+1310: Ngọc sinh mệnh 
+1311: Ngọc sinh mệnh Cấp 1
+1312: Ngọc sinh mệnh Cấp 2
+1313: Ngọc sinh mệnh Cấp 3
+1314: Ngọc sinh mệnh Cấp 4
+1315: Ngọc sinh mệnh Cấp 5
+1316: Ngọc sinh mệnh Cấp 6
+1317: Ngọc sinh mệnh Cấp 7
+1318: Sinh mệnh thạch
+1319: Sinh mệnh thủy
+1320: Đá bóng tối
+1321: Đá Ma Quái
+1322: Đá Tinh Tú
+1323: Mảnh SKH
+1324: Máy Dò Bóng Tối
+1325: Máy Dò Đá Black
+1326: Máy dò thỏi vàng
+1327: Capsule Nhiệm Vụ
+1328: Rương Skh tân thủ
+1329: Máy dò mảnh vỡ 2
+1330: Máy dò mảnh vỡ 3
+1331: Máy dò thức ăn
+1332: Bùa Đệ Tử Mabu
+1333: Bùa Đệ Tử Black
+1334: Ngọc rồng 3Sao hắc hoá
+1335: Ngọc rồng 6Sao hắc hoá
+1336: Ngọc rồng 7Sao hắc hoá
+1337: Đá hắc hoá
+1338: Rương thần linh
+1339: Hộp Cải Trang Vip
+1340: Hộp cải trang mốc nạp
+1341: 
+1342: 
+1343: 
+1344: Con Cat hường
+1345: Thú cưỡi mèo kéo xương
+1346: Thú cưỡi Xe bí ngô
+1347: Pet Mèo Phù Thủy
+1348: 
+1349: 
+1350: 
+1351: 
+1352: 
+1353: 
+1354: 
+1355: 
+1356: 
+1357: 
+1358: Cờ hồn Mabư
+1359: Cờ hồn Xên Bọ Hung
+1360: Cờ Ma đèn nhảy múa
+1361: Cờ Ma đèn hút hồn
+1362: Cải trang Thầy giáo Ca Lích
+1363: Thú cưỡi con Cat hường
+1364: 
+1365: 
+1366: 
+1367: 
+1368: 
+1369: 
+1370: 
+1371: Cải trang đệ tử Tí
+1372: 
+1373: 
+1374: 
+1375: 
+1376: 
+1377: 
+1378: Cải trang Thầy giáo Cađíc
+1379: Cải trang Thầy giáo Pô cô lô
+1380: Cải trang đệ tử Sửu
+1381: Cải trang đệ tử Dần
+1382: Kéo tỉa hoa đặc biệt
+1383: Cải trang Thầy giáo Raddit
+1384: Cải trang Thầy giáo Quy Lão
+1385: Cải trang Thầy giáo Quy Lão
+1386: 
+1387: 
+1388: 
+1389: 
+1390: 
+1391: 
+1392: Gõ đầu trẻ
+1393: Gõ đầu trẻ
+1394: Gõ đầu trẻ
+1395: 
+1396: Cải trang Super Píc
+1397: 
+1398: 
+1399: 
+1400: 
+1401: 
+1402: 
+1403: 
+1404: 
+1405: 
+1406: 
+1407: 
+1408: 
+1409: 
+1410: 
+1411: 
+1412: 
+1413: 
+1414: Pet Shiba
+1415: Cải trang Dr Myuu
+1416: Sao pha lê đỏ cấp 2
+1417: Sao pha lê lam cấp 2
+1418: Sao pha lê hồng cấp 2
+1419: Sao pha lê tím cấp 2
+1420: Sao pha lê cam cấp 2
+1421: Sao pha lê vàng cấp 2
+1422: Sao pha lê lục cấp 2
+1423: Hematite
+1424: Cải trang Goku Santa
+1425: 
+1426: Sao pha lê đỏ lấp lánh
+1427: Sao pha lê lam lấp lánh
+1428: Sao pha lê hồng lấp lánh
+1429: Sao pha lê tím lấp lánh
+1430: Sao pha lê cam lấp lánh
+1431: Sao pha lê vàng lấp lánh
+1432: Sao pha lê lục lấp lánh
+1433: Sao pha lê đen lấp lánh
+1434: Sao pha lê trắng lấp lánh
+1435: Pet chim cánh cụt
+1436: Cải trang Chi Chi tuần lộc
+1437: Cải trang Bông Băng Vàng
+1438: Dùi đục
+1439: Đá mài
+1440: Rương sao pha lê
+1441: 
+1442: Cải trang Super Xayda God
+1443: Phượng hoàng băng
+1444: Mũi cà rốt
+1445: Tảng tuyết
+1446: Tay gỗ
+1447: Khăn choàng
+1448: Người tuyết
+1449: Người tuyết băng giá
+1450: Cải trang S
+1451: Nón Noel
+1452: Pet Ông già Noel
+1453: Rương sao pha lê VIP
+1454: Cải trang Super Black Goku Rose
+1455: Quả bóng tuyết
+1456: Kiếm Kitetsu
+1457: Danh hiệu X-mas
+1458: Pet Shiba đeo nơ
+1459: Chuông
+1460: Quả châu
+1461: Ngôi sao
+1462: Dây kim tuyến
+1463: Móc treo Noel
+1464: Kẹo giáng sinh
+1465: Máy bay trực thăng Noel
+1466: Tuần lộc Machine
+1467: Gấu bắc cực
+1468: Thú cưỡi Rồng PiLong
+1469: 
+1470: 
+1471: 
+1472: Dây pháo
+1473: Câu đối
+1474: Dây treo bánh
+1475: Đèn lồng treo cây
+1476: Cải trang Bunma rực rỡ
+1477: Thỏi vàng bay
+1478: Cờ bao lì xì
+1479: Cờ dây pháo
+1480: Mì thanh long
+1481: Cơm gà quay
+1482: Pet rồng Pikachu thanh long
+1483: Cải trang Bunma thanh lịch
+1484: Cải trang Thần tài
+1485: Cải trang Thần tài
+1486: Cải trang Thần tài
+1487: Cá chép rồng
+1488: Cờ ngọc rồng 1 sao
+1489: Cờ ngọc rồng 2 sao
+1490: Cờ ngọc rồng 3 sao
+1491: Cờ ngọc rồng 4 sao
+1492: Cờ ngọc rồng 5 sao
+1493: Cờ ngọc rồng 6 sao
+1494: Cờ ngọc rồng 7 sao
+1495: Cờ ngọc rồng Super
+1496: Rađa ngọc rồng
+1497: Pet rồng con thần tài
+1498: Cải trang Goku Dragon
+1499: Cải trang Pôcôlô Dragon
+1500: Cải trang Cađíc Dragon
+1501: Rađa ngọc rồng VIP
+1502: Thanh Long Yển Nguyệt đao
+1503: CT Lý Tiểu Nương hầu gái xanh
+1504: CT Lý Tiểu Nương hầu gái hồng
+1505: Bụi hắc ám 
+1506: Đệ tử thường
+1507: Hộp quà HIT
+1508: Hộp Quà Goku
+1509: Hộp quà Mị 
+1510: Hộp Quà Ván Bay
+1511: Hộp Quà Danh hiệu
+1512: CT Lý Tiểu Nương Bikini
+1513: Song mã hoàng gia
+1514: Em xinh, em đẹp
+1515: Chậu hoa hồng
+1516: Hộp Mù Tình Yêu
+1517: Sát thương chuẩn
+1518: Sát thương chuẩn 2
+1519: Bong bóng thiên thần
+1520: Bong bóng hoa hồng
+1521: Hộp Tân thủ Kích hoạt
+1522: Danh hiệu KẺ HỦY DIỆT
+1523: Danh hiệu CHÍ TÔN
+1524: Danh hiệu ĐẾ VƯƠNG
+1525: Danh hiệu THIÊN ĐẾ
+1526: Danh hiệu BẤT BẠI
+1527: Danh hiệu TIKTOKER
+1528: Danh hiệu FAN CỨNG
+1529: Danh hiệu CÀY CUỐC
+1530: Danh hiệu ĐẠI GIA
+1531: Cánh thiên thần 3
+1532: Danh hiệu
+1533: 
+1534: Thuyền Âu Lạc
+1535: 
+1536: 
+1537: 
+1538: Bụi tre
+1539: Mabu
+1540: Cánh
+1541: Môtô Bun ma
+1542: Pet Hồ li
+1543: Cải trang GOKU Ultra Instinct
+1544: Cải trang NARUTO CỬU VĨ
+1545: Cải trang SASUKE RINNEGAN
+1546: Cải trang AKATSUKI
+1547: Cải trang Zamasu Hợp Thể
+1548: Cải trang Akaza VIP
+1549: 
+1550: Pet Godzilla
+1551: Pet Kong
+1552: Xiên nướng
+1553: CT Goku SSJ4
+1554: Tàu ngầm 19 Cam
+1555: Tàu ngầm 19 Vàng
+1556: Vua trò chơi
+1557: CT Hắc Mị Nương
+1558: 
+1559: 
+1560: 
+1561: 
+1562: Mặt trời tí hon
+1563: Ván bay té nước
+1564: Pet Po
+1565: Bản đồ truyền thuyết
+1566: CT Lích Tên béo
+1567: CT Frieren
+1568: Pet Shimo
+1569: Đơn giao kẹo
+1570: 
+1571: Gậy phép của Frieren
+1572: Goku bay
+1573: Xe tăng Santa
+1574: Cánh sấm sét
+1575: Pháo bông
+1576: Pháo bông VIP
+1577: Cánh sấm sét hoàng kim
+1578: Mây mưa
+1579: Pet rồng nhí 1 sao
+1580: Pet rồng nhí 2 sao
+1581: Pet rồng nhí 3 sao
+1582: Pet rồng nhí 4 sao
+1583: Pet rồng nhí 5 sao
+1584: Pet rồng nhí 6 sao
+1585: Pet rồng nhí 7 sao
+1586: 
+1587: CT Goku SSJ3
+1588: CT Goku
+1589: CT Goku SSJ
+1590: CT Goku SSJ Blue
+1591: Hộp CT Goku SSJ
+1592: Hộp quà Goku Day VIP
+1593: CT Goku SSJ God
+1594: Hộp quà Goku Day
+1595: CT Goku SSJ2
+1596: Pet Albart
+1597: Pet Albart Cup
+1598: Trực thăng thỏ đế
+1599: CT Fide nhí
+1600: CT Xên nhí
+1601: CT Mabư nhí
+1602: CT Android 21 nhí
+1603: Tên lửa cá mập
+1604: CT Sư
+1605: CT jiren
+1606: 
+1607: 
+1608: Rada Thường
+1609: Rada Vip
+1610: Tiên ngọc
+1611: Pet Minion Otto
+1612: Khúc mía
+1613: Nước đá
+1614: Ly mía khổng lồ
+1615: Ly mía thơm
+1616: Ly mía sầu riêng
+1617: Cá nóc nâu
+1618: Cá nóc vàng
+1619: Túi nước mía
+1620: Pet Baby Shark
+1621: 
+1622: 
+1623: Trái bóng Euro
+1624: Cup Euro
+1625: Tivi bay
+1626: Thẻ trọng tài
+1627: Bùa x2 tn,sm 
+1628: Bùa x2 tn,sm đệ tử
+1629: Pet Capybara đeo ba lô
+1630: Pet Capybara xì mũi
+1631: Pet Zịt vàng bối rối
+1632: CT Himmel
+1633: Pet Mini Desutoron Gas
+1634: Cápsule Vỡ
+1635: Cỏ May Mắn
+1636: Hào Quang VIP 1
+1637: Hào Quang VIP 2
+1638: Hào Quang VIP 3
+1639: Hào Quang VIP 4
+1640: Hào Quang VIP 5
+1641: Hào Quang VIP 6
+1642: Danh hiệu
+1643: Danh hiệu
+1644: Danh hiệu
+1645: Danh hiệu
+1646: Danh hiệu
+1647: Danh hiệu
+1648: Danh hiệu
+1649: Danh hiệu
+1650: Danh hiệu
+1651: Danh hiệu
+1652: Danh hiệu
+1653: Danh hiệu
+1654: Pet Cerberus
+1655: 
+1656: Khoáng tái chế
+1657: CT Gohan đi biển
+1658: Đầu trâu
+1659: Đầu trâu
+1660: Đầu trâu
+1661: Mặt ngựa
+1662: Mặt ngựa
+1663: Mặt ngựa
+1664: Vỏ Xên bọ hung
+1665: Túi đựng vỏ Xên bọ hung
+1666: Rađa dò vỏ Xên
+1667: CT Gohan kính mát
+1668: Pet Capybara hồng
+1669: Balo Capybara
+1670: Balo Capybara hồng
+1671: Rương mùa hè
+1672: Sầu riêng 6 múi
+1673: Tay nhanh hơn não
+1674: CT Pikkon
+1675: Lồng đèn kéo quân NRO
+1676: Phong hỏa luân
+1677: Xe xanh Chi Chi
+1678: Xe đỏ Bun ma
+1679: Cờ Olympic
+1680: Hỏa tiêm thương
+1681: Cờ Hải Ly xe máy
+1682: Pet Hải Ly
+1683: Pet Hải Ly Ong Vàng
+1684: CT Kirin múa lân
+1685: CT Omega
+1686: Pet Thỏ Ú
+1687: Cờ Goku bay
+1688: Cờ Hắc Vô Thường
+1689: Cờ Bạch Vô Thường
+1690: Hộp Qua Thần linh
+1691: HỘP SKH HỦY DIỆT
+1692: HỘP SKH THIÊN SỨ
+1693: CT Cađíc SSJ4
+1694: Labubu
+1695: HỘP SKH THẦN LINH
+1696: 
+1697: CT Gogeta
+1698: CT Urôn Trư Bát Giới
+1699: Bồ cào 9 răng
+1700: CT Hằng Nga
+1701: Hộp bánh Trung Thu đặc biệt
+1702: Lưỡi hái hồng
+1703: 
+1704: Bí Ngô Cánh Dơi
+1705: Cải Trang Chi Chi Võ Đài
+1706: Lưỡi hái
+1707: 
+1708: CT Android 21 Thân Thiện
+1709: CT Android 21 Evil
+1710: CT Android 21 Tiến Sĩ
+1711: Cân Đẩu Vân Thơ Mộng
+1712: Pet Rồng xương
+1713: Khủng Long Thơ Mộng
+1714: Pet Giru
+1715: Đậu thần cấp 11
+1716: Giáp tập luyện cấp 4
+1717: HỘP RANDOM SKH THẦN LINH
+1718: HỘP RANDOM SKH HỦY DIỆT
+1719: HỘP RANDOM SKH THIÊN SỨ
+1720: 
+1721: Cá Koi zombie
+1722: Cánh Thiên thần - Ác quỷ
+1723: 
+1724: Ván bay Sọ Dừa
+1725: Gói quà Halloween
+1726: Kẹo mù Halloween
+1727: Pet Ma cầu mưa
+1728: Túi mù Halloween
+1729: Pet Rồng Xanh
+1730: Vé ước miễn phí
+1731: CT Black Goku Rose
+1732: CT Black Goku
+1733: Thú cưỡi Thích Kim Quy
+1734: Thú cưỡi Phong Xích Lan
+1735: Đeo lưng dụng cụ học tập
+1736: Hộp quà FA
+1737: Rađa dò Zombie
+1738: Hộp quà FA
+1739: Hộp quà 20-11
+1740: Sách giáo khoa
+1741: CT Cađíc
+1742: CT Cađíc SSJ
+1743: CT Cađíc SSJ2
+1744: CT Cađíc SSJ M
+1745: CT Cađíc SSJ3
+1746: CT Cađíc SSJ Blue
+1747: Hộp quà Black Friday
+1748: Pet Tuần Lộc Cute
+1749: Ván bay Cây Thông
+1750: Pet Khủng Long ngok
+1751: Diều rồng băng
+1752: 
+1753: 
+1754: 
+1755: Hộp quà Baby
+1756: Hộp quà Cađíc
+1757: Hộp quà Cađíc VIP
+1758: Hộp Diêm thống nhất
+1759: Que diêm
+1760: Đeo lưng Kẹo Noel
+1761: Gà Tây Nướng
+1762: CT Baby
+1763: CT Baby Cađíc
+1764: CT Baby Khỉ Lông Vàng
+1765: Mùa đông không lạnh
+1766: Que diêm bùng cháy
+1767: Ván bay Magikarp
+1768: Ván bay rắn
+1769: Bóng sinh nhật NRO
+1770: Bánh sinh nhật NRO 11 tuổi
+1771: Mảnh Khỉ Oozaru
+1772: Đuôi rắn xanh
+1773: Đuôi rắn rực lửa
+1774: Pet rắn cute
+1775: Super Broly SSJ4
+1776: Giỏ Kẹo
+1777: Super Broly RED
+1778: CT Lý Tiểu Nương Rực Rỡ
+1779: Lì xì xanh
+1780: Lì xì vàng
+1781: Lì xì VIP
+1782: Chuột mặp
+1783: Hộp Pet Tết
+1784: Hộp Nón Tết
+1785: 
+1786: Pet cá mặp Koi bốn chân
+1787: Canh khổ qua
+1788: Thịt kho trứng
+1789: MT bay
+1790: 
+1791: Baby Secret
+1792: Baby Rabbit
+1793: Baby Dino
+1794: Baby Panda
+1795: CT Chi Chi
+1796: Hộp mù Bé Ba
+1797: Pet Pikachu
+1798: Pet Squirtle
+1799: Pet Bullbasaur
+1800: Pet Charmander
+1801: Pet Mewtwo
+1802: Pet Meowth
+1803: CT Goku SSJ 4 Red
+1804: CT Kojiro
+1805: CT Musha
+1806: CT Gohan Beast
+1807: CT Vegeta Hè
+1808: Hộp SKH Trái Đất
+1809: Hộp Skh Tân Thủ
+1810: Viên Capsule kì bí
+1811: Hộp Quà Kích hoạt
+1812: Hộp Quà Kích hoạt Tân thủ
+1813: CT BTC3
+1814: Hộp Quà Đeo Lưng
+1815: Hộp Quà Pet
+1816: Hộp Quà Ván bay
+1817: Vé đổi tên
+1818: Thẻ nội tại
+1819: 
+1820: 
+1821: Ngọc tinh hoa
+1822: Đá thanh tẩy
+1823: Ưng dựt C1
+1824: Ưng dựt C2
+1825: Ưng dựt C3
+1826: Ưng dựt C4
+1827: Ưng dựt C5
+1828: Ưng dựt C6
+1829: Ưng dựt C7
+1830: Ưng dựt C8
+1831: Ưng dựt C9
+1832: Ưng dựt C10
+1833: Ưng dựt C11
+1834: Ưng dựt C12
+1835: Ưng dựt C13
+1836: Ưng dựt C14
+1837: Ưng dựt C15
+1838: Ưng dựt C16
+1839: Ưng dựt C17
+1840: Ưng dựt Đế Vương
+1841: Thố thần Lasuna
+1842: Thố thần Kamatsu
+1843: Thố thần Hinatu
+1844: Đá hoá thần
+1845: Đồng xu
+1846: 
+1847: 
+1848: 
+1849: 
+1850: 
+1851: 
+1852: Bình hút năng lượng
+1853: 
+1854: 
+1855: 
+1856: 
+1857: 
+1858: 
+1859: 
+1860: 
+1861: 
+1862: 
+1863: 
+1864: 
+1865: 
+1866: 
+1867: 
+1868: Mảnh vỡ bông tai cấp 3
+1869: Mảnh hồn bông tai 3
+1870: 
+1871: 
+1872: 
+1873: 
+1874: 
+1875: 
+1876: 
+1877: 
+1878: 
+1879: 
+1880: 
+1881: 
+1882: 
+1883: 
+1884: Bông tai Porata 3
+1885: 
+1886: 
+1887: 
+1888: 
+1889: 
+1890: 
+1891: 
+1892: 
+1893: 
+1894: 
+1895: 
+1896: 
+1897: 
+1898: 
+1899: 
+1900: Bình tăng x2 Exp
+1901: Bình tăng x3 Exp
+1902: Bình tăng x4 Exp
+1903: Bình tăng x7 Exp
+1904: Đá nguyền ấn
+1905: Hộp Quà Trung Thu Vàng
+1906: Hộp Quà Trung Thu Ngọc
+1907: 10K Coin
+1908: 1K Coin
+1909: Capsule Bang Hội
+1910: 
+1911: 
+1912: 
+1913: 
+1914: 
+1915: 
+1916: 
+1917: 
+1918: 
+1919: 
+1920: 
+1921: 
+1922: 
+1923: 
+1924: 
+1925: 
+1926: 
+1927: 
+1928: 
+1929: 
+1930: 
+1931: 
+1932: 
+1933: 
+1934: 
+1935: 
+1936: 
+1937: 
+1938: 
+1939: 
+1940: 
+1941: 
+1942: 
+1943: 
+1944: 
+1945: 
+1946: 
+1947: 
+1948: 
+1949: 
+1950: 
+1951: 
+1952: 
+1953: 
+1954: 
+1955: 
+1956: 
+1957: 
+1958: 
+1959: 
+1960: Bông tai
+1961: Bông tai
+1962: 
+1963: 
+1964: 
+1965: 
+1966: 
+1967: 
+1968: 
+1969: 
+1970: 
+1971: 
+1972: 
+1973: 
+1974: 
+1975: Trứng đệ tử thường
+1976: 
+1977: 
+1978: 
+1979: 
+1980: 
+1981: Trứng đệ tử Black
+1982: HỘP QUÀ SKH THẦN LINH V36
+1983: HỘP QUÀ SKH HỦY DIỆT V36
+1984: HỘP QUÀ SKH THIÊN SỨ V36
+1985: 
+1986: Kiếm Z
+1987: Tinh thể
+1988: Đá ngục tù
+1989: Cần câu
+1990: Mồi kiến
+1991: Cá lục
+1992: Cá đĩa lam
+1993: Cá buồm tím
+1994: Cá Koi
+1995: Sao biển xanh
+1996: Cua hoàng đế
+1997: Súp hải sản
+1998: Súp thượng hạng
+1999: Súp thượng hạng
+2000: Hũ kem
+2001: Voi 9 ngà
+2002: Gà 9 cựa
+2003: Ngựa 9 hồng mao
+2004: Mâm bạc
+2005: Mâm vàng
+2006: Mâm lễ vật bạc
+2007: Mâm lễ vật vàng
+2008: Linh thạch
+2009: Hạt dưa
+2010: Hộp quà cải trang
+2011: Thần hoả thạch
+2012: Thần thuỷ thạch
+2013: Chân mệnh Cấp 1
+2014: Chân mệnh Cấp 2
+2015: Chân mệnh Cấp 3
+2016: Chân mệnh Cấp 4
+2017: Chân mệnh Cấp 5
+2018: Chân mệnh Cấp 6
+2019: Chân mệnh Cấp 7
+2020: Chân mệnh Cấp 8
+2021: Chân mệnh Cấp 9
+2022: Đá tinh luyện Cao cấp
+2023: Đá Tẩy tinh luyện Cao cấp
+0: Áo vải 3 lỗ
+1: Áo sợi len
+2: Áo vải thô
+3: Áo vải dày
+4: Áo len Pico
+5: Áo giáp sắt
+6: Quần vải đen
+7: Quần sợi len
+8: Quần vải thô
+9: Quần vải dày
+10: Quần vải thô Pico
+11: Quần giáp sắt
+12: Rada cấp 1
+13: Đậu thần cấp 1
+14: Ngọc Rồng 1 sao
+15: Ngọc Rồng 2 sao
+16: Ngọc Rồng 3 sao
+17: Ngọc Rồng 4 sao
+18: Ngọc Rồng 5 sao
+19: Ngọc Rồng 6 sao
+20: Ngọc Rồng 7 sao
+21: Găng vải đen
+22: Găng sợi len
+23: Găng vải thô
+24: Găng thun đen
+25: Găng len Pico
+26: Găng sắt
+27: Giầy nhựa
+28: Giầy sợi len
+29: Giầy vải thô
+30: Giầy cao su
+31: Giầy nhựa Pico
+32: Giầy sắt
+33: Áo thun 3 lỗ
+34: Áo thun dày
+35: Quần thun đen
+36: Quần thun dày
+37: Găng vải dày
+38: Găng thun dày
+39: Giày nhựa đế dày
+40: Giày cao su đế dày
+41: Áo sợi gai
+42: Áo thun Pico
+43: Quần sợi gai
+44: Quần thun Pico
+45: Găng thun Pico
+46: Găng sợi gai
+47: Giầy sợi gai
+48: Giầy cao su Pico
+49: Áo thun thô
+50: Áo giáp đồng
+51: Quần thun thô
+52: Quần giáp đồng
+53: Găng thun thô
+54: Găng đồng
+55: Giầy cao su thô
+56: Giầy đồng
+57: Rada cấp 2
+58: Rada cấp 3
+59: Rada cấp 4
+60: Đậu thần cấp 2
+61: Đậu thần cấp 3
+62: Đậu thần cấp 4
+63: Đậu thần cấp 5
+64: Đậu thần cấp 6
+65: Đậu thần cấp 7
+66: Sách đấm Dragon lv1
+67: Sách đấm Dragon lv2
+68: Sách đấm Dragon lv3
+69: Sách đấm Dragon lv4
+70: Sách đấm Dragon lv5
+71: Sách đấm Dragon lv6
+72: Sách đấm Dragon lv7
+73: Đùi gà
+74: Đùi gà nướng
+75: Đùi heo Xayda
+76: Vàng
+77: Ngọc
+78: Đứa bé
+79: Sách đấm Demon lv1
+80: Sách đấm Demon lv2
+81: Sách đấm Demon lv3
+82: Sách đấm Demon lv4
+83: Sách đấm Demon lv5
+84: Sách đấm Demon lv6
+85: Truyện tranh
+86: Sách đấm Demon lv7
+87: Sách đấm Galick lv1
+88: Sách đấm Galick lv2
+89: Sách đấm Galick lv3
+90: Sách đấm Galick lv4
+91: Sách đấm Galick lv5
+92: Sách đấm Galick lv6
+93: Sách đấm Galick lv7
+94: Sách Kamejoko lv1
+95: Sách Kamejoko lv2
+96: Sách Kamejoko lv3
+97: Sách Kamejoko lv4
+98: Sách Kamejoko lv5
+99: Sách Kamejoko lv6
+100: Sách Kamejoko lv7
+101: Sách Masenko lv1
+102: Sách Masenko lv2
+103: Sách Masenko lv3
+104: Sách Masenko lv4
+105: Sách Masenko lv5
+106: Sách Masenko lv6
+107: Sách Masenko lv7
+108: Sách Antomic lv1
+109: Sách Antomic lv2
+110: Sách Antomic lv3
+111: Sách Antomic lv4
+112: Sách Antomic lv5
+113: Sách Antomic lv6
+114: Sách Antomic lv7
+115: Thái Dương Hạ San lv1
+116: Thái Dương Hạ San lv2
+117: Thái Dương Hạ San lv3
+118: Thái Dương Hạ San lv4
+119: Thái Dương Hạ San lv5
+120: Thái Dương Hạ San lv6
+121: Thái Dương Hạ San lv7
+122: Sách học Trị thương lv1
+123: Sách học Trị thương lv2
+124: Sách học Trị thương lv3
+125: Sách học Trị thương lv4
+126: Sách học Trị thương lv5
+127: Sách học Trị thương lv6
+128: Sách học Trị thương lv7
+129: Tái tạo năng lượng lv1
+130: Tái tạo năng lượng lv2
+131: Tái tạo năng lượng lv3
+132: Tái tạo năng lượng lv4
+133: Tái tạo năng lượng lv5
+134: Tái tạo năng lượng lv6
+135: Tái tạo năng lượng lv7
+136: Áo vải Kame
+137: Áo thun Kame
+138: Áo võ Kame
+139: Áo võ Goku
+140: Quần vải Kame
+141: Quần thun Kame
+142: Quần võ Kame
+143: Quần võ goku
+144: Găng vải Kame
+145: Găng thun Kame
+146: Găng võ Kame
+147: Găng võ goku
+148: Giày nhựa Kame
+149: Giày cao su Kame
+150: Giày võ kame
+151: Giày võ goku
+152: Áo choàng len
+153: Áo choàng thun
+154: Áo vải Pico
+155: Áo da Pico
+156: Quần len cứng
+157: Quần thun cứng
+158: Quần vải cứng Pico
+159: Quần vải mềm Pico
+160: Găng len cứng
+161: Găng thun cứng
+162: Găng vải Pico
+163: Găng da Pico
+164: Giày nhựa cứng
+165: Giày cao su cứng
+166: Giày da Pico
+167: Giày sắt Pico
+168: Áo giáp bạc
+169: Áo giáp vàng
+170: Áo lông Xayda
+171: Áo khoác Xayda
+172: Quần giáp bạc
+173: Quần giáp vàng
+174: Quần lông Xayda
+175: Quần da Xayda
+176: Găng bạc
+177: Găng vàng
+178: Găng lông Xayda
+179: Găng da Xayda
+180: Giày bạc
+181: Giày vàng
+182: Giày lông Xayda
+183: Giày da Xayda
+184: Rada cấp 5
+185: Rada cấp 6
+186: Rada cấp 7
+187: Rada cấp 8
+188: Vàng
+189: Vàng
+190: Vàng
+191: Cà chua
+192: Cà rốt
+193: Gói 10 viên Capsule
+194: Viên Capsule đặc biệt
+195: Siêu thánh thủy
+196: Avatar
+197: Avatar
+198: Avatar
+199: Avatar
+200: Avatar
+201: Avatar
+202: Avatar
+203: Avatar
+204: Avatar
+205: Avatar
+206: Avatar
+207: Avatar
+208: Avatar
+209: Avatar
+210: Avatar
+211: Nho tím
+212: Nho xanh
+213: Bùa Trí Tuệ
+214: Bùa Mạnh Mẽ
+215: Bùa Da Trâu
+216: Bùa Oai Hùng
+217: Bùa Bất Tử
+218: Bùa Dẻo Dai
+219: Bùa Thu Hút
+220: Đá lục bảo
+221: Đá Saphia
+222: Đá Ruby
+223: Đá Titan
+224: Đá thạch anh tím
+225: Mảnh đá vụn
+226: Bình nước phép
+227: Avatar VIP
+228: Avatar VIP
+229: Avatar VIP
+230: Áo bạc Goku
+231: Áo vàng Goku
+232: Áo da Calic
+233: Áo jean Calic
+234: Áo sắt Tron
+235: Áo đồng Tron
+236: Áo bạc Zealot
+237: Áo vàng Zealot
+238: Áo lông đỏ
+239: Áo siêu xayda
+240: Áo Kaio
+241: Áo lưỡng long
+242: Quần bạc Goku
+243: Quần vàng Goku
+244: Quần da Calic
+245: Quần jean Calic
+246: Quần sắt Tron
+247: Quần đồng Tron
+248: Quần bạc Zealot
+249: Quần vàng Zealot
+250: Quần lông đỏ
+251: Quần siêu Xayda
+252: Quần Kaio
+253: Quần lưỡng long
+254: Găng bạc Goku
+255: Găng vàng Goku
+256: Găng da Calic
+257: Găng jean Calic
+258: Găng sắt Tron
+259: Găng đồng Tron
+260: Găng bạc Zealot
+261: Găng vàng Zealot
+262: Găng lông đỏ
+263: Găng siêu Xayda
+264: Găng Kaio
+265: Găng lưỡng long
+266: Giày bạc Goku
+267: Giày vàng Goku
+268: Giày da Calic
+269: Giày jean Calic
+270: Giày sắt Tron
+271: Giày đồng Tron
+272: Giày bạc Zealot
+273: Giày vàng Zealot
+274: Giày lông đỏ
+275: Giày siêu Xayda
+276: Giày Kaio
+277: Giày lưỡng long
+278: Rada cấp 9
+279: Rada cấp 10
+280: Rada cấp 11
+281: Rada cấp 12
+282: Cải trang
+283: Cải trang
+284: Cải trang
+285: Cải trang
+286: Cải trang
+287: Cải trang
+288: Cải trang
+289: Cải trang
+290: Cải trang
+291: Cải trang
+292: Cải trang
+293: Gói 30 đậu thần cấp 1
+294: Gói 30 đậu thần cấp 2
+295: Gói 30 đậu thần cấp 3
+296: Gói 30 đậu thần cấp 4
+297: Gói 30 đậu thần cấp 5
+298: Gói 30 đậu thần cấp 6
+299: Gói 30 đậu thần cấp 7
+300: Kaioken lv1
+301: Kaioken lv2
+302: Kaioken lv3
+303: Kaioken lv4
+304: Kaioken lv5
+305: Kaioken lv6
+306: Kaioken lv7
+307: Quả cầu Kênh Khi lv1
+308: Quả cầu Kênh Khi lv2
+309: Quả cầu Kênh Khi lv3
+310: Quả cầu Kênh Khi lv4
+311: Quả cầu Kênh Khi lv5
+312: Quả cầu Kênh Khi lv6
+313: Quả cầu Kênh Khi lv7
+314: Hóa khỉ khổng lồ lv1
+315: Hóa khỉ khổng lồ lv2
+316: Hóa khỉ khổng lồ lv3
+317: Hóa khỉ khổng lồ lv4
+318: Hóa khỉ khổng lồ lv5
+319: Hóa khỉ khổng lồ lv6
+320: Hóa khỉ khổng lồ lv7
+321: Bom hi sinh lv1
+322: Bom hi sinh lv2
+323: Bom hi sinh lv3
+324: Bom hi sinh lv4
+325: Bom hi sinh lv5
+326: Bom hi sinh lv6
+327: Bom hi sinh lv7
+328: Makankosappo lv1
+329: Makankosappo lv2
+330: Makankosappo lv3
+331: Makankosappo lv4
+332: Makankosappo lv5
+333: Makankosappo lv6
+334: Makankosappo lv7
+335: Đẻ trứng lv1
+336: Đẻ trứng lv2
+337: Đẻ trứng lv3
+338: Đẻ trứng lv4
+339: Đẻ trứng lv5
+340: Đẻ trứng lv6
+341: Đẻ trứng lv7
+342: Vệ tinh trí lực
+343: Vệ tinh trí tuệ
+344: Vệ tinh phòng thủ
+345: Vệ tinh sinh lực
+346: Cân đẩu vân
+347: Phi Long
+348: Ván bay
+349: Cân đẩu vân VIP
+350: Phi Long VIP
+351: Ván bay VIP
+352: Đậu thần cấp 8
+353: Ngọc Rồng Namek 1 Sao
+354: Ngọc Rồng Namek 2 Sao
+355: Ngọc Rồng Namek 3 Sao
+356: Ngọc Rồng Namek 4 Sao
+357: Ngọc Rồng Namek 5 Sao
+358: Ngọc Rồng Namek 6 Sao
+359: Ngọc Rồng Namek 7 Sao
+360: Ngọc Rồng Namek
+361: Rađa dò Ngọc Rồng Go
+362: Hóa thạch Ngọc Rồng
+363: Tháo cờ
+364: Cờ xanh
+365: Cờ đỏ
+366: Cờ tím
+367: Cờ vàng
+368: Cờ lục
+369: Cờ hồng
+370: Cờ cam
+371: Cờ đen
+372: Ngọc rồng 1 sao đen
+373: Ngọc rồng 2 sao đen
+374: Ngọc rồng 3 sao đen
+375: Ngọc rồng 4 sao đen
+376: Ngọc rồng 5 sao đen
+377: Ngọc rồng 6 sao đen
+378: Ngọc rồng 7 sao đen
+379: Máy dò Capsule kì bí
+380: Viên Capsule kì bí
+381: Cuồng nộ
+382: Bổ huyết
+383: Bổ khí
+384: Giáp Xên bọ hung
+385: Ẩn danh
+386: Nón Noel Xám
+387: Nón Noel Đỏ
+388: Nón Noel Xanh
+389: Nón Noel Xám
+390: Nón Noel Đỏ
+391: Nón Noel Xanh
+392: Nón Noel Xám
+393: Nón Noel Đỏ
+394: Nón Noel Xanh
+395: Nhân vật bí ẩn
+396: Thú cưỡi cực VIP
+397: Hộp quà tết
+398: Hộp quà tết
+399: Thiệp chúc tết
+400: Đặt tên đệ tử
+401: Đổi đệ tử
+402: Nâng cấp kỹ năng 1 đệ tử
+403: Nâng cấp kỹ năng 2 đệ tử
+404: Nâng cấp kỹ năng 3 đệ tử
+405: Cải trang
+406: Cải trang
+407: Cải trang
+408: Cải trang
+409: Cải trang
+410: Cải trang
+411: Cải trang
+412: Avatar
+413: Avatar
+414: Avatar
+415: Avatar
+416: Avatar
+417: Avatar
+418: Avatar
+419: Avatar
+420: Avatar
+421: Cải trang
+422: Cải trang
+423: Cải trang
+424: Cải trang
+425: Cải trang
+426: Cải trang
+427: Cải trang
+428: Cải trang
+429: Cải trang
+430: Cải trang
+431: Cải trang
+432: Cải trang
+433: Cải trang
+434: Khiên năng lượng lv1
+435: Khiên năng lượng lv2
+436: Khiên năng lượng lv3
+437: Khiên năng lượng lv4
+438: Khiên năng lượng lv5
+439: Khiên năng lượng lv6
+440: Khiên năng lượng lv7
+441: Sao pha lê
+442: Sao pha lê
+443: Sao pha lê
+444: Sao pha lê
+445: Sao pha lê
+446: Sao pha lê
+447: Sao pha lê
+448: Cải trang
+449: Cải trang
+450: Cải trang
+451: Cải trang
+452: Cải trang
+453: Chiến thuyền Tennis
+454: Bông tai Porata
+455: Cải trang
+456: Bình nước
+457: Thỏi vàng
+458: Cải trang
+459: Phiếu giảm giá
+460: Cục xương
+461: Cải trang
+462: Củ cà rốt
+463: Cải trang Thỏ đại ca
+464: Cải trang
+465: Bánh Trung Thu 1 trứng
+466: Bánh Trung Thu 2 trứng
+467: Lồng đèn Ông Sao
+468: Lồng đèn Cá chép
+469: Lồng đèn Kéo Quân
+470: Lồng đèn Ông trăng
+471: Lồng đèn Hội An
+472: Bánh Trung Thu Đặc Biệt
+473: Hộp bánh Trung Thu
+474: Sách Biến Sôcôla lv1
+475: Sách Biến Sôcôla lv2
+476: Sách Biến Sôcôla lv3
+477: Sách Biến Sôcôla lv4
+478: Sách Biến Sôcôla lv5
+479: Sách Biến Sôcôla lv6
+480: Sách Biến Sôcôla lv7
+481: Sách Liên hoàn lv1
+482: Sách Liên hoàn lv2
+483: Sách Liên hoàn lv3
+484: Sách Liên hoàn lv4
+485: Sách Liên hoàn lv5
+486: Sách Liên hoàn lv6
+487: Sách Liên hoàn lv7
+488: Sách Dịch Chuyển lv1
+489: Sách Dịch Chuyển lv2
+490: Sách Dịch Chuyển lv3
+491: Sách Dịch Chuyển lv4
+492: Sách Dịch Chuyển lv5
+493: Sách Dịch Chuyển lv6
+494: Sách Dịch Chuyển lv7
+495: Sách Thôi Miên lv1
+496: Sách Thôi Miên lv2
+497: Sách Thôi Miên lv3
+498: Sách Thôi Miên lv4
+499: Sách Thôi Miên lv5
+500: Sách Thôi Miên lv6
+501: Sách Thôi Miên lv7
+502: Sách Trói lv1
+503: Sách Trói lv2
+504: Sách Trói lv3
+505: Sách Trói lv4
+506: Sách Trói lv5
+507: Sách Trói lv6
+508: Sách Trói lv7
+509: Sách Huýt Sáo lv1
+510: Sách Huýt Sáo lv2
+511: Sách Huýt Sáo lv3
+512: Sách Huýt Sáo lv4
+513: Sách Huýt Sáo lv5
+514: Sách Huýt Sáo lv6
+515: Sách Huýt Sáo lv7
+516: Sôcôla
+517: Mở rộng hành trang
+518: Mở rộng rương đồ
+519: Cờ Kaiô
+520: Cờ Mabư
+521: Tự động luyện tập
+522: Bùa Đệ Tử
+523: Đậu thần cấp 9
+524: Cải trang
+525: Cải trang
+526: Cải trang
+527: Cải trang
+528: Cải trang
+529: Giáp tập luyện cấp 1
+530: Giáp tập luyện cấp 2
+531: Giáp tập luyện cấp 3
+532: Quỷ Chim
+533: Kẹo giáng sinh
+534: Giáp tập luyện cấp 1
+535: Giáp tập luyện cấp 2
+536: Giáp tập luyện cấp 3
+537: Chữ giải
+538: Chữ khai
+539: Chữ phong
+540: Chữ ấn
+541: Quả Hồng Đào
+542: Quả Hồng Đào Chín
+543: Vòng Kim Cô
+544: Cải trang
+545: Cải trang
+546: Cải trang
+547: Cải trang
+548: Cải trang
+549: Cải trang
+550: Cải trang
+551: Cải trang
+552: Cải trang
+553: Pháo bông
+554: Siêu Pháo bông x100
+555: Áo Thần Linh
+556: Quần Thần Linh
+557: Áo Thần Namếc
+558: Quần Thần namếc
+559: Áo Thần Xayda
+560: Quần Thần Xayda
+561: Nhẫn Thần Linh
+562: Găng Thần Linh
+563: Giầy Thần Linh
+564: Găng Thần Namếc
+565: Giầy Thần Namếc
+566: Găng Thần Xayda
+567: Giầy Thần Xayda
+568: Quả Trứng
+569: Dưa Hấu
+570: Rương Gỗ
+571: Rương Bạc
+572: Rương Vàng
+573: Capsule Bạc
+574: Capsule Vàng
+575: Cải trang
+576: Cải trang
+577: Cải trang
+578: Cải trang
+579: Đuôi khỉ
+580: Cải trang
+581: Cải trang
+582: Cải trang
+583: Cải trang Póc
+584: Cải trang
+585: Bí ngô
+586: Cải trang
+587: Cải trang
+588: Cải trang
+589: Bông hoa
+590: Bí kiếp
+591: Cải trang Siêu Thần
+592: Cải trang Yardrat
+593: Cải trang Yardrat
+594: Cải trang Yardrat
+595: Đậu thần cấp 10
+596: Gói 30 đậu thần cấp 8
+597: Gói 30 đậu thần cấp 9
+598: Avatar
+599: Avatar
+600: Avatar
+601: Cải trang Hợp Thể
+602: Cải trang Hợp Thể
+603: Cải trang Hợp Thể
+604: Cải trang VIP
+605: Cải trang VIP
+606: Cải trang VIP
+607: Cải trang Chan Xư
+608: Cải trang Lão Cận
+609: Cải trang Xayda
+610: Bông hoa
+611: Bản đồ kho báu
+612: Cải trang Arale
+613: Cải trang Gatchan
+614: Cải trang Obotchaman
+615: Cải trang
+616: Cải trang
+617: Cải trang
+618: Cải trang Luffy
+619: Cải trang Zoro
+620: Cải trang Sanji
+621: Cải trang Brook
+622: Cải trang Chopper
+623: Cải trang Nami
+624: Cải trang Franky
+625: Cải trang Usopp
+626: Cải trang Robin
+627: Capsule quà tặng
+628: Cải trang Hải Tặc
+629: Cải trang Fide vàng
+630: Cải trang Frost 1
+631: Cải trang Frost 2
+632: Cải trang Frost 3
+633: Cải trang Píc
+634: Cải trang King kong
+635: Cải trang Pi láp
+636: Cải trang Mai
+637: Cải trang Su
+638: Bình chứa Commeson
+639: Cải trang Hợp Thể
+640: Cải trang Hợp Thể
+641: Cải trang Hợp Thể
+642: Cải trang ma trơi
+643: Cải trang dơi nhí
+644: Cải trang bộ xương
+645: Cải trang bộ xương
+646: Cải trang bộ xương
+647: Cải trang Saibamen
+648: Hộp quà giáng sinh
+649: Tất,vớ giáng sinh
+650: Áo Hủy Diệt
+651: Quần Hủy Diệt
+652: Áo Hủy Diệt
+653: Quần Hủy Diệt
+654: Áo Hủy Diệt
+655: Quần Hủy Diệt
+656: Nhẫn Hủy Diệt
+657: Găng Hủy Diệt
+658: Giầy Hủy Diệt
+659: Găng Hủy Diệt
+660: Giầy Hủy Diệt
+661: Găng Hủy Diệt
+662: Giầy Hủy Diệt
+663: Bánh Pudding
+664: Xúc xích
+665: Kem dâu
+666: Mì ly
+667: Sushi
+668: Hộp quà Tân Thủ
+669: Dưa Hấu
+670: Cà rốt
+671: Bùa Trí Tuệ x3
+672: Bùa Trí Tuệ x4
+673: Cái nịt
+674: Đá ngũ sắc
+675: Cải trang
+676: Cải trang
+677: Cải trang
+678: Cải trang
+679: Cải trang
+680: Cải trang
+681: Cải trang
+682: Avatar
+683: Avatar
+684: Avatar
+685: Avatar
+686: Avatar
+687: Avatar
+688: Avatar
+689: Avatar
+690: Avatar
+691: Quần đi biển
+692: Quần đi biển
+693: Quần đi biển
+694: Trái dừa
+695: Vỏ ốc
+696: Vỏ sò
+697: Con cua
+698: Sao biển
+699: HP +400K
+700: Sức đánh +20K
+701: KI +400K
+702: Bí ngô 1 sao
+703: Bí ngô 2 sao
+704: Bí ngô 3 sao
+705: Bí ngô 4 sao
+706: Bí ngô 5 sao
+707: Bí ngô 6 sao
+708: Bí ngô 7 sao
+709: Bông hoa
+710: Cải trang
+711: Cải trang
+712: Truy
+713: Bắt
+714: Đại
+715: Vương
+716: Urôn
+717: Bao Lì Xì
+718: Vé tặng ngọc 
+719: Cải trang
+720: Mảnh cải trang
+721: Phiếu giảm giá VIP
+722: Capsule hồng
+723: Bông hồng
+724: Cải trang
+725: Siêu thần thủy
+726: Mảnh giấy có chữ 'MA'
+727: Siêu thần thủy
+728: Siêu thần thủy
+729: Cải trang Hatchiyack
+730: Cải trang Sói Basil
+731: Cải trang Sói Lavender
+732: Cải trang Sói Bergamo
+733: Cân đẩu vân ngũ sắc
+734: Ngọc Thố
+735: Lồng đèn cá chép
+736: Hộp quà 20/11
+737: Capsule Trung Thu
+738: Cải trang Dr Lychee
+739: Cải trang Bill Bí Ngô
+740: Lưỡi hái Thần Chết
+741: Cánh dơi Dracula
+742: Cải trang Caufila Dơi
+743: Chổi bay Phù Thủy
+744: Cột nhà
+745: Bông tuyết
+746: Ván Mãnh Hổ
+747: Cờ xanh dương
+748: Thịt heo
+749: Thúng nếp
+750: Thúng đậu xanh
+751: Lá dong
+752: Bánh tét
+753: Bánh chưng
+754: Nón Chuột may mắn
+755: Nón Chuột may mắn
+756: Nón Chuột may mắn
+757: Túi Canh Tý 2020
+758: Capsule Tết 2022
+759: Nâng cấp kỹ năng 4 đệ tử
+760: Cải trang VIP
+761: Avatar đeo khẩu trang
+762: Avatar đeo khẩu trang
+763: Avatar đeo khẩu trang
+764: Khẩu trang
+765: Cải trang Gohan Bư
+766: Cờ xám
+767: Cờ đen
+768: Cờ xanh lá
+769: Cờ xanh biển
+770: Cờ hồng
+771: Cờ cam
+772: Cờ vàng
+773: Cờ tím
+774: Cờ xanh dạ
+775: Cờ đỏ
+776: Khăn xanh lá
+777: Khăn xanh dương
+778: Khăn vàng
+779: Khăn tím
+780: Khăn nâu
+781: Khăn xám
+782: Khăn đỏ
+783: Khăn hồng
+784: Khăn xanh dạ
+785: Ba lô
+786: Đao
+787: Gậy
+788: Mai rùa
+789: Giỏ bơ
+790: Giỏ dưa hấu
+791: Giỏ củ cải trắng
+792: Giỏ cà rốt
+793: Giỏ chuối
+794: Gậy phép
+795: Ghế bay
+796: Hộp Capsule
+797: Bùa Trí Tuệ
+798: Bùa Mạnh Mẽ
+799: Bùa Da Trâu
+800: Lồng đèn Cô Vy
+801: Lồng đèn Con tàu
+802: Lồng đèn Con gà
+803: Lồng đèn Con bướm
+804: Lồng đèn Đôrêmon
+805: Nón thiên thần
+806: Cải trang Đôrêmon
+807: Ngọc đen 1 sao
+808: Ngọc đen 2 sao
+809: Ngọc đen 3 sao
+810: Ngọc đen 4 sao
+811: Ngọc đen 5 sao
+812: Ngọc đen 6 sao
+813: Ngọc đen 7 sao
+814: Ma trơi
+815: Hồn ma Goku
+816: Hồn ma Ca đíc
+817: Hồn ma Pôcôlô
+818: Capsule Halloween
+819: Cải trang Xuka
+820: Vé quay ngọc đen
+821: Vé quay ngọc vàng
+822: Cây thông
+823: Túi quà
+824: Cải trang Noel
+825: Cải trang Noel
+826: Cải trang Noel
+827: Cải trang Noel
+828: Mảnh Khủng long
+829: Mảnh Lợn lòi
+830: Mảnh Quỷ đất
+831: Mảnh Khủng long mẹ
+832: Mảnh Lợn lòi mẹ
+833: Mảnh Quỷ đất mẹ
+834: Mảnh Thằn lằn bay
+835: Mảnh Phi long
+836: Mảnh Quỷ bay
+837: Mảnh Lính độc nhãn
+838: Mảnh Lính độc nhãn
+839: Mảnh Sói xám
+840: Mảnh Trung úy Trắng
+841: Mảnh Ninja Áo Tím
+842: Mảnh Trung úy Xanh Lơ
+843: Cải trang Trâu vàng
+844: Cải trang Trâu đen
+845: Cải trang Trâu trắng
+846: Nón Trâu may mắn
+847: Nón Trâu may mắn
+848: Nón Trâu may mắn
+849: Pháo Thăng Thiên
+850: Cỏ tươi
+851: Cỏ tươi
+852: Cây trúc
+853: Cải trang Trâu Nâu
+854: Cải trang Trâu Nâu
+855: Cải trang Trâu Nâu
+856: Cải trang Trâu Đốm
+857: Cải trang Trâu Đốm
+858: Cải trang Trâu Đốm
+859: Mảnh Độc Nhãn
+860: Cải trang Mị Nương
+861: Hồng ngọc
+862: Cải trang Nobita
+863: Cải trang Xekô
+864: Cải trang Chaien
+865: Kiếm Z
+866: Avatar
+867: Avatar
+868: Avatar
+869: Capsule 1 sao
+870: Capsule 2 sao
+871: Capsule 3 sao
+872: Avatar Gohan 1
+873: Avatar Gohan 2
+874: Rùa con
+875: Cải trang Cadic
+876: Cải trang Gohan
+877: Cải trang Pocolo
+878: Cải trang Cooler vàng
+879: Cải trang Thống Chế Kilo
+880: Cua rang me
+881: Bạch tuộc nướng
+882: Tôm tẩm bột chiên xù
+883: Cải trang Black Gohan Rose
+884: Cải trang Hit
+885: Cải trang Lích Tên
+886: Trứng vịt muối
+887: Gà quay nguyên con
+888: Bột mì
+889: Đậu xanh
+890: Bánh trung thu Gà quay
+891: Bánh trung thu thập cẩm
+892: Thỏ xám
+893: Thỏ trắng
+894: Avatar
+895: Avatar
+896: Avatar
+897: Rùa phun lửa
+898: Cải trang Zamasu
+899: Kẹo một mắt
+900: Súp bí hắc ám
+901: Kẹo bàn tay
+902: Bánh gato nhện
+903: Hamburger sâu
+904: Cải trang Black Goku SSJ White
+905: Cải trang Siêu Thần Trái Đất
+906: Cải trang Mighty Mask
+907: Cải trang Siêu thần Namếc
+908: Ma phong ba
+909: Thần chết cute
+910: Bí ngô nhí nhảnh
+911: Cải trang Siêu Thần Xayda
+912: Cải trang Gohan áo xanh
+913: Cải trang Póc áo đỏ
+914: Cải trang Búp bê Arale
+915: Capsule Squid Game
+916: Lính bảo vệ tam giác
+917: Lính bảo vệ vuông
+918: Lính bảo vệ tròn
+919: Búp bê
+920: Gậy như ý
+921: Bông tai Porata
+922: Cải trang Goku Noel
+923: Cải trang Pico Noel
+924: Cải trang Radic Noel
+925: Ngọc rồng băng 1 sao
+926: Ngọc rồng băng 2 sao
+927: Ngọc rồng băng 3 sao
+928: Ngọc rồng băng 4 sao
+929: Ngọc rồng băng 5 sao
+930: Ngọc rồng băng 6 sao
+931: Ngọc rồng băng 7 sao
+932: Cải trang Uub
+933: Mảnh vỡ bông tai
+934: Mảnh hồn bông tai
+935: Đá xanh lam
+936: Tuần lộc nhí
+937: Cải trang Mabư Noel
+938: Cải trang Goku thời trang
+939: Cải trang Pôcôlô thời trang
+940: Cải trang Ca Đíc thời trang
+941: Nón Hổ vàng
+942: Hổ mặp vàng
+943: Hổ mặp trắng
+944: Hổ mặp xanh
+945: Cải trang Goku Tarzan
+946: Nón Hổ trắng
+947: Nón Hổ xanh
+948: Cải trang Hổ vàng
+949: Thịt tươi
+950: Thịt tươi
+951: Cải trang Siêu Goku Tarzan
+952: Cải trang Hổ trắng
+953: Cải trang Hổ xanh
+954: Bó Hoa Hồng
+955: Bó Hoa Vàng
+956: Mảnh Đội trưởng Vàng
+957: Cải trang Goku võ sĩ
+958: Cải trang Pôcôlô võ sĩ
+959: Cải trang Cađíc võ sĩ
+960: Cờ trắng
+961: Cờ đen
+962: Capsule thời trang 5 ngày
+963: Capsule thời trang 7 ngày
+964: Sao pha lê
+965: Sao pha lê
+966: Trái bóng
+967: Sao la
+968: Số 7 Goku
+969: Số 11 Gohan
+970: Số 6 Cađíc
+971: Số 2 Krilin
+972: Số 4 Thên Xin Hăng
+973: Số 10 Pôcôlô
+974: Số 1 Mabư
+975: Số 8 Biden
+976: Số 9 Quy lão Kamê
+977: Số 3 Poc
+978: Số 5 Pic
+979: Huy chương đồng
+980: Huy chương bạc
+981: Huy chương vàng
+982: Cúp vàng
+983: Cờ cổ động
+984: Capsule SEA games
+985: Cải trang Chill
+986: Cải trang Chill cấp 2
+987: Đá bảo vệ
+988: Mở rộng túi vàng
+989: S
+990: S
+991: S
+992: Nhẫn thời không sai lệch
+993: Giỏ thức ăn
+994: Vỏ ốc
+995: Cánh Ác Quỷ
+996: Cá heo
+997: Con diều
+998: Diều rồng
+999: Mèo mun
+1000: Xiên cá
+1001: Phóng lợn
+1002: Cá nóc
+1003: Cá bảy màu
+1004: Cá diêu hồng
+1005: Xô cá xanh
+1006: Xô cá vàng
+1007: Ván lướt sóng
+1008: Cua đỏ
+1009: Rương Huyền Bí
+1010: Cải trang Áo vịt cam
+1011: Cải trang Áo trắng hoa
+1012: Cải trang Nón rơm mùa hè
+1013: Kiếm ánh sáng
+1014: Rađa dò ngọc Namếc
+1015: Ngọc rồng Siêu Cấp
+1016: Thuốc mỡ Ipana
+1017: Thuốc mỡ Ipana đặc biệt
+1018: Đá Mài
+1019: Đá Hemetite
+1020: Dùi Đục
+1021: Búa Mjolnir
+1022: Búa Stormbreaker
+1023: Quạt ba tiêu
+1024: Gậy như ý
+1025: Bồ cào
+1026: Nguyệt nha sản
+1027: Quyền trượng
+1028: Dao răng cưa
+1029: Lọ nước phép
+1030: Cờ Hoa đăng
+1031: Cờ Hoa sen
+1032: Giấy màu
+1033: Lời chúc
+1034: Nến
+1035: Khung tre
+1036: Pháo hoa
+1037: Hoa đăng
+1038: Hoa đăng có lời chúc
+1039: Pet Thỏ ốm
+1040: Pet Thỏ mập
+1041: Thỏ hồng Bun ma
+1042: Thỏ đỏ Chi Chi
+1043: Thỏ đen Android 18
+1044: ...
+1045: Đuôi khỉ
+1046: Pet Khỉ Bong Bóng
+1047: Lồng đèn lon
+1048: Áo Thiên Sứ
+1049: Áo Thiên Sứ
+1050: Áo Thiên Sứ
+1051: Quần Thiên Sứ
+1052: Quần Thiên Sứ
+1053: Quần Thiên Sứ
+1054: Găng Thiên Sứ
+1055: Găng Thiên Sứ
+1056: Găng Thiên Sứ
+1057: Giầy Thiên Sứ
+1058: Giầy Thiên Sứ
+1059: Giầy Thiên Sứ
+1060: Nhẫn Thiên Sứ
+1061: Nhẫn Thiên Sứ
+1062: Nhẫn Thiên Sứ
+1063: Avatar Thiên Sứ
+1064: Avatar Thiên Sứ
+1065: Avatar Thiên Sứ
+1066: Mảnh Thiên Sứ(Áo)
+1067: Mảnh Thiên Sứ(Quần)
+1068: Mảnh Thiên Sứ(Giày)
+1069: Mảnh Thiên Sứ(Nhẫn)
+1070: Mảnh Thiên Sứ(Găng)
+1071: Công thức
+1072: Công thức
+1073: Công thức
+1074: Đá nâng cấp cấp 1
+1075: Đá nâng cấp cấp 2
+1076: Đá nâng cấp cấp 3
+1077: Đá nâng cấp cấp 4
+1078: Đá nâng cấp cấp 5
+1079: Đá may mắn cấp 1
+1080: Đá may mắn cấp 2
+1081: Đá may mắn cấp 3
+1082: Đá may mắn cấp 4
+1083: Đá may mắn cấp 5
+1084: Công thức VIP
+1085: Công thức VIP
+1086: Công thức VIP
+1087: Tanjiro
+1088: Inosuke Hashibira
+1089: Inosuke
+1090: Zenitsu
+1091: Nezuko
+1092: Gậy Quy Lão
+1093: Cải Trang Super Caulifla
+1094: 
+Đô Đốc Hải Tinh Vân
+1095: Đô Đốc Hải Long Tinh
+1096: Đô Đốc Hải Vân Tinh 
+1097: CT Khỉ Đột Khổng Lồ
+1098: CT Black Goku
+1099: Cuồng Nộ Siêu Cấp
+1100: Bổ Huyết Siêu Cấp
+1101: Bổ Khí Siêu Cấp
+1102: Giáp Xên Siêu Cấp
+1103: Ẩn Danh Đặc Biệt
+1104: Mèo Kid Lân
+1105: Hộp đồ thiên sứ
+1106: Cải trang Black Goku SSJ 3 White
+1107: Meo
+1108: Hồn Beerus
+1109: Máy dò
+1110: Item Tester
+1111: CT Drabura Băng
+1112: Goku SSJ 4
+1113: CT Hắc Mị Nương
+1114: CT Ma Vương Picolo
+1115: Gogeta SSJ 4
+1116: CT Chichi Võ Đài
+1117: CT Android 21 Majin Form
+1118: Cánh thiên thần 3
+1119: Cây Trúc
+1120: Đám mây
+1121: Bạch Vô Thường
+1122: Hắc Vô Thường
+1123: Hỏa Tiêm Thương
+1124: Lưỡi Hái Hồng
+1125: Khủng Long Hồng
+1126: Cá Chép Xương
+1127: Cánh Thiên Thần - Ác Quỷ
+1128: Pet Heo Bướm
+1129: Quái Vật
+1130: Chó Shiba
+1131: Chim Cánh Cụt
+1132: Pet Godzilla
+1133: Pet KingKong
+1134: Giáp luyện tập cấp 4
+1135: Cải trang Mabư Còm
+1136: Bùa x2 TN, SM đệ tử
+1137: Cỏ bốn lá
+1138: Loa to liên vũ trụ
+1139: Loa to thế giới
+1140: CT Android Tiến Sĩ 21
+1141: CT Black Goku
+1142: CT Black Goku Rose
+1143: Hộp quà Bí Ẩn
+1144: Pet Hải Ly
+1145: Capybara đeo ba lô
+1146: Capybara xì mũi
+1147: DEMO
+1148: Marron
+1149: Chìa khóa vàng
+1150: Rương Thần Bí
+1151: Môtô Bun ma
+1152: Bùa giám định
+1153: Kìm bấm giấy
+1154: Bìa sách
+1155: Cá Chà Bá
+1156: Capsule thời trang 7 ngày
+1157: Capsule  thời trang 5 ngày
+1158: Rađa kho báu
+1159: Rađa phóng xạ
+1160: Đại gia mới nhú
+1161: Nước anh bao
+1162: Đại gia mới nhú
+1163: Trùm ước rồng
+1164: Trùm săn Boss
+1165: Thánh đập đồ +7
+1166: Cao thủ siêu hạng
+1167: Nông dân chăm chỉ
+1168: Ông thần ve chai
+1169: Bị móc sạch túi
+1170: Ăn bám trà xanh
+1171: Chuyên gia lượm nhặt
+1172: Danh hiệu NRO Xưa
+1173: Thánh ở dơ
+1174: KOL
+1175: Gõ đầu trẻ
+1176: Gõ đầu trẻ
+1177: Gõ đầu trẻ
+1178: Danh hiệu X-mas
+1179: Em xinh, em đẹp
+1180: Tay nhanh hơn não
+1181: Sách tuyệt kĩ 1
+1182: Sách tuyệt kĩ 2
+1183: Sách tuyệt kĩ 1
+1184: Sách tuyệt kĩ 2
+1185: Sách tuyệt kĩ 1
+1186: Sách tuyệt kĩ 2
+1187: Cuốn sách cũ
+1188: Trang sách cũ
+1189: Vé tặng ngọc xanh
+1190: Vé tặng ngọc hồng
+1191: Bí kíp tuyệt kỹ
+1192: CT Cadic
+1193: CT Cadic SSJ
+1194: CT Cadic SSJ 2
+1195: CT Cadic SSJ 2 M
+1196: CT Cadic SSJ 3
+1197: CT Cadic SSJ Blue
+1198: Hộp CT Cadic
+1199: Hộp CT Cadic VIP
+1200: Hộp CT Goku Day VIP
+1201: CT Goku
+1202: CT Goku SS2
+1203: CT Goku SSJ3
+1204: CT Goku SSJ God
+1205: CT Goku SSJ Blue
+1206: Mũi cà rốt
+1207: Tảng tuyết
+1208: Tay gỗ
+1209: Khăn choàng
+1210: Người tuyết
+1211: Người tuyết băng giá
+1212: Nón Noel
+1213: CT Super Xayda God
+1214: Cải trang Broly SSJ3
+1215: Chuông
+1216: Quả châu
+1217: Ngôi sao
+1218: Dây kim tuyến
+1219: Móc treo Noel
+1220: Kẹo giáng sinh
+1221: Cải trang Bông Băng Golden
+1222: Pet Santa lùn
+1223: Máy bay trực thăng Noel
+1224: Tuần lộc Machine
+1225: Cải trang Chi Chi tuần lộc
+1226: Cải trang Goku Santa
+1227: Capsule 1 món kích hoạt thường
+1228: Capsule 1 món kích hoạt thường
+1229: Capsule 1 món kích hoạt thường
+1230: CT Broly Basic
+1231: CT Broly SSJ4
+1232: Pet Rắn 2025
+1233: CT Lý Tiểu Nương Áo Dài
+1234: Que diêm bùng cháy
+1235: Ván bay Magikarp
+1236: Rắn bay
+1237: Mảnh Khỉ Oozaru
+1238: Đuôi rắn xanh
+1239: Đuôi rắn rực lửa
+1240: Pet rắn cute
+1241: CT Broly SSJ4
+1242: Cúp trong lòng người hâm mộ
+1243: CT Broly SSJ God
+1244: CT Lý Tiểu Nương Rực Rỡ
+1245: Lì xì xanh
+1246: Lì xì vàng
+1247: Lì xì VIP
+1248: Chuột mặp
+1249: Hộp Pet Tết
+1250: Hộp Nón Tết
+1251: Karin Kid Lân 2025
+1252: Pet cá mặp
+1253: Canh khổ qua
+1254: Thịt kho trứng
+1255: CT Urôn Trư Bát Giới
+1256: Cân Đẩu Vân Thơ Mộng
+1257: Pháo bông
+1258: Pháo bông VIP
+1259: Capsule Tết 2025
+1260: Mèo mun đột biến
+1261: Xí muội Hoa đào
+1262: Xí muội Hoa mai
+1263: Bong bóng heo
+1264: CT Lý Tiểu Nương Rực Rỡ
+1265: Thỏi vàng bay
+1266: Cải trang Thần tài
+1267: Cải trang Thần tài
+1268: Cải trang Thần tài
+1269: Cải trang Goku Dragon
+1270: Cải trang Pôcôlô Dragon
+1271: Cải trang Cađíc Dragon
+1272: Cá chép rồng
+1273: Thanh Long Yển Nguyệt đao
+1274: Cờ bao lì xì
+1275: Cờ dây pháo
+1276: Mảnh Khỉ Oozaru 1
+1277: Mảnh Khỉ Oozaru 2
+1278: Mảnh Khỉ Oozaru
+1279: 
+1280: Cải Trang Black Goku
+1281: Goku bay
+1282: Mây mưa
+1283: CT Kirin múa lân
+1284: Tàu ngầm 19 Cam
+1285: Cánh thiên thần
+1286: Kẻ thao túng sói
+1287: Nước anh bao
+1288: Chiến thần khóa nick
+1289: Đại gia mới nhú
+1290: Trùm ước rồng
+1291: Trùm săn Boss
+1292: Thánh đập đồ +7
+1293: Cao thủ siêu hạng
+1294: Nông dân chăm chỉ
+1295: Ông thần ve chai
+1296: Bị móc sạch túi
+1297: Ăn bám trà xanh
+1298: Chuyên gia lượm nhặt
+1299: Fan cứng
+1300: Thánh ở dơ
+1301: Baby Secret
+1302: Baby Rabbit
+1303: Baby Dino
+1304: Baby Panda
+1305: Hộp mù Bé Ba
+1306: Đất trồng cây
+1307: Sôcôla Trái Tim
+1308: Hoa hồng giấy
+1309: Túi hạt giống Hoa Hồng
+1310: Thiệp mừng 8-3
+1311: Nơ trang trí
+1312: Ống tre nước
+1313: Hộp đựng quà
+1314: Hộp quà nhẹ nhàng
+1315: Hộp quà chỉn chu
+1316: CT Bunma Rider
+1317: Máy bay 41
+1318: Baby Mắt Long Lanh
+1319: Baby Mắt Rưng
+1320: CT Goku SSJ 4 Red
+1321: Hộp mù Bé Ba VIP
+1322: Chậu đất
+1323: Thuốc tăng trưởng
+1324: Hộp thần linh
+1325: VIP 01
+1326: VIP 02
+1327: VIP 03
+1328: Pet cá mặp
+1329: 1 sao
+1330: 2 sao
+1331: 3 sao
+1332: 4 sao
+1333: 5 sao
+1334: 6 sao
+1335: 7 sao
+1336: Super
+1337: CT Chi Chi Hoa Hồng Xanh
+1338: Rađa ngọc rồng
+1339: Rađa ngọc rồng VIP
+1340: Coin 10K VNĐ
+1341: Coin 8K VNĐ
+1342: Capsule Bang Hội
+1343: Nước mía khổng lồ
+1344: Nước mía thơm
+1345: Nước mía sầu riêng
+1346: Que kem
+1347: Kem trái cây
+1348: Ván Bay Bọ
+1349: Hoa hồng vàng
+1350: Hoa hồng đỏ
+1351: Cây nắp ấp
+1352: Rùa phun lửa
+1353: Ván Bay té nước
+1354: Khúc mía
+1355: Nước Đá
+1356: Pet cá mập đù
+1357: Bình x3 tn,sm
+1358: Bình x5 tn,sm
+1359: Bình x7 tn,sm
+1360: CT Poc Hè
+1361: CT Pic Hè
+1362: CT King Kong Hè
+1363: Rương Đá
+1364: Đá KI
+1365: Đá SMTN
+1366: Đá SĐ
+1367: Đá SDCM
+1368: Đá HP
+1369: 
+1370: 
+1371: 
+1372: 
+1373: 
+1374: 
+1375: 
+1376: 
+1377: 
+1378: 
+1379: Vé điểm đường tăng
+1380: Vé điểm xên
+1381: Đổi chiêu 2 đệ tử
+1382: Đổi chiêu 3 đệ tử
+1383: Đổi chiêu 4 đệ tử
+1384: Mãng cầu
+1385: Quả dừa
+1386: Đu đủ
+1387: Trái Xoài
+1388: Trái Sung
+1389: Bao Lì Xì Mèo
+1390: Mâm Ngũ Quả
+1391: Gói quà đặc biệt
+1392: Gõ đầu trẻ
+1393: Gõ đầu trẻ
+1394: Gõ đầu trẻ
+1395: Phiếu bé ngoan
+1396: Quả Trứng
+1397: Bùa TNSM Đệ tử
+1398: Vip 1
+1399: Vip 2
+1400: Vip 3
+1401: Mùa Đông Không Lạnh
+1402: Bất CMN Bại
+1403: Trùm Cuối
+1404: Fan Nữa Mùa
+1405: Fan Cứng
+1406: Youtube
+1407: Top Server
+1408: Bất Phục
+1409: Danh hiệu Top 1
+1410: Danh hiệu Top 2
+1411: Danh hiệu Top 3
+1412: Top 4
+1413: Rìu sơn tinh
+1414: Giáo thủy tinh
+1415: Mị Hoàng Kim
+1416: Vua Vegeta
+1417: Thú cưỡi Rồng Thiêng
+1418: Rồng nhí 1 sao
+1419: Rồng nhí 2 sao
+1420: Rồng nhí 3 sao
+1421: Rồng nhí 4 sao
+1422: Rồng nhí 5 sao
+1423: Rồng nhí 6 sao
+1424: Rồng nhí 7 sao
+1425: Trứng Rồng Nhí
+1426: Trứng Vàng Rồng Nhí
+1427: Mảnh Trứng Rồng Nhí
+1428: Hộp quà giỗ tổ
+1429: Hộp quà giỗ tổ cao cấp
+1430: Vé riêng tư
+1431: Cải trang Sơn Tinh
+1432: Cải trang Thủy Tinh
+1433: Ván bay Rồng Thiêng VIP
+1434: Cơm nếp
+1435: Bánh dầy
+1436: Bánh chưng Lang Liêu
+1437: Chả lụa
+1438: Muối tiêu
+1439: Cơm nếp
+1440: Bột gạo
+1441: Đậu xanh
+1442: Thịt tươi
+1443: Ngà voi
+1444: Cựa gà
+1445: Hồng mao
+1446: Bản đồ truyền thuyết
+1447: Pet Voi Chín Ngà
+1448: Pet Gà Chín Cựa
+1449: Pet Ngựa Chín Hồng mao
+1450: Tay Nhanh Hơn Não
+1451: Hộp Cải Trang Hit
+1452: Capsule Next Nhiệm Vụ Nappa
+1453: Capsule Next Nhiệm Vụ  TDST
+1454: Hộp Cải Trang Hit VIP
+1455: Hộp Cải Trang Hit Boss
+1456: 
+1457: Danh hiệu X-mas
+1458: CT Pôcôlô Daima
+1459: Pet Thỏ Phục Sinh
+1460: Rađa đa năng
+1461: CT Gohan Beast
+1462: Máy Bay chiến đấu
+1463: Máy Bay Xám
+1464: Vé nhiệm vụ tháng vip
+1465: Cuốn chả giò
+1466: Chai Cuke 2 lít
+1467: Hộp 1 món kích hoạt VIP
+1468: Hộp 1 món kích hoạt VIP
+1469: Hộp 1 món kích hoạt VIP
+1470: Mẹ Rồng
+1471: Thỏi vàng ( khóa )
+1472: Hộp 1 món SKH Siêu Vip Trái Đất
+1473: Hộp 1 món SKH Siêu Vip Namec
+1474: Hộp 1 món SKH Siêu Vip Xayda
+1475: Quả Trứng Beerus
+1476: Rada Picolo Daima
+1477: Hộp 1 món SKH Siêu Vip
+1478: 
+1479: CT Goku SSJ 4 nhí
+1480: Cải trang Cađíc đi biển
+1481: Cải trang Bun ma đi biển
+1482: Tayaki
+1483: Kẹo táo
+1484: Kem que đôi
+1485: Mochi
+1486: Râu bạch tuộc nướng
+1487: Mì ramen
+1488: Ông Trùm Flex
+1489: Cải trang Gogeta SSJ Blue
+1490: Cải trang Vegito SSJ Blue
+1491: Cải trang Super Pôcôlô
+1492: Bông tai Porata
+1493: Mảnh vỡ bông tai +3
+1494: Bông tai Porata 4
+1495: Mảnh vỡ bông tai +4
+1496: Đá Tinh Vân
+1497: Bánh dẻo thỏ hồng
+1498: Bánh dẻo thỏ trắng
+1499: Bánh dẻo thỏ xanh
+1500: Ánh trăng tròn
+1501: 
+1502: 
+1503: Lồng đèn treo
+1504: Hạt sen
+1505: Pet Minion
+1506: Phượng hoàng lửa
+1507: Cờ mèo Hoàng Thượng
+1508: Bóng khí Gas
+1509: Cờ khỉ hoàng đế
+1510: Bánh trung thu Gà quay
+1511: Bánh trung thu Thập cẩm
+1512: Bánh trung thu Hạt sen
+1513: 
+1514: Em xinh, em đẹp
+1515: Trực thăng Xanh
+1516: Trực thăng Vàng
+1517: Ván bay Cá Đuối VIP
+1518: Trứng Dái Jiren
+1519: Trứng Dái Black
+1520: Mảnh trứng Ubu
+1521: Trứng Dái Ubu
+1522: Pet Pikachu
+1523: Pet Squirtle
+1524: Pet Charmander
+1525: Pet Bullbasaur
+1526: Pet MewTwo
+1527: Cải trang Kochiro
+1528: Cải trang Musashi
+1529: Pet Meowth
+1530: Quả cầu Poke
+1531: Quả cầu Ultra
+1532: Quả cầu Master
+1533: Thú cưỡi Lugia
+1534: Cờ quả cầu Pokemon
+1535: Danh hiệu BXH
+1536: Cải Trang Super Black Goku
+1537: 
+1538: Danh hiệu NRO Xưa
+1539: Danh hiệu 2/9
+1540: Thú cưỡi rồng thần
+1541: Thú cưỡi rồng xanh
+1542: Thú cưỡi rồng đen
+1543: Thú cưỡi rồng omega
+1544: Thú cưỡi khủng long bay
+1545: Thú cưỡi rồng lửa VIP
+1546: cái lồn k lông
+1547: Cờ Quốc Khánh
+1548: Cờ Việt Nam
+1549: Tân Thủ Nro Xưa
+1550: Mảnh Rồng thần Namếc
+1551: Chân Mệnh Saiyan Tân Binh 
+1552: Chân Mệnh Saiyan Hạ Cấp 
+1553: Chân Mệnh Saiyan Trung Cấp 
+1554: Chân Mệnh Saiyan Thượng Cấp 
+1555: Chân  Mệnh  Siêu Saiyan
+1556: Chân Mệnh Siêu Saiyan 2 
+1557: Chân Mệnh Siêu Saiyan 3
+1558: Chân Mệnh Siêu Saiyan Thần 
+1559: Chân Mệnh Bản Năng Vô Cực
+1560: Đá Hoàng Kim
+1561: Gấu Dâu
+1562: Chi Chi Áo Cưới
+1563: Cải Trang Pan
+1564: Bó Hoa Cưới
+1565: Đeo lưng Cú con cưng
+1566: Cải trang Ác Ma Picolo
+1567: Cánh thiên thần sa ngã
+1568: Pet Ma tốc độ
+1569: Pet Kirby
+1570: Bư tập tạ ( đệ 2 )
+1571: Cải trang Arale
+1572: Cờ đeo lưng cớt hồng
+1573: Cải trang Goku giỗ tổ
+1574: Cải trang Chi Chi giỗ tổ
+1575: Cánh hào khí
+1576: Cải trang Gohan chiến binh
+1577: Đá Linh Hồn
+1578: Đá Hiện Thực
+1579: Đá Sức Mạnh
+1580: Đá Không Gian
+1581: Đá Thời Gian
+1582: Cải trang Videl chiến binh
+1583: Giáp tập luyện cấp 5
+1584: Cải trang Goku cận vô cực
+1585: Pet Mèo thần tài
+1586: Cải trang Goku vô cực
+1587: Phá cỗ trung thu
+1588: Chiến binh sao đen
+1589: Danh hiệu Đón Xuân
+1590: Danh hiệu Fan Cứng
+1591: Mảnh Goku Ultra
+1592: Mảnh Vegeta Ugo
+1593: Mảnh Picolo Orange
+1594: Cải trang Goku GT
+1595: Goku Super Saiyan 1
+1596: Goku Super Saiyan 2
+1597: Goku Super Saiyan 3
+1598: Goku Super Saiyan Blue
+1599: Biến Hình lv1
+1600: Biến Hình lv2
+1601: Biến Hình lv3
+1602: Biến Hình lv4
+1603: Biến Hình lv5
+1604: Biến Hình lv6
+1605: Biến Hình lv1
+1606: Biến Hình lv2
+1607: Biến Hình lv3
+1608: Biến Hình lv4
+1609: Biến Hình lv5
+1610: Biến Hình lv6
+1611: Biến Hình lv1
+1612: Biến Hình lv2
+1613: Biến Hình lv3
+1614: Biến Hình lv4
+1615: Biến Hình lv5
+1616: Biến Hình lv6
+1617: Máy dò Ngọc rồng sự kiện
+1618: Hòm Halloween
+1619: Giỏ đựng ngọc bí
+1620: Giấy trang trí Halloween
+1621: Giỏ đựng kẹo trái bí
+1622: Túi mù Halloween
+1623: Hộp Kẹo Ma Quỷ
+1624: Thẻ gia hạn Mầm
+1625: 
+1626: 
+1627: 
+1628: 
+1629: 
+1630: 
+1631: 
+1632: 
+1633: 
+1634: 
+1635: 
+1636: 
+1637: 
+1638: 
+1639: 
+1640: 
+1641: 
+1642: 
+1643: 
+1644: 
+1645: 
+1646: 
+1647: 
+1648: 
+1649: 
+1650: 
+1651: 
+1652: 
+1653: 
+1654: 
+1655: 
+1656: 
+1657: 
+1658: 
+1659: 
+1660: 
+1661: 
+1662: 
+1663: 
+1664: 
+1665: 
+1666: 
+1667: 
+1668: 
+1669: 
+1670: 
+1671: 
+1672: 
+1673: 
+1674: 
+1675: 
+1676: 
+1677: 
+1678: 
+1679: 
+1680: 
+1681: 
+1682: 
+1683: 
+1684: 
+1685: 
+1686: 
+1687: 
+1688: 
+1689: 
+1690: 
+1691: 
+1692: 
+1693: 
+1694: 
+1695: 
+1696: 
+1697: 
+1698: 
+1699: 
+1700: Biến hình Picolo 1
+1701: Biến hình Picolo 2
+1702: Biến hình Picolo 3
+1703: Biến hình Picolo 4
+1704: Biến hình Picolo 5
+1705: Biến hình Picolo 6
+1706: Biến hình Vegeta 1
+1707: Biến hình Vegeta 2
+1708: Biến hình Vegeta 3
+1709: Biến hình Vegeta 4
+1710: Biến hình Vegeta 5
+1711: Biến hình Vegeta 6
+1712: Biến hình Goku 1
+1713: Biến hình Goku 2
+1714: Biến hình Goku 3
+1715: Biến hình Goku 4
+1716: Biến hình Goku 5
+1717: Biến hình Goku 6
+1718: 
+1719: 
+1720: 
+1721: 
+1722: 
+1723: 
+1724: 
+1725: 
+1726: 
+1727: 
+1728: 
+1729: 
+1730: 
+1731: 
+1732: 
+1733: 
+1734: 
+1735: 
+1736: 
+1737: 
+1738: 
+1739: 
+1740: 
+1741: 
+1742: 
+1743: 
+1744: 
+1745: 
+1746: 
+1747: 
+1748: 
+1749: 
+1750: 
+1751: 
+1752: 
+1753: 
+1754: 
+1755: 
+1756: 
+1757: 
+1758: 
+1759: 
+1760: 
+1761: 
+1762: 
+1763: 
+1764: 
+1765: 
+1766: 
+1767: 
+1768: 
+1769: 
+1770: 
+1771: 
+1772: 
+1773: 
+1774: 
+1775: 
+1776: 
+1777: 
+1778: 
+1779: 
+1780: 
+1781: 
+1782: 
+1783: 
+1784: 
+1785: 
+1786: 
+1787: 
+1788: 
+1789: 
+1790: 
+1791: 
+1792: 
+1793: 
+1794: 
+1795: 
+1796: 
+1797: 
+1798: 
+1799: 
+1800: 
+1801: 
+1802: 
+1803: 
+1804: 
+1805: 
+1806: 
+1807: 
+1808: 
+1809: 
+1810: 
+1811: 
+1812: 
+1813: 
+1814: 
+1815: 
+1816: 
+1817: 
+1818: 
+1819: 
+1820: 
+1821: 
+1822: 
+1823: 
+1824: 
+1825: 
+1826: 
+1827: 
+1828: 
+1829: 
+1830: 
+1831: 
+1832: 
+1833: 
+1834: 
+1835: 
+1836: 
+1837: 
+1838: 
+1839: 
+1840: 
+1841: 
+1842: 
+1843: 
+1844: 
+1845: 
+1846: 
+1847: 
+1848: 
+1849: 
+1850: 
+1851: 
+1852: 
+1853: 
+1854: 
+1855: 
+1856: 
+1857: 
+1858: 
+1859: 
+1860: 
+1861: 
+1862: 
+1863: 
+1864: 
+1865: 
+1866: Lục Hỏa Ma Long
+1867: Kim Sí Thiên Long
+1868: Pet Thỏ Đi Học
+1869: Đổi đệ tử 2
+1870: Bình hút năng lượng
+1871: Năng lượng E10
+1872: Pet ma dơi
+1873: Cải Trang Tiểu Thư Malfoy
+1874: Cải Trang công chúa quỷ Melee
+1875: Cờ đeo lưng 3 con ma
+1876: Hộp Mở 1 Món SKH Random
+1877: Mảnh Khỉ Đột Huyền Thoại
+1878: Cày Quốc
+1879: Tết Nguyên Đán
+1880: Chịt nát lồn em
+1881: NYC là đồ con chó
+1882: Cải Trang Bunma bụi
+1883: Cải Trang Lý Tiểu Nương đường phố
+1884: Cải Trang Póc đường phố
+1885: Bóng mờ hoa hồng băng
+1886: Bóng mờ hoa hồng đỏ
+1887: Cải trang Vegeta Ego
+1888: Mảnh Thẻ VIP
+1889: Đeo Lưng Bông Tuyết
+1890: Hộp SKH Thần Linh Tự Chọn
+1891: Hộp Mở 1 Món SKH Random
+1892: Perfect Title
+1893: Hộp nâng cấp đồ thiên sứ
+1894: Trăng tròn
+1895: Trăng khuyết
+1896: Cải trang Berus
+1897: Lồng Đèn Đoremon VIP
+1898: Lồng đèn Thỏ trắng
+1899: Lệnh Bài
+1900:  Ánh Trăng Tròn
+1901: Thỏ Ngọc
+1902: Capsule 1 món kích hoạt thường
+1903: Khoáng tái chế
+1904: Capsule Vỡ
+1905: Rác
+1906: Cải trang ChiChi Hồng Nguyệt
+1907: Lồng Đèn Kéo Quân NRO
+1908: Chú Bé Rồng
+1909: Cánh thiên thần 3 (Đệ)
+1910: Pet Xên Bọ Hung con
+1911: Yêu quái núi lăng lăng
+1912: Ván bay NRO GO
+1913: Cải Trang Nappa Aura
+1914: Pet Ngựa Gỗ
+1915: Pet Chú Hề
+1916: Thùng Rác
+1917: Cải trang Chiến Binh Vegito
+1918: Cải trang BCT4 Namec
+1919: Cải trang BCT4 Trái đất
+1920: Cải trang BCT4 Xayda
+1921: Pet Xên Bọ Hung  Hoàn Thiện
+1922: Hắc Nguyệt Liêm
+1923: Xích Viêm Thánh Kiếm
+1924: Phượng Hoàng Song Dực
+1925: Thiên Lam Thần Kiếm
+1926: Người Dẫn Hồn
+1927: Cải trang Trần Hà Linh
+1928: Hoa Hồng Đoạt Mệnh
+1929: Huyết Long Kiếm
+1930: Nông Dân Cày Chay
+1931: Trùm Săn Boss
+1932: Ván bay Thiên điểu
+1933: Ván bay World Cup 2026
+1934: Ván bay Sao băng
+1935: Vé đổi tên
+1936: Hào quang Thiên Lam
+1937: Kiếm Red
+1938: Cải trang Jiren
+1939: Trượng Địa Ngục
+1940: Cánh Huyễn Tím
+1941: Cánh Thiên Hỏa
+1942: Kiếm ánh sáng
+1943: Cánh Gold
+1944: Cánh Đỏ Rực
+1945: Kiếm Thánh
+1946: Zamasu Thiên Sứ
+1947: Goku Evil V1
+1948: Xicor Evill
+1949: Goku Evil
+1950: Ngọc Rồng Zeno 1 sao
+1951: Ngọc Rồng Zeno 2 sao
+1952: Ngọc Rồng Zeno 3 sao
+1953: Ngọc Rồng Zeno 4 sao
+1954: Ngọc Rồng Zeno 5 sao
+1955: Ngọc Rồng Zeno 6 sao
+1956: Ngọc Rồng Zeno 7 sao
+1957: Ván Đám Mây VIP
+1958: Ván Thiên Ưng
+1959: Hộp Ngọc Rồng Băng
+1960: Cần Thủ Gà
+1961: Đại Gia Mới Nhú
+1962: Pet Cửu Vĩ
+1963: Kiếm Z
+1964: Cánh Thời Không
+1965: Kim Cô Bổng
+1966: Cải trang Thượng Huyền Tam
+1967: Cải trang Zeno
+1968: Cải trang Sasuke Uchiha
+1969: Cải trang Naruto Uzumaki
+1970: Pet Ngựa Sắt
+1971: Pet Xên Bọ Hung Max
+1972: Pet Ngựa
+1973: Pet Cậu Vàng
+1974: Cải trang Black Fide
+1975: Cải trang Thỏ Đen Android 18
+1976: Pet Cận vệ Zeno
+1977: Ván bay Phượng Hoàng Lửa
+1978: Thú cưỡi Mãnh Sư
+1979: Pet Xe Lửa
+1980: Cải trang Broly
+1981: Cải trang Mabuu
+1982: Cải trang Goku Black White
+1983: Cải trang Zozo
+1984: Zeno San
+1985: Zeno Xayda
+1986: Zeno Trái đất
+1987: Zeno Namec
+1988: Cải trang Goku SSJ4 Wuko
+1989: Cải trang Goku SSJ5
+1990: Cải trang Thỏ Nứng
+1991: Vàng Ngọc Thả Ga
+1992: TOP 3 NẠP
+1993: TOP 2 NẠP
+1994: TOP 1 NẠP
+1995: Chí Tôn
+1996: Độc Cô Cầu Bại
+1997: Chiến Binh Mùa Đông
+1998: Lọ Thánh
+1999: Ngọc Rồng Go
+2000: Hộp bánh Trung Thu lớn
+2001: Hộp bánh Trung Thu nhỏ
+2002: Hộp bánh Trung Thu 2026
+2003: Hộp bánh Trung Thu chay
+2004: Hộp bánh Trung Thu VIP 2026
+2005: Năng lượng tà ác
+2006: Hộp đen bí ẩn
+2007: Trứng Xên Vàng
+2008: Bóng mờ trung thu
+2009: Mũi khoan siêu cấp
+2010: Trứng ve sầu
+2011: Sao pha lê ánh kim
+2012: Cần câu tre
+2013: Cần câu sắt
+2014: Cần câu bạc
+2015: Cần câu vàng
+2016: Cần câu kim cương
+2017: Mồi câu
+2018: Mồi câu thơm
+2019: Cá rô phi
+2020: Cá hồng
+2021: Cua biển xanh
+2022: Cá ngũ sắc
+2023: Cá mú tím
+2024: Cua hoàng đế
+2025: Cá heo hồng
+2026: Cá chép vàng
+2027: Cá xương quỷ
+2028: Long ngư thần
+2029: Rương câu cá
+2030: Hoa hồng 20/10
+2031: Hoa cúc 20/10
+2032: Hoa tulip 20/10
+2033: Bó hoa 20/10
+2034: Kẹo bí ngô
+2035: Hộp Halloween
+2036: 
+2037: 
+2038: 
+2039: 
+2040: 
+2041: 
+2042: 
+2043: 
+2044: 
+2045: 
+2046: Linh thú Rồng Lửa
+2047: Trứng linh thú
+2048: Thức ăn linh thú
+2049: Linh thú Hắc Phượng
+2050: Linh thú Băng Tinh
+2051: Linh thú Hỏa Sư
+2052: Linh thú Kiếm Miêu
+2053: Linh thú Lục Vương
+2054: Linh thú Băng Long
+2055: Linh thú Thánh Kiếm
+2056: Bùa Đệ Tử Mabư
+2057: Phấn trắng 20/11
+2058: Sách cũ 20/11
+2059: Bó hoa tri ân 20/11
+2060: Pet Robot
+2061: Lá trà tươi
+2062: Nia tre
+2063: Que tre
+2064: Hoa cúc
+2065: Túi trà khô
+2066: Hộp trà
+2067: Hộp trà hoa cúc
+2068: Bao bì thiệp
+2069: Mảnh giấy
+2070: Keo dán
+2071: Lời chúc
+2072: Thiệp chúc thường
+2073: Thiệp chúc đặc biệt
+2074: Kéo tỉa hoa
+2075: Đóa hoa hồng
+2076: Sách giáo khoa
+2077: Bụi hoa hồng
+2078: Hộp quà 20-11
+2079: Kéo tỉa hoa đặc biệt
+2080: Giỏ hoa 20/11
+2081: Giấy tốt nghiệp
+2082: Pet Capybara hồng
+2083: Pet Khủng Long ngok
+2084: Cánh Ác Quỷ Đỏ
+2085: Cánh Thiên Thần Ánh Tím
+2086: Cánh Hắc Ám
+2087: Rồng Băng
+2088: Khiên Tử Long
+2089: Rồng Tím
+2090: Bó Hoa Rực Rỡ
+2091: Búa Gấu Trúc
+2092: Búa Mèo Vàng
+2093: Thiên Thạch Lửa
+2094: Chồng Sách Bay
+2095: Búa Heo Hồng
+2096: Ô Vàng
