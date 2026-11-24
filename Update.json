@@ -1,6 +1,6 @@
 {
-  "Version": "3.0",
-  "Notification": "Thêm map+ gom item.",
+  "Version": "4.0",
+  "Notification": "Sửa Map, khu, sửa các chức năng trên QLTK tự động áp dụng vào game(không cần thoát acc), thêm check Proxy Die và Live",
   "Update": [
     {
       "Name": "TOOLPVT.exe",
